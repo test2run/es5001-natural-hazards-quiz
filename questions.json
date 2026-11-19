@@ -247,6 +247,11 @@
    "id": "w13e",
    "week": 13,
    "name": "Peatlands"
+  },
+  {
+   "id": "xw",
+   "week": "Cross-week",
+   "name": "Connecting hazards across the course"
   }
  ],
  "questions": [
@@ -8023,6 +8028,374 @@
    ],
    "takeaway": "Keep peat wet to keep its carbon locked away.",
    "source": "W13 p38–43"
+  },
+  {
+   "id": "q339",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "What links earthquakes induced by wastewater injection with landslides triggered by heavy rain?",
+   "options": [
+    "Water dissolves the rock, removing material that held it in place",
+    "Water cools the rock, which shrinks and cracks along weak surfaces",
+    "Added water weight crushes rock, forming brand-new faults and slopes",
+    "Raised fluid pressure cuts friction, letting faults or slopes slip"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Neither case is explained by dissolving rock in the notes.",
+    "Cooling and shrinking is not the mechanism in either case.",
+    "Injection lets existing faults slip; it does not crush rock into new faults.",
+    "Correct. Injected fluid raises underground pressure so existing faults slip; rain raises pore fluid pressure in slopes, reducing friction. The same principle drives both."
+   ],
+   "takeaway": "Higher fluid pressure reduces friction, triggering both induced earthquakes and landslides.",
+   "source": "W3 p33; W7 p21"
+  },
+  {
+   "id": "q340",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Storm surges and tsunamis both flood coasts. Which statement correctly contrasts them?",
+   "options": [
+    "Both come from seafloor movement, but surges happen only in shallow coastal water",
+    "Surge comes from storm winds and low pressure; a tsunami from water displacement",
+    "Both come from storm winds, but tsunamis form only when the tide is at its highest",
+    "Surge comes from sudden water displacement; a tsunami from storm winds and low pressure"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Storm surges are caused by the storm, not by seafloor movement.",
+    "Correct. Storm surge is water piled up by onshore winds and raised by low pressure in a storm; a tsunami comes from sudden displacement of a large volume of water, by earthquakes, landslides or eruptions.",
+    "Tsunamis are not caused by storm winds.",
+    "The causes are swapped."
+   ],
+   "takeaway": "Surge = storm winds + low pressure; tsunami = sudden displacement of water.",
+   "source": "W3 p48; W10 p32; W11 p13"
+  },
+  {
+   "id": "q341",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Why can a cyclone's landfall be forecast days ahead, while an earthquake warning gives only seconds?",
+   "options": [
+    "Cyclones send out early seismic waves, while earthquakes have no waves to detect at all",
+    "Cyclones are huge and slow to move, while earthquake warnings rely on the P–S wave gap",
+    "Cyclones form near dense instrument networks, while earthquakes occur far out at sea",
+    "Cyclones always follow fixed tracks, while earthquakes strike at entirely random places"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Earthquakes, not cyclones, produce seismic waves; that is what early warning uses.",
+    "Correct. Large, slow cyclones can be tracked by satellite for days. Earthquake early warning can only use the short time between fast P waves and damaging S and surface waves.",
+    "Cyclones form over open ocean and are tracked by satellite; earthquakes occur on land and at sea.",
+    "Cyclone tracks vary and must be monitored."
+   ],
+   "takeaway": "Warning time depends on the hazard: days for slow cyclones, seconds for earthquakes.",
+   "source": "W4 p52–54; W10 p42–43"
+  },
+  {
+   "id": "q342",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A coastal city lies inland of an oceanic trench where an oceanic plate subducts beneath a continent. Which set of geohazards should it plan for?",
+   "options": [
+    "Only gentle basaltic lava flows and slow creep on nearby hillslopes",
+    "Normal-fault earthquakes and rift volcanism as the continent splits",
+    "Hotspot eruptions and earthquakes on transform faults off the coast",
+    "Megathrust earthquakes, tsunamis and explosive volcanoes in the arc"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Subduction zones are far more hazardous than this; arc volcanoes are often explosive.",
+    "Normal faulting and rift volcanism belong to divergent settings.",
+    "Hotspots and transforms are not the defining hazards of a subduction margin.",
+    "Correct. Subduction zones host great thrust earthquakes that can generate tsunamis, and water released from the slab feeds arc volcanoes, which tend to erupt viscous magma explosively."
+   ],
+   "takeaway": "Subduction margins combine megathrust earthquakes, tsunamis and explosive arc volcanoes.",
+   "source": "W2 p37, p77; W3 p49; W5 p11–23"
+  },
+  {
+   "id": "q343",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "During a megathrust earthquake, the land along one stretch of coast subsides. How does this change its future coastal flood risk?",
+   "options": [
+    "Relative sea level falls there, so tides and surges no longer reach the land",
+    "Flood risk falls, as the earthquake has released all the strain on the fault",
+    "Relative sea level rises there, so tides and surges reach further inland",
+    "Nothing changes, as only global sea level matters for coastal flooding"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Subsidence raises relative sea level; uplift would lower it.",
+    "Releasing strain does not undo the subsidence that has already happened.",
+    "Correct. Coseismic subsidence lowers the land, raising relative sea level, so the same tides and surges reach further.",
+    "Local vertical land motion matters as well as global sea level."
+   ],
+   "takeaway": "Earthquake subsidence raises relative sea level and coastal flood risk.",
+   "source": "W4 p45–46; W11 p24–28"
+  },
+  {
+   "id": "q344",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What do lahars, debris flows and turbidity currents have in common?",
+   "options": [
+    "All are fast flows of sediment and water going downslope",
+    "All are slow movements that take many years to unfold",
+    "All happen only on land, far away from rivers and seas",
+    "All are triggered only by eruptions at stratovolcanoes"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. A lahar is a volcanic mixture of water and rock fragments, a debris flow is a fast wet landslide, and a turbidity current is a submarine debris flow.",
+    "All three are fast-moving flows.",
+    "Turbidity currents happen under the sea.",
+    "Only lahars are linked to volcanoes, and they can also be triggered by rain."
+   ],
+   "takeaway": "Lahars, debris flows and turbidity currents are all fast sediment-and-water flows.",
+   "source": "W6 p38–39; W7 p31, p69"
+  },
+  {
+   "id": "q345",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "The same deflection caused by Earth's rotation explains which pair of observations?",
+   "options": [
+    "Northeast trade winds, and Northern Hemisphere cyclones turning counter-clockwise",
+    "Seafloor magnetic stripes, and the steady drift of plates away from mid-ocean ridges",
+    "Sea breezes during the day, and the long, rumbling sound of thunder after lightning",
+    "The arrival of P waves before S waves, and the slowing of tsunamis in shallow water"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The Coriolis effect deflects moving air: Northern Hemisphere trade winds blow from the northeast, and air flowing into a low spins counter-clockwise there.",
+    "Magnetic stripes come from field reversals and spreading, not Coriolis.",
+    "Sea breezes come from uneven heating and the rumble from distance along the flash.",
+    "Wave arrival order and tsunami speed depend on wave type and water depth."
+   ],
+   "takeaway": "The Coriolis effect shapes both prevailing winds and cyclone spin.",
+   "source": "W9 p34–38; W10 p16–19"
+  },
+  {
+   "id": "q346",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A strong El Niño brings drought to Indonesia. Which cascading hazard does this make more likely there?",
+   "options": [
+    "Colder seas spawn more cyclones, which then strike the coastline",
+    "Rising groundwater liquefies deltas during the next earthquake",
+    "Heavier monsoon rain saturates hillslopes, triggering more landslides",
+    "Drier peatlands catch fire more easily, releasing carbon and haze"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Cyclones need warm water, and colder seas would suppress them.",
+    "Drought lowers groundwater rather than raising it.",
+    "El Niño brings drought to Indonesia, not heavier rain.",
+    "Correct. El Niño drought dries the land; drained or dried peat burns easily and smoulders for months, releasing stored carbon. Haze is listed among weather-related hazards."
+   ],
+   "takeaway": "Climate variability can cascade: El Niño drought → peat fires → carbon release and haze.",
+   "source": "W9 p66; W13 p43; W1 p2"
+  },
+  {
+   "id": "q347",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Which monitoring technique from the notes maps ground displacement from space both after earthquakes and during volcanic inflation?",
+   "options": [
+    "Seismic tomography, mapping the speed of seismic waves",
+    "Infrasound, picking up very low-frequency sound waves",
+    "InSAR, comparing radar phase between satellite passes",
+    "DART buoys, measuring pressure changes on the seafloor"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Tomography images the subsurface rather than mapping surface displacement.",
+    "Infrasound detects explosions, not ground displacement.",
+    "Correct. InSAR compares radar phase from two passes to map line-of-sight ground displacement, used for coseismic slip and for volcano deformation.",
+    "DART buoys detect tsunamis, not ground deformation."
+   ],
+   "takeaway": "InSAR maps surface displacement for both earthquakes and volcanoes.",
+   "source": "W4 p25–30; W6 p72"
+  },
+  {
+   "id": "q348",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why are cities built on young river deltas doubly exposed during strong earthquakes?",
+   "options": [
+    "Their hard bedrock carries seismic waves further without the waves weakening",
+    "Their young, saturated sediments liquefy, and soft ground amplifies shaking",
+    "Their position at plate boundaries means they sit right above every rupture",
+    "Their river channels guide surface waves inland at speeds far above P waves"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Deltas sit on soft sediment, not hard bedrock.",
+    "Correct. Liquefaction is most severe in young, saturated deposits in deltas and coastal areas, and soft sediments amplify shaking in strength and duration.",
+    "Deltas are not defined by plate boundaries.",
+    "Surface waves are the slowest waves, and rivers do not speed them up."
+   ],
+   "takeaway": "Delta sediments both liquefy and amplify earthquake shaking.",
+   "source": "W3 p22–24; W7 p22; W11 p5"
+  },
+  {
+   "id": "q349",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "How does long-term sea-level rise affect the reach of a future tsunami of the same size?",
+   "options": [
+    "It is unaffected, since tsunamis come from earthquakes, not the sea",
+    "It travels faster, as deeper water near the coast adds to its height",
+    "It starts from a higher baseline, so it can reach further inland",
+    "It is reduced, since deeper water absorbs more of the wave's energy"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Tsunamis flood from the sea's level, so that baseline matters.",
+    "A slightly deeper coastal sea does not make the tsunami taller; the higher baseline is what matters.",
+    "Correct. Sea level is the baseline on which storm surges and tsunamis occur, so a higher sea lets the same wave reach higher and further inland.",
+    "Higher sea level raises flooding rather than absorbing the wave."
+   ],
+   "takeaway": "Sea-level rise raises the baseline for both tsunamis and storm surges.",
+   "source": "W3 p52; W11 p81"
+  },
+  {
+   "id": "q350",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Across earthquakes, cyclones and floods, what most consistently decides who dies when the same hazard strikes two places?",
+   "options": [
+    "How far the place lies from the nearest plate boundary or from the equator",
+    "Vulnerability and protection: building quality, warnings and evacuation",
+    "Whether the hazard is a geohazard or a weather-related hazard in that place",
+    "The exact physical size of the hazard, which is always larger in poorer places"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Location shapes the hazard, but deaths depend on vulnerability and protection.",
+    "Correct. Throughout the course, hazards become disasters through exposure and vulnerability: buildings kill in earthquakes, drowning dominates cyclones, and evacuation and protection save lives.",
+    "Both kinds of hazard become disasters through vulnerability.",
+    "The same hazard can produce very different outcomes; its size alone does not decide who dies."
+   ],
+   "takeaway": "Hazards are natural; disasters come from vulnerability and lack of protection.",
+   "source": "W1 p10; W3 p44; W7 p94; W10 p40–41"
+  },
+  {
+   "id": "q351",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "According to the IPCC summary in the notes, how does further global warming change tropical cyclones?",
+   "options": [
+    "A larger share of cyclones become intense",
+    "Fewer cyclones form, and all of them are weaker",
+    "Cyclone strength and number stay unchanged",
+    "Cyclones start to form right on the equator"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The IPCC summary shows the proportion of intense tropical cyclones rising with each step of warming.",
+    "The summary points to more intense cyclones, not weaker ones.",
+    "The summary shows cyclones changing with warming.",
+    "The Coriolis force is still near zero at the equator, so this does not change."
+   ],
+   "takeaway": "Warming raises the share of intense tropical cyclones.",
+   "source": "W13 p35; W10 p49"
+  },
+  {
+   "id": "q352",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Rising warm, moist air feeds both thunderstorms and cyclones. Which process powers the updraft in both?",
+   "options": [
+    "Lightning heating the air, which makes the whole cloud expand upward",
+    "Cold air sinking from above, which pushes warm air up beside it",
+    "Coriolis deflection, which turns horizontal winds into vertical ones",
+    "Latent heat released as water vapour condenses in rising air"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Lightning is a result of the storm's charge separation, not its power source.",
+    "Downdrafts weaken thunderstorms in the dissipating stage; they do not power the updraft.",
+    "Coriolis gives cyclones spin, not their rising energy, and thunderstorms do not need it.",
+    "Correct. Condensation releases latent heat, warming the air so it keeps rising, which drives thunderstorm updrafts and cyclone convection alike."
+   ],
+   "takeaway": "Latent heat from condensation powers both thunderstorms and cyclones.",
+   "source": "W9 p28; W10 p13, p75"
+  },
+  {
+   "id": "q353",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why can a magma rich in silica and a slope saturated with water both lead to sudden, violent failure?",
+   "options": [
+    "Both lose all their heat quickly, so they crack apart as they rapidly cool",
+    "Pressure builds that the material cannot release until it suddenly gives way",
+    "Both lower the driving force, so the material collapses under its own weight",
+    "Both are pulled downslope by the Coriolis force once they reach a threshold"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Neither failure is explained by cooling and cracking.",
+    "Correct. Stiff, silica-rich magma traps gas until pressure fragments it explosively; water in a slope raises pore pressure and reduces friction until the slope suddenly fails.",
+    "Failure happens when driving force exceeds resistance, not when it falls.",
+    "The Coriolis force plays no part in either."
+   ],
+   "takeaway": "Trapped pressure, whether gas in magma or water in a slope, can end in sudden failure.",
+   "source": "W5 p83–84; W7 p21"
+  },
+  {
+   "id": "q354",
+   "topic": "xw",
+   "week": "Cross-week",
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "GNSS stations appear throughout the course. Which pairing of setting with what GNSS reveals is correct?",
+   "options": [
+    "Plate boundary: strain build-up; volcano: inflation from recharge",
+    "Plate boundary: shaking intensity; volcano: the chemistry of its gases",
+    "Plate boundary: magma storage depth; volcano: tsunami travel time",
+    "Plate boundary: cyclone tracks; volcano: infrasound from its explosions"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. GNSS tracks slow interseismic strain and plate motion, and records ground inflation at volcanoes that suggests magma recharge.",
+    "Intensity comes from damage surveys, and gas chemistry from gas sampling.",
+    "Storage depth comes from petrology, and tsunami timing from ocean instruments.",
+    "GNSS does not track cyclones or record infrasound."
+   ],
+   "takeaway": "GNSS measures ground motion: plate strain and volcanic inflation.",
+   "source": "W4 p15–20; W6 p70–71"
   }
  ]
 }
