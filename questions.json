@@ -152,6 +152,101 @@
    "id": "w07e",
    "week": 7,
    "name": "Cascading hazards"
+  },
+  {
+   "id": "w09a",
+   "week": 9,
+   "name": "Weather vs climate & uneven heating"
+  },
+  {
+   "id": "w09b",
+   "week": 9,
+   "name": "Rising air, humidity & clouds"
+  },
+  {
+   "id": "w09c",
+   "week": 9,
+   "name": "Atmospheric cells, winds & Coriolis"
+  },
+  {
+   "id": "w09d",
+   "week": 9,
+   "name": "Monsoons, ITCZ, ENSO & IOD"
+  },
+  {
+   "id": "w10a",
+   "week": 10,
+   "name": "Cyclone names & ingredients"
+  },
+  {
+   "id": "w10b",
+   "week": 10,
+   "name": "Cyclone structure & processes"
+  },
+  {
+   "id": "w10c",
+   "week": 10,
+   "name": "Cyclone hazards & impacts"
+  },
+  {
+   "id": "w10d",
+   "week": 10,
+   "name": "Cyclone warning & mitigation"
+  },
+  {
+   "id": "w10e",
+   "week": 10,
+   "name": "Thunderstorms, lightning & hail"
+  },
+  {
+   "id": "w11a",
+   "week": 11,
+   "name": "How deltas form and grow"
+  },
+  {
+   "id": "w11b",
+   "week": 11,
+   "name": "Storm surge & compound flooding"
+  },
+  {
+   "id": "w11c",
+   "week": 11,
+   "name": "Drivers of sea-level change"
+  },
+  {
+   "id": "w11d",
+   "week": 11,
+   "name": "Subsidence & human influence on deltas"
+  },
+  {
+   "id": "w11e",
+   "week": 11,
+   "name": "Responding to sea-level rise"
+  },
+  {
+   "id": "w13a",
+   "week": 13,
+   "name": "Greenhouse effect & feedbacks"
+  },
+  {
+   "id": "w13b",
+   "week": 13,
+   "name": "A warmer world: extremes & heatwaves"
+  },
+  {
+   "id": "w13c",
+   "week": 13,
+   "name": "Sea-level rise and its consequences"
+  },
+  {
+   "id": "w13d",
+   "week": 13,
+   "name": "Reading past climate & projections"
+  },
+  {
+   "id": "w13e",
+   "week": 13,
+   "name": "Peatlands"
   }
  ],
  "questions": [
@@ -5099,6 +5194,2835 @@
    ],
    "takeaway": "There are no natural disasters: hazards become disasters through vulnerability and lack of protection.",
    "source": "W7 p94"
+  },
+  {
+   "id": "q216",
+   "topic": "w09a",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which of these statements describes climate rather than weather?",
+   "options": [
+    "The record high temperature measured at the airport last week",
+    "The thunderstorm that flooded the town centre this afternoon",
+    "The region's usual rainy-season pattern over recent decades",
+    "The strong winds forecast for tomorrow along the eastern coast"
+   ],
+   "answer": 2,
+   "rationales": [
+    "One day's temperature, even a record, is weather; climate looks at the long-term pattern.",
+    "A single storm on a particular afternoon is weather: the state of the atmosphere at a place and time.",
+    "Correct. Climate is the long-term pattern of weather in a region, usually assessed over 30 years or more.",
+    "Tomorrow's winds at one coast are weather."
+   ],
+   "takeaway": "Weather = the atmosphere at a place and time; climate = the long-term pattern, over 30+ years.",
+   "source": "W9 p6–7"
+  },
+  {
+   "id": "q217",
+   "topic": "w09a",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After an unusually hot week, someone claims this proves the local climate has changed. What is wrong with the claim?",
+   "options": [
+    "A week is too long, as climate describes conditions at a single moment",
+    "One week is weather; climate is the long-term pattern over decades",
+    "Climate is fixed by latitude alone, so it can never change over time",
+    "Climate refers to rainfall only, so changes in temperature don't count"
+   ],
+   "answer": 1,
+   "rationales": [
+    "This reverses the two: the state at a single time is weather, not climate.",
+    "Correct. A hot week is weather. Climate describes the long-term pattern, usually assessed over 30 years or more, so one week cannot show a change in climate.",
+    "Latitude strongly influences climate, but climate can still change over time.",
+    "Climate covers all aspects of weather, including temperature, rain and wind."
+   ],
+   "takeaway": "A short spell of unusual weather does not by itself show that the climate has changed.",
+   "source": "W9 p6–7"
+  },
+  {
+   "id": "q218",
+   "topic": "w09a",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why do polar regions receive less solar energy per unit area than the equator?",
+   "options": [
+    "Sunlight arrives at a shallow angle, spreading out and crossing more atmosphere",
+    "The poles receive fewer hours of daylight on every single day of the whole year",
+    "The poles are under cloud all year round, which reflects almost all incoming sunlight",
+    "The poles are further from the Sun, so the sunlight that reaches them is much weaker"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Near the poles sunlight strikes at a shallow angle, so the same energy spreads over a larger area, and it travels further through the atmosphere, losing more to scattering and absorption.",
+    "Polar summers have very long days. The difference comes from the angle of sunlight and the longer path through the atmosphere.",
+    "Cloud cover is not the explanation the notes give.",
+    "The distance difference between latitudes is negligible; the angle of sunlight is what matters."
+   ],
+   "takeaway": "Shallow sun angle and a longer path through the atmosphere give the poles less energy per unit area.",
+   "source": "W9 p10–11"
+  },
+  {
+   "id": "q219",
+   "topic": "w09a",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A student argues that summer happens because Earth is closer to the Sun at that time of year. Which observation best refutes this?",
+   "options": [
+    "Seasons are just as strong at the equator as they are near the poles",
+    "Earth is closest to the Sun in July, during the northern summer",
+    "Earth's orbit is perfectly circular, so its distance never changes",
+    "The two hemispheres have their summers at opposite times of the year"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Seasonal changes are stronger towards the poles and weaker near the equator.",
+    "Earth is actually a bit closer to the Sun in January, during the northern winter.",
+    "The orbit is not completely circular; there are small differences in distance through the year.",
+    "Correct. If distance caused summer, both hemispheres would have summer at the same time. The tilt of Earth's axis is the reason for seasons."
+   ],
+   "takeaway": "Seasons come from the tilt of Earth's axis, not distance from the Sun.",
+   "source": "W9 p12, p16"
+  },
+  {
+   "id": "q220",
+   "topic": "w09a",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "If Earth's axis had no tilt at all, what would happen to the seasons?",
+   "options": [
+    "They would become much stronger, since the poles would face the Sun far more directly",
+    "They would stay as they are, since seasons come from Earth's distance to the Sun",
+    "They would largely disappear, as the zone of strongest heating would stop shifting",
+    "They would only happen at the equator, where the sunlight is the most direct"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Without tilt, the poles would never face the Sun more directly; they would always get shallow sunlight.",
+    "Seasons come from the tilt, not distance.",
+    "Correct. Seasons happen because the tilt shifts the latitude receiving the most direct sunlight through the year. Without tilt, that shift would stop.",
+    "Seasonal changes are weakest near the equator, and without tilt they would largely vanish everywhere."
+   ],
+   "takeaway": "No tilt, no shifting zone of strongest heating, and so essentially no seasons.",
+   "source": "W9 p12–16"
+  },
+  {
+   "id": "q221",
+   "topic": "w09a",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Where on Earth are seasonal changes strongest?",
+   "options": [
+    "Over the oceans, which store heat from one season to the next",
+    "Equally everywhere, since the whole planet is tilted",
+    "At the equator, where the midday Sun is often overhead",
+    "Towards the poles, where the tilt changes sunlight the most"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The notes link seasonal strength to latitude, not to oceans.",
+    "The tilt affects latitudes differently, so seasons are not equal everywhere.",
+    "The equator receives fairly direct sunlight all year, so its seasons are weak.",
+    "Correct. Seasonal changes are stronger towards the poles and weaker near the equator."
+   ],
+   "takeaway": "Seasons strengthen towards the poles and weaken near the equator.",
+   "source": "W9 p12"
+  },
+  {
+   "id": "q222",
+   "topic": "w09a",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is the weather and climate system fundamentally doing?",
+   "options": [
+    "Moving excess heat from the poles towards the equator",
+    "Moving excess heat from the equator towards the poles",
+    "Holding heat where it lands, keeping latitudes separate",
+    "Moving heat out of the oceans down into the deep Earth"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The equator has the surplus of energy, so heat moves away from it.",
+    "Correct. The system is a giant mechanism trying to redress the unequal distribution of energy, moving excess heat from the equator towards the poles, fastest through the atmosphere.",
+    "The system actively redistributes heat rather than holding it in place.",
+    "The redistribution happens through the atmosphere and oceans, not into the deep Earth."
+   ],
+   "takeaway": "Weather and climate redistribute heat from the equator towards the poles.",
+   "source": "W9 p19"
+  },
+  {
+   "id": "q223",
+   "topic": "w09b",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does a parcel of air cool as it rises?",
+   "options": [
+    "It expands under lower pressure, and expanding uses energy",
+    "It loses heat to the colder air that surrounds it as it rises",
+    "It moves further and further away from the warm ground beneath it",
+    "It takes up moisture, which draws the heat out of it"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Rising air expands because pressure is lower at height, and expansion takes energy, so the air cools without gaining or losing heat. This is adiabatic cooling.",
+    "Adiabatic cooling happens without heat being exchanged with the surroundings.",
+    "Distance from the ground is not the mechanism; expansion under lower pressure is.",
+    "Taking up moisture is not why rising air cools."
+   ],
+   "takeaway": "Rising air cools adiabatically: it expands under lower pressure.",
+   "source": "W9 p20–21"
+  },
+  {
+   "id": "q224",
+   "topic": "w09b",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does rising air cool more slowly once a cloud has formed in it?",
+   "options": [
+    "Clouds block sunlight, so the air no longer needs to cool any further",
+    "Water droplets absorb the cold from the air, keeping the air warmer",
+    "Condensation releases latent heat, which offsets some of the cooling",
+    "Saturated air is denser, so it rises more slowly and expands less"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Sunlight is not the reason the cooling rate changes.",
+    "Droplets release heat as they form; they do not absorb cold.",
+    "Correct. Before cloud forms the rate is about 10°C per kilometre; once cloud forms it averages about 5°C per kilometre, because condensation releases heat.",
+    "Humid air is actually less dense; the slower cooling comes from latent heat release."
+   ],
+   "takeaway": "Once cloud forms, latent heat from condensation slows the cooling of rising air.",
+   "source": "W9 p22"
+  },
+  {
+   "id": "q225",
+   "topic": "w09b",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "Air rising from the surface cools until it reaches its dew point. What happens next?",
+   "options": [
+    "The air expands faster, so its rate of cooling doubles",
+    "The air sinks and warms again back down to ground level",
+    "Water vapour condenses into tiny droplets, forming cloud",
+    "All moisture is removed, leaving the air completely dry"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Once cloud forms, cooling actually slows because latent heat is released.",
+    "Reaching the dew point does not make the air sink.",
+    "Correct. At the dew point the air reaches 100% relative humidity and cannot hold more vapour, so it condenses into droplets and forms a cloud.",
+    "Condensation begins at the dew point; it does not instantly remove all moisture."
+   ],
+   "takeaway": "At the dew point, rising air saturates and cloud forms.",
+   "source": "W9 p22"
+  },
+  {
+   "id": "q226",
+   "topic": "w09b",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "At the same temperature and pressure, how does humid air compare with dry air?",
+   "options": [
+    "It is equally dense, as density depends on heat alone",
+    "It is less dense, as vapour displaces heavier gases",
+    "It is denser, as it carries extra molecules of water",
+    "It is denser, as liquid water is heavier than the air is"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Density also depends on the type of gas molecules, not only on temperature.",
+    "Correct. Water vapour displaces some of the heavier nitrogen and oxygen, so humid air is less dense than dry air and rises faster.",
+    "Equal volumes of gas at the same temperature and pressure hold the same number of molecules, so vapour replaces heavier ones rather than adding extra.",
+    "Liquid water is denser than air, but water vapour is less dense than dry air."
+   ],
+   "takeaway": "Humid air is less dense than dry air, so it rises faster.",
+   "source": "W9 p27"
+  },
+  {
+   "id": "q227",
+   "topic": "w09b",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Moist air rises and its water vapour begins to condense. What happens to the upward motion?",
+   "options": [
+    "Released latent heat warms the air, so it keeps rising in a feedback",
+    "The air stops rising at once, as the cloud acts as a lid on convection",
+    "Nothing changes, as condensation neither adds nor removes any heat",
+    "Condensation makes the air heavier, so it soon sinks to the surface"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Condensation releases latent heat, warming the surrounding air so it expands and keeps rising: a feedback loop that moves heat upward.",
+    "Clouds do not cap the rising air; the heat released helps it rise further.",
+    "Condensation releases a large amount of latent heat.",
+    "The latent heat makes the air more buoyant, not heavier."
+   ],
+   "takeaway": "Latent heat from condensation feeds further rising: humid air moves heat upward efficiently.",
+   "source": "W9 p28"
+  },
+  {
+   "id": "q228",
+   "topic": "w09b",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why does air that cools tend to produce cloud and rain?",
+   "options": [
+    "Cooling makes air rise faster, flinging droplets up into clouds",
+    "Cooler air can hold more water vapour, so it draws in moisture",
+    "Cooling raises the air pressure, squeezing water out of the air",
+    "Cooler air can hold less water vapour, so the excess condenses"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Cooling air tends to sink, not rise faster.",
+    "This reverses the relationship between temperature and water vapour.",
+    "The key factor is the drop in how much vapour the air can hold, not pressure squeezing it out.",
+    "Correct. Warm air can hold more water vapour than cold air. When air cools it can't hold as much, so the vapour condenses into cloud and rain."
+   ],
+   "takeaway": "Warm air holds more vapour; cooling forces the excess to condense.",
+   "source": "W9 p29"
+  },
+  {
+   "id": "q229",
+   "topic": "w09b",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Why do deserts tend to form where air descends in the atmospheric cells?",
+   "options": [
+    "Sinking air warms and can hold more moisture but has no source of it, so it dries",
+    "Sinking air is humid and less dense, so it rises again before any rain can form",
+    "Sinking air carries dust that soaks up the rainfall before it can reach the ground",
+    "Sinking air cools and drops its moisture as rain before it ever reaches the ground"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. As air descends it warms and can hold more moisture, but with no moisture source it becomes drier. Rising air near the equator gives rain forests; sinking air gives deserts.",
+    "Descending air in these zones is dry, not humid.",
+    "The notes explain deserts through warming, drying air, not dust.",
+    "Sinking air warms by compression; it does not cool and rain."
+   ],
+   "takeaway": "Rising air → cooling → rain (rain forests); sinking air → warming → drying (deserts).",
+   "source": "W9 p30–32"
+  },
+  {
+   "id": "q230",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which sequence describes a Hadley cell?",
+   "options": [
+    "Cold air rises at the poles, flows towards the equator, sinks, then returns poleward",
+    "Warm air sinks at the equator, flows poleward at the surface, then rises at the poles",
+    "Air rises and sinks in the same place, so no surface flow occurs near the equator",
+    "Warm air rises at the equator, flows poleward, sinks, then returns along the surface"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Cold polar air sinks; it does not rise.",
+    "Warm equatorial air rises, it does not sink.",
+    "The cell includes surface flow back towards the equator.",
+    "Correct. Direct sunlight warms the equator, warm air rises and is replaced by surface air; the air carried away eventually sinks and returns towards the equator, forming a cycle."
+   ],
+   "takeaway": "Hadley cell: rise at the equator, flow poleward aloft, sink, return at the surface.",
+   "source": "W9 p23–24"
+  },
+  {
+   "id": "q231",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Which atmospheric cells are thermally direct, and why does the remaining cell exist?",
+   "options": [
+    "Ferrel and Polar are thermally direct; the Hadley cell exists because of them",
+    "All three are thermally direct, each driven by its own rising warm air",
+    "Hadley and Polar are thermally direct; the Ferrel cell exists because of them",
+    "Only the Ferrel cell is thermally direct; the other two are driven by it"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The Hadley cell is driven directly by equatorial heating.",
+    "The Ferrel cell is not thermally direct; it is driven by its neighbours.",
+    "Correct. Hadley and Polar cells are driven directly by rising warm air and sinking cold air. The Ferrel cell exists because of the cells on either side.",
+    "This reverses the roles of the cells."
+   ],
+   "takeaway": "Hadley and Polar cells are thermally direct; the Ferrel cell is driven by them.",
+   "source": "W9 p26"
+  },
+  {
+   "id": "q232",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why does Earth have three circulation cells in each hemisphere rather than a single one?",
+   "options": [
+    "Each cell is anchored to a continent, so three continents give three cells",
+    "Earth is too big for one simple cycle, and Coriolis destabilises it",
+    "Mountain ranges block a single cell and cut it into three separate loops",
+    "The tilt splits heating into three fixed bands that never shift at all"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Cells are global bands of circulation, not tied to continents.",
+    "Correct. Earth is too big to have one single simple cycle, and the Coriolis force also destabilises things, giving three adjacent cells.",
+    "Mountains do not split the circulation into three cells.",
+    "The cells' strength and extent do shift with the seasons."
+   ],
+   "takeaway": "Earth's size and the Coriolis force break circulation into Hadley, Ferrel and Polar cells.",
+   "source": "W9 p26"
+  },
+  {
+   "id": "q233",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Where two neighbouring atmospheric cells meet, how do they move air?",
+   "options": [
+    "In the same direction, so both sink or both rise there",
+    "Only sideways, so no air rises or sinks at that boundary",
+    "In random directions, depending on the day's weather",
+    "In opposite directions, so air at the boundary stalls"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Where adjacent cells meet they move air in the same direction: if air sinks at one end of a cell, it also sinks at the neighbouring end of the next cell.",
+    "Boundaries between cells are where air rises or sinks.",
+    "The pattern is systematic, not random.",
+    "The cells move air the same way at their shared boundary, not against each other."
+   ],
+   "takeaway": "Adjacent cells move air in the same direction where they meet.",
+   "source": "W9 p25"
+  },
+  {
+   "id": "q234",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "In the Southern Hemisphere, air flows from subtropical high pressure towards the equator. From which direction do these trade winds blow?",
+   "options": [
+    "From the northeast, as the air is deflected to the left",
+    "From the southeast, as the air is deflected to the left",
+    "From the southwest, as the air is deflected to the right",
+    "From due south, since the Coriolis effect is absent there"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Northeast trades are the Northern Hemisphere's, where air flows south.",
+    "Correct. Air moving north towards the equator is deflected to the left in the Southern Hemisphere, so it arrives from the southeast: the southeast trade winds.",
+    "Deflection is to the right in the Northern Hemisphere, not the Southern.",
+    "The Coriolis effect acts in both hemispheres; it is only near zero at the equator."
+   ],
+   "takeaway": "Southern Hemisphere: deflection to the left, giving southeast trade winds.",
+   "source": "W9 p34–38, p43"
+  },
+  {
+   "id": "q235",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Seen from space, winds flow straight between the equator and the poles. Why do they appear to blow east or west to someone on the ground?",
+   "options": [
+    "Air is pulled along by the Moon, which drags it around the Earth",
+    "The Sun heats the eastern side of the planet first each morning",
+    "Mountains steer every wind into east–west channels near the surface",
+    "The Earth spins beneath the moving air, shifting its apparent path"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The notes do not explain wind deflection through the Moon.",
+    "Uneven heating drives winds, but the east–west turning comes from rotation.",
+    "Mountains affect local winds, but the global pattern comes from Earth's rotation.",
+    "Correct. Earth is spinning under the winds, so to an observer on the surface they appear to blow more east or west. This is the Coriolis effect."
+   ],
+   "takeaway": "The Coriolis effect: Earth rotates beneath moving air, turning its apparent path.",
+   "source": "W9 p34–36"
+  },
+  {
+   "id": "q236",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "In which direction does the Coriolis effect turn the surface winds in the Hadley and Ferrel cells?",
+   "options": [
+    "Westward in both cells, as Earth spins in only one direction",
+    "Eastward in the Hadley cells and westward in the Ferrel cells",
+    "Westward in the Hadley cells and eastward in the Ferrel cells",
+    "Eastward in both cells, as winds always follow Earth's spin"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Surface flow in the two cells runs in opposite north–south directions, so deflection gives opposite east–west directions.",
+    "This swaps the two cells.",
+    "Correct. Earth's rotation under the winds directs them to the west in the Hadley cells (the trade winds) and to the east in the Ferrel cells (the westerlies).",
+    "Opposite north–south flows in the two cells give opposite east–west winds."
+   ],
+   "takeaway": "Hadley cells → easterly trade winds; Ferrel cells → westerlies.",
+   "source": "W9 p34"
+  },
+  {
+   "id": "q237",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "What creates the jet streams?",
+   "options": [
+    "Temperature and height contrasts where cells meet, plus the Coriolis effect",
+    "Trade winds converging at the equator and rising up into the upper atmosphere",
+    "Daytime sea breezes, which build up speed as they cross the open ocean",
+    "Air sinking over deserts, which speeds up sharply as it reaches the ground"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Where the Polar, Ferrel and Hadley cells converge, differences in their height and temperature create turbulence; combined with the Coriolis effect, this sends narrow high-altitude streams of air from west to east.",
+    "Equatorial convergence forms the ITCZ, not the jet streams.",
+    "Sea breezes are local, daily surface winds.",
+    "Jet streams are high in the atmosphere, not formed by air sinking to the ground."
+   ],
+   "takeaway": "Jet streams form at cell boundaries from temperature and height contrasts plus Coriolis.",
+   "source": "W9 p39–40"
+  },
+  {
+   "id": "q238",
+   "topic": "w09c",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What are the main drivers of circulation at the ocean surface?",
+   "options": [
+    "Tides raised by the Moon's gravitational pull",
+    "Heat rising from volcanoes on the ocean floor",
+    "Rivers pouring fresh water into the oceans",
+    "Prevailing winds shaped by the Coriolis force"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Tides move water up and down at coasts but are not the main driver of ocean circulation.",
+    "Seafloor volcanoes are not the driver the notes describe.",
+    "River inflow is not the main driver of ocean circulation.",
+    "Correct. The prevailing winds, under the influence of the Coriolis force, are the main drivers of oceanic circulation."
+   ],
+   "takeaway": "Ocean surface currents are driven mainly by Coriolis-shaped prevailing winds.",
+   "source": "W9 p43–44"
+  },
+  {
+   "id": "q239",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "On a sunny afternoon at the coast, which way does the breeze blow, and why?",
+   "options": [
+    "From land to sea, as the sea cools faster and draws air out",
+    "From sea to land, as the land heats faster and its air rises",
+    "From sea to land, as the sea heats faster and its air rises",
+    "From land to sea, as the land heats faster and its air sinks"
+   ],
+   "answer": 1,
+   "rationales": [
+    "At night the land breeze blows out to sea, but on a sunny afternoon the flow is onshore.",
+    "Correct. By day the land is much warmer than the sea, so air rises over the land and is replaced by a sea breeze.",
+    "By day the land, not the sea, is warmer.",
+    "Warmer air rises rather than sinks."
+   ],
+   "takeaway": "Day: sea breeze (land warmer); night: land breeze (sea warmer).",
+   "source": "W9 p49"
+  },
+  {
+   "id": "q240",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Why does the summer monsoon bring very heavy rain to the slopes facing it on a high mountain range?",
+   "options": [
+    "The mountains block the trade winds, so storms stall and rain out over the ocean",
+    "The ocean heats faster than the land, so dry continental air sinks onto the slopes",
+    "Land heats faster than ocean, drawing moist air inland to be forced upward",
+    "Cold air flows out of the continent, carrying moisture up the mountain slopes"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The rain falls on the mountain slopes as the air is lifted, not out over the ocean.",
+    "In summer the land heats faster than the ocean, not the other way round.",
+    "Correct. In summer the land heats faster than the ocean, helping draw moist ocean air inland. Mountains force it upward, where it cools and condenses into heavy rain.",
+    "Outflowing continental air describes the dry winter monsoon."
+   ],
+   "takeaway": "Summer monsoon: land heats faster, moist air flows inland and is lifted to give rain.",
+   "source": "W9 p50–51"
+  },
+  {
+   "id": "q241",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is a monsoon?",
+   "options": [
+    "A seasonal prevailing wind lasting months, bringing distinct wet and dry seasons",
+    "A belt of weak winds and frequent thunderstorms lying along the equator",
+    "A daily cycle of sea breezes and land breezes along a stretch of coastline",
+    "A single intense tropical storm that forms during the warmest month of each year"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. A monsoon is a seasonal prevailing wind lasting several months, bringing distinct dry and wet seasons.",
+    "That describes the ITCZ (the doldrums).",
+    "Sea and land breezes are daily and local; monsoons are seasonal.",
+    "A monsoon is a seasonal wind pattern, not a single storm."
+   ],
+   "takeaway": "Monsoon = seasonal prevailing wind with distinct wet and dry seasons.",
+   "source": "W9 p49–50, p55"
+  },
+  {
+   "id": "q242",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which description fits the Inter-Tropical Convergence Zone (ITCZ)?",
+   "options": [
+    "A subtropical high-pressure band where air sinks, bringing clear and very dry weather",
+    "An equatorial low where trade winds converge, with weak winds and storms",
+    "A belt of strong surface winds that blow steadily from the west towards the east",
+    "A polar band where cold air spreads out and meets the warmer westerly winds"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Sinking air and clear skies describe the subtropical highs, not the ITCZ.",
+    "Correct. Trade winds converge to form the ITCZ, an equatorial low-pressure region with weak surface winds and frequent thunderstorms, known to sailors as the doldrums.",
+    "Winds in the ITCZ are weak at the surface.",
+    "The ITCZ is equatorial, not polar."
+   ],
+   "takeaway": "ITCZ: equatorial low where trade winds converge; weak winds, frequent thunderstorms.",
+   "source": "W9 p54–55"
+  },
+  {
+   "id": "q243",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Under normal Walker circulation conditions in the Pacific, which statement is true?",
+   "options": [
+    "Trade winds pile warm water in the east, so the thermocline is deep east and shallow west",
+    "Cold water upwells mainly in the western Pacific, right beneath the warm pool",
+    "Trade winds pile warm water west, so the thermocline is deep west and shallow east",
+    "Air sinks over the warm western Pacific and rises over the cooler eastern Pacific"
+   ],
+   "answer": 2,
+   "rationales": [
+    "This reverses the normal pattern.",
+    "Upwelling of cold water happens in the east, near South America.",
+    "Correct. Westward trade winds pile warm water in the west, deepening the thermocline there; near South America it is shallow and cold water upwells.",
+    "Air rises over the warm west and sinks over the cool east."
+   ],
+   "takeaway": "Normal: warm pool and deep thermocline in the west; shallow thermocline and upwelling in the east.",
+   "source": "W9 p57"
+  },
+  {
+   "id": "q244",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "The trade winds across the tropical Pacific weaken markedly. What follows in the eastern Pacific?",
+   "options": [
+    "Sea surface temperatures fall there, as the warm pool retreats towards Asia",
+    "Cold water upwells more strongly, raising biological productivity offshore",
+    "The warm pool shifts west, the thermocline shallows and upwelling strengthens",
+    "The warm pool shifts east, the thermocline deepens and upwelling weakens"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The warm pool moves east, so eastern Pacific waters warm.",
+    "Upwelling weakens during El Niño, lowering productivity.",
+    "This describes stronger trade winds, as in La Niña.",
+    "Correct. These are El Niño conditions: weaker trade winds, the warm pool migrating eastward, a deeper eastern thermocline, downwelling and lower productivity."
+   ],
+   "takeaway": "El Niño: weak trades → warm pool shifts east → deeper eastern thermocline, less upwelling.",
+   "source": "W9 p59–60"
+  },
+  {
+   "id": "q245",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "In some years the fisheries off the west coast of South America collapse. How is this linked to El Niño?",
+   "options": [
+    "Heavier rain over the ocean dilutes the seawater the fish rely on",
+    "Stronger trade winds drive the fish westward towards the warm pool",
+    "Weaker upwelling brings up fewer nutrients, lowering productivity",
+    "Stronger upwelling brings cold water that kills the fish near the surface"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The notes link the collapse to reduced upwelling, not dilution.",
+    "Trade winds weaken during El Niño.",
+    "Correct. During El Niño the eastern thermocline deepens and downwelling replaces upwelling, lowering biological productivity, so fishing suffers.",
+    "Upwelling weakens, rather than strengthens, during El Niño."
+   ],
+   "takeaway": "El Niño cuts nutrient-rich upwelling, so productivity and fisheries suffer.",
+   "source": "W9 p59"
+  },
+  {
+   "id": "q246",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which description fits La Niña conditions?",
+   "options": [
+    "Stronger trade winds push more warm water west, increasing eastern upwelling",
+    "Weaker trade winds let the warm pool spread east, suppressing upwelling there",
+    "The trade winds reverse direction, so warm water flows towards South America",
+    "The trade winds stop entirely, so the Pacific's surface temperature evens out"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. La Niña has stronger trade winds, more warm water pushed westward and increased upwelling.",
+    "This describes El Niño.",
+    "La Niña strengthens the normal trade winds rather than reversing them.",
+    "La Niña strengthens the normal contrast across the Pacific."
+   ],
+   "takeaway": "La Niña: stronger trades, more warm water west, more upwelling east.",
+   "source": "W9 p67"
+  },
+  {
+   "id": "q247",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "During a negative Indian Ocean Dipole, what conditions are expected?",
+   "options": [
+    "Warmer waters in both east and west, with heavier rain across the basin",
+    "Cooler waters in both east and west, with drought across the whole basin",
+    "A cooler east near Java and Sumatra with less rain; a warmer, wetter west",
+    "A warmer east near Java and Sumatra with more rain; a cooler, drier west"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A dipole means an east–west contrast, not uniform warming.",
+    "A dipole means an east–west contrast, not uniform cooling.",
+    "This describes the positive phase.",
+    "Correct. In the negative phase the eastern Indian Ocean is warmer than normal, raising rain and flood risk, while the west is cooler, with less rain and higher drought risk."
+   ],
+   "takeaway": "Negative IOD: warm, wet east (Java/Sumatra); cool, dry west. Positive IOD reverses it.",
+   "source": "W9 p71–75"
+  },
+  {
+   "id": "q248",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "An El Niño and a positive Indian Ocean Dipole occur at the same time. What is the likely outcome for Indonesia?",
+   "options": [
+    "Neither affects Indonesia, since both develop in distant oceans",
+    "Both favour drier conditions there, so drought risk is compounded",
+    "Both favour wetter conditions there, so flood risk is compounded",
+    "They cancel each other out, as one brings rain and the other drought"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Both directly affect Southeast Asian rainfall.",
+    "Correct. El Niño brings drought to places such as Indonesia, and a positive IOD makes the eastern Indian Ocean near Java and Sumatra cooler and drier. Together they point to extreme dry conditions.",
+    "Both phases reduce rainfall around Indonesia.",
+    "Both phases push towards drier conditions there, so they reinforce rather than cancel."
+   ],
+   "takeaway": "El Niño plus positive IOD can combine into extreme drought in Indonesia.",
+   "source": "W9 p66, p73, p76"
+  },
+  {
+   "id": "q249",
+   "topic": "w09d",
+   "week": 9,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "How can a warmer ocean thousands of kilometres away change the rainfall in Singapore?",
+   "options": [
+    "It cannot, because weather depends only on conditions in the local area",
+    "Ocean temperatures alter the atmosphere's circulation, shifting rain",
+    "The warm water raises sea level, which floods Singapore and causes rain",
+    "Warm water flows directly to Singapore and evaporates over the island"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Distant ocean conditions clearly affect local weather through ocean-atmosphere coupling.",
+    "Correct. Ocean and atmosphere interact: changes in sea temperature alter atmospheric circulation, which shifts winds and rainfall far away. ENSO and the IOD are examples.",
+    "Rainfall changes come from shifts in circulation, not from sea-level flooding.",
+    "The effect works through the atmosphere, not water moving directly to Singapore."
+   ],
+   "takeaway": "Distant ocean temperatures affect local weather through ocean-atmosphere interaction.",
+   "source": "W9 p8, p57–76"
+  },
+  {
+   "id": "q250",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A storm crosses from the northeast Pacific into the northwest Pacific without changing in strength. What happens to how it is named?",
+   "options": [
+    "It becomes a cyclone, since only cyclones can cross between basins",
+    "It keeps the same name type, since names depend only on wind speed",
+    "It changes from a typhoon to a hurricane, since its winds have grown",
+    "It is renamed from hurricane to typhoon, though it is the same storm"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Cyclone is the name used elsewhere, not a special category for storms crossing basins.",
+    "The names depend on region, not wind speed.",
+    "The storm moves from the hurricane region into the typhoon region, not the reverse, and strength is not the basis for the name.",
+    "Correct. Hurricanes, typhoons and cyclones are the same kind of storm; the name depends on the region. Northeast Pacific storms are hurricanes and northwest Pacific storms are typhoons."
+   ],
+   "takeaway": "Hurricane, typhoon and cyclone are one type of storm named by region.",
+   "source": "W10 p5–7"
+  },
+  {
+   "id": "q251",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What distinguishes a hurricane, a typhoon and a cyclone?",
+   "options": [
+    "Only where they form; they are the same kind of storm",
+    "Their direction of spin, set by the hemisphere they form in",
+    "Their wind speed, with typhoons the strongest of the three",
+    "Their size, with cyclones being smaller than hurricanes"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. They are the same phenomenon: typhoons in the northwest Pacific, hurricanes in the Caribbean, western Atlantic and northeast Pacific, and cyclones elsewhere.",
+    "Spin direction depends on hemisphere, but the names follow region.",
+    "Wind speed is used for categories such as the Saffir–Simpson scale, not for these names.",
+    "Size is not what separates the names."
+   ],
+   "takeaway": "The three names refer to the same storm in different regions.",
+   "source": "W10 p6"
+  },
+  {
+   "id": "q252",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A region has very warm ocean water and an initial disturbance, but strong vertical wind shear. Why is a cyclone unlikely to develop?",
+   "options": [
+    "Shear cools the ocean surface so that it can no longer supply energy",
+    "Shear cancels the Coriolis force, so the storm has nothing to make it spin",
+    "Shear tilts the storm and disrupts the vertical organisation it needs",
+    "Shear raises surface pressure, so air can no longer flow into the centre"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Shear acts on the storm's structure, not on sea temperature.",
+    "Shear does not cancel the Coriolis force.",
+    "Correct. Weak shear keeps the circulation vertically aligned. Strong shear tilts the storm and disrupts its organisation.",
+    "The notes describe shear tilting and disorganising the storm, not changing surface pressure."
+   ],
+   "takeaway": "Strong vertical wind shear tilts and disorganises developing cyclones.",
+   "source": "W10 p13"
+  },
+  {
+   "id": "q253",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why do cyclones need warm ocean water to form?",
+   "options": [
+    "It supplies the heat and moisture that power the storm",
+    "It creates wind shear, which keeps the storm vertically aligned",
+    "It lowers the Coriolis force so the storm can start spinning",
+    "It cools the air high above, increasing the storm's buoyancy"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Warm water, generally above about 26°C to a depth of at least 50 m, provides the energy, through heat and moisture, that drives the storm.",
+    "Weak shear is needed, and it does not come from warm water.",
+    "Warm water does not affect the Coriolis force, which depends on latitude.",
+    "Cool air at height is a separate ingredient; warm water supplies energy from below."
+   ],
+   "takeaway": "Warm ocean water is the cyclone's energy source.",
+   "source": "W10 p9–10"
+  },
+  {
+   "id": "q254",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "The ocean at the equator is warm, yet cyclones almost never form right at the equator. Why?",
+   "options": [
+    "The water at the equator is too warm, so it all evaporates before storms form",
+    "Wind shear is always strongest at the equator, tearing storms apart",
+    "The Coriolis force is near zero there, so nothing makes a storm spin",
+    "The trade winds diverge at the equator, pulling every disturbance apart"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Warm water helps cyclones; it does not prevent them.",
+    "The missing ingredient at the equator is spin, not wind shear.",
+    "Correct. At the equator the Coriolis force is basically zero, so there is no spinning force to set up and sustain a cyclone. Cyclones rarely form at or cross the equator.",
+    "Trade winds converge at the equator (the ITCZ); they do not diverge."
+   ],
+   "takeaway": "No Coriolis force at the equator, so no cyclones form there.",
+   "source": "W10 p15–20"
+  },
+  {
+   "id": "q255",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Two coasts lie at the same tropical latitude. One has a warm ocean current offshore; the other has a cold one. Where are cyclones less likely to develop?",
+   "options": [
+    "Off the cold-current coast, as cold water weakens the Coriolis force",
+    "Off the warm-current coast, as warm water raises the wind shear there",
+    "Equally off both, since latitude alone decides where cyclones form",
+    "Off the cold-current coast, as cool water supplies too little energy"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Cold water reduces the energy supply; the Coriolis force depends on latitude, not temperature.",
+    "Warm water supports cyclones; it does not create shear.",
+    "Latitude matters, but sea temperature also controls development.",
+    "Correct. Cold currents inhibit cyclone development because the sea is not warm enough to supply the energy needed."
+   ],
+   "takeaway": "Cold ocean currents inhibit cyclones by cutting off their energy supply.",
+   "source": "W10 p14"
+  },
+  {
+   "id": "q256",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which set describes a favourable atmospheric profile for cyclone formation?",
+   "options": [
+    "Cool, dry low air, weak vertical wind shear and cool air at height",
+    "Warm, moist low air, weak vertical wind shear and cool air at height",
+    "Warm, moist low air, strong vertical wind shear and warm air at height",
+    "Dry low air, strong vertical wind shear and warm air at height"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Cool, dry low air gives too little latent heat to fuel the storm.",
+    "Correct. Warm, moist air releases latent heat as it condenses, weak shear keeps the storm aligned, and cool air at height maximises buoyancy.",
+    "Strong shear disrupts the storm, and warm air aloft reduces buoyancy.",
+    "Each of these works against a cyclone."
+   ],
+   "takeaway": "Favourable profile: warm moist air below, weak shear, cool air aloft.",
+   "source": "W10 p13"
+  },
+  {
+   "id": "q257",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does cool air high in the atmosphere help a cyclone grow?",
+   "options": [
+    "It increases the density contrast, so warm surface air rushes upward",
+    "It adds wind shear, which helps keep the storm's circulation lined up",
+    "It sinks to the sea surface and cools it, slowing evaporation and growth",
+    "It acts as a lid on rising air, trapping heat near the sea to fuel the storm"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Cool air at height increases the density contrast and maximises buoyancy, forcing warm surface air upward in vigorous convective updrafts.",
+    "The storm needs weak shear; cool air aloft is a separate ingredient.",
+    "Cool air aloft helps the storm by boosting buoyancy, not by cooling the sea.",
+    "Cool air aloft encourages rising, not trapping."
+   ],
+   "takeaway": "Cool air aloft boosts buoyancy, powering strong updrafts.",
+   "source": "W10 p13"
+  },
+  {
+   "id": "q258",
+   "topic": "w10a",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which sequence shows how a cyclone develops from an initial disturbance?",
+   "options": [
+    "Tropical storm, tropical disturbance, tropical depression, cyclone",
+    "Tropical disturbance, tropical depression, tropical storm, cyclone",
+    "Tropical disturbance, tropical storm, cyclone, tropical depression",
+    "Tropical depression, tropical disturbance, cyclone, tropical storm"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The disturbance comes before the storm stages.",
+    "Correct. A disturbance of thunderstorms becomes a depression once a surface circulation forms, then a tropical storm, then a cyclone with an eye as winds strengthen.",
+    "The depression stage comes before the tropical storm, not at the end.",
+    "The disturbance comes first, and a tropical storm precedes the cyclone."
+   ],
+   "takeaway": "Disturbance → depression → tropical storm → cyclone.",
+   "source": "W10 p21–24"
+  },
+  {
+   "id": "q259",
+   "topic": "w10b",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "In the Northern Hemisphere, air flowing in towards a low-pressure centre is deflected to the right. Seen from above, which way does the storm rotate?",
+   "options": [
+    "Clockwise, as inflowing air is turned to the right of its path",
+    "Either way, depending on the shape of the initial disturbance",
+    "Counter-clockwise, as inflowing air is turned to its right",
+    "Clockwise, as the storm simply follows the direction of Earth's spin"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Rightward deflection of inflowing air produces counter-clockwise rotation, not clockwise.",
+    "The hemisphere fixes the direction through the Coriolis effect.",
+    "Correct. Air heading inward is deflected right, so it circles the low counter-clockwise in the Northern Hemisphere. The Southern Hemisphere is the reverse.",
+    "The rotation comes from deflection of inflowing air, and in the north it is counter-clockwise."
+   ],
+   "takeaway": "Northern Hemisphere cyclones turn counter-clockwise; Southern Hemisphere ones turn clockwise.",
+   "source": "W10 p16–19"
+  },
+  {
+   "id": "q260",
+   "topic": "w10b",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "How does the eye of a cyclone form?",
+   "options": [
+    "The fastest winds blow at the very centre, scattering the cloud outwards",
+    "Cold air pours into the centre from above, freezing the cloud into falling ice",
+    "Air rises fastest at the centre, carrying all of the cloud up and out of the storm",
+    "Air descends into the centre where rotation is weakest, warms and clears the cloud"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Winds in the eye itself are light and variable.",
+    "The descending air warms; it does not freeze the cloud.",
+    "Air sinks, not rises, in the eye.",
+    "Correct. Air descends into the storm centre where rotation is weakest; it warms, evaporating the cloud and forming the eye."
+   ],
+   "takeaway": "The eye forms where sinking air warms and evaporates cloud.",
+   "source": "W10 p24–27"
+  },
+  {
+   "id": "q261",
+   "topic": "w10b",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "In a mature cyclone, where are winds usually strongest, and where are they lightest?",
+   "options": [
+    "Strongest at the eye's edge; light and variable within the eye",
+    "Strongest in the eye itself; lightest just at the eye's edge",
+    "Strongest at the storm's outer edge; light everywhere inside it",
+    "Strongest at the outer edge, and again strongest inside the eye"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Winds are relatively weak near the outer edge and fastest at the edge of the eye, while in the eye itself they may be light and variable.",
+    "The eye is calm; the fastest winds are around it.",
+    "Winds increase towards the eye; the outer edge is relatively calm.",
+    "The eye is calm, and the outer edge has relatively weak winds."
+   ],
+   "takeaway": "Fastest winds ring the eye; the eye itself is calm.",
+   "source": "W10 p26–27"
+  },
+  {
+   "id": "q262",
+   "topic": "w10b",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does very low central pressure in a cyclone contribute to storm surge?",
+   "options": [
+    "Lower air pressure cools the sea, so the water expands and rises",
+    "Lower air pressure slows the winds, so water piles up offshore",
+    "Lower pressure lets the sea surface bulge up beneath the storm",
+    "Lower air pressure pulls rain inland, adding to river flooding"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Pressure does not cool the sea, and cooling would shrink water, not expand it.",
+    "Low pressure is associated with stronger winds, not weaker ones.",
+    "Correct. Low pressure allows the ocean surface to rise. Together with onshore winds piling up water and shallowing seafloor, this builds the surge.",
+    "Rain flooding is a separate hazard from the surge itself."
+   ],
+   "takeaway": "Low pressure raises the sea surface, one of the drivers of storm surge.",
+   "source": "W10 p27, p32"
+  },
+  {
+   "id": "q263",
+   "topic": "w10b",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Compared with a cyclone in more temperate latitudes, how fast does one near the equator usually move forward?",
+   "options": [
+    "At the same speed, since forward motion is set by the eye's size",
+    "Faster, since warmer water pushes the storm along more quickly",
+    "Faster, since the Coriolis force is strongest close to the equator",
+    "More slowly, as the air systems around it there move slowly"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The notes link forward speed to surrounding air systems, not eye size.",
+    "Warm water fuels intensity, not forward speed.",
+    "The Coriolis force is weakest near the equator, not strongest.",
+    "Correct. Forward speed is generally under 40 km/h; cyclones move faster in temperate climates, where other air systems move faster, and slower nearer the equator."
+   ],
+   "takeaway": "Cyclones drift slowly near the equator and speed up in temperate latitudes.",
+   "source": "W10 p27"
+  },
+  {
+   "id": "q264",
+   "topic": "w10c",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which combination of processes produces a cyclone's storm surge?",
+   "options": [
+    "Heavy rain over land, high river discharge, and a high tide arriving at the same time",
+    "Onshore winds piling up water, low pressure raising the sea, and shallowing seafloor",
+    "Uplift of the seafloor during the storm, displacing water just as a tsunami does",
+    "Waves from far away combining with an ordinary high tide on a calm day"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Rain, rivers and tides together describe compound flooding, not the surge itself.",
+    "Correct. Storm surge comes from water piled up by onshore winds, the sea surface raised by low pressure, and shallowing water that increases height.",
+    "The seafloor does not move in a storm; that is how earthquakes make tsunamis.",
+    "Storm surge comes from the storm's winds and pressure, not distant waves on a calm day."
+   ],
+   "takeaway": "Storm surge = onshore winds + low pressure + shallowing seafloor.",
+   "source": "W10 p32"
+  },
+  {
+   "id": "q265",
+   "topic": "w10c",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Besides flooding low-lying land directly, why is a storm surge so damaging?",
+   "options": [
+    "It lowers the water level, exposing the seafloor to the storm's winds",
+    "It cools the coast, making buildings and levees brittle enough to break",
+    "It reduces wave height, so the water floods the land without warning",
+    "It raises the water level so that high waves can travel further inland"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A surge raises the water level, not lowers it.",
+    "Surge damage comes from water and waves, not cooling.",
+    "Surge increases the reach of waves rather than reducing them.",
+    "Correct. Storm surges flood low-lying terrain and also provide a base for high waves to move further inland."
+   ],
+   "takeaway": "Storm surge gives waves a raised base to reach further inland.",
+   "source": "W10 p32–33"
+  },
+  {
+   "id": "q266",
+   "topic": "w10c",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What causes the large majority of cyclone-related deaths?",
+   "options": [
+    "Wind-blown flying debris",
+    "Drowning in floodwater",
+    "Triggered landslides",
+    "Collapse of buildings"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Wind-blown debris is one of the other, smaller causes.",
+    "Correct. Drownings account for about 90% of cyclone-related fatalities.",
+    "Landslides are one of the other, smaller causes.",
+    "Building damage is one of the other, smaller causes."
+   ],
+   "takeaway": "Water, not wind, is the main killer in cyclones.",
+   "source": "W10 p40"
+  },
+  {
+   "id": "q267",
+   "topic": "w10c",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After a cyclone, which process most likely caused the greatest loss of property?",
+   "options": [
+    "Water inundation from surge and flooding",
+    "Strong winds tearing roofs off buildings",
+    "Wind-borne missiles striking structures",
+    "Lightning strikes setting buildings alight"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Water inundation results in the greatest loss of property.",
+    "Strong winds damage property, but inundation causes the greatest losses.",
+    "Wind-borne missiles are damaging, but inundation causes more loss.",
+    "Lightning is not listed among the main cyclone property impacts."
+   ],
+   "takeaway": "Inundation causes the greatest cyclone property losses.",
+   "source": "W10 p35–39"
+  },
+  {
+   "id": "q268",
+   "topic": "w10c",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "After a cyclone, poorer informal communities rebuild in exactly the same exposed places. What does this mean for future risk?",
+   "options": [
+    "Risk is unchanged, since cyclone risk depends only on the storm's wind speed",
+    "Risk falls, since rebuilding always uses stronger materials than before",
+    "Exposure and vulnerability remain, so the next cyclone can repeat the losses",
+    "Risk falls, since the same place is unlikely to be struck by a cyclone again"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Risk also depends on exposure and vulnerability, not just the hazard.",
+    "Rebuilding does not guarantee stronger construction, especially in informal settlements.",
+    "Correct. Poorer informal communities are often the most vulnerable, and rebuilding in the same place keeps them exposed.",
+    "Being hit once does not lower the chance of being hit again."
+   ],
+   "takeaway": "Rebuilding in place without reducing vulnerability keeps risk high.",
+   "source": "W10 p34"
+  },
+  {
+   "id": "q269",
+   "topic": "w10c",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "In recent US records, how has the main water-related cause of direct cyclone deaths shifted?",
+   "options": [
+    "Storm surge kills more than ever, as coastal populations keep on growing",
+    "Wind-blown debris is now the main killer, as buildings have grown taller",
+    "Rain flooding now kills more than storm surge, as surge warnings improved",
+    "Deaths now come mainly from lightning, as storms have become stronger"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Surge deaths fell as warnings and surge maps improved.",
+    "Water, not wind, causes most direct deaths.",
+    "Correct. Storm surge warnings got much better, and rainfall flooding, which reaches inland after landfall, became the main direct killer.",
+    "Lightning is not the main cause of cyclone deaths."
+   ],
+   "takeaway": "With better surge warnings, inland rain flooding became the main direct cyclone killer in the US.",
+   "source": "W10 p64–66"
+  },
+  {
+   "id": "q270",
+   "topic": "w10c",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why can deaths linked to a cyclone keep rising for weeks after the storm has passed?",
+   "options": [
+    "Lightning from leftover storms causes most of the deaths after landfall",
+    "The eye passes back over the area days later, bringing the winds back again",
+    "Storm surge keeps rising for weeks after the storm has crossed the coast",
+    "Lifelines such as power, water and clinics fail, so disease spreads"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The notes link later deaths to disrupted lifelines and disease, not lightning.",
+    "Cyclones move on; the eye does not return days later.",
+    "Surge is a short-lived event at landfall.",
+    "Correct. Lifelines fail: power and water outages stop treatments, closed roads and clinics delay care, and floodwater spreads infection, hitting poorer communities hardest."
+   ],
+   "takeaway": "Cyclone deaths continue after landfall as lifelines fail.",
+   "source": "W10 p66–67"
+  },
+  {
+   "id": "q271",
+   "topic": "w10d",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why can a cyclone's path be monitored and forecast days ahead, unlike an earthquake?",
+   "options": [
+    "Cyclones are huge and move slowly, so satellites and ships can track them",
+    "Cyclones only form near coasts, where dense networks of instruments exist",
+    "Cyclones send out P waves ahead of them, giving instruments early warning",
+    "Cyclones always follow the same tracks, so their paths are known in advance"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Because cyclones move relatively slowly (compared with seismic waves) and are so large, satellites and ship-borne platforms can monitor their path.",
+    "Cyclones form over open ocean and are tracked by satellite.",
+    "P waves are seismic waves from earthquakes.",
+    "Tracks vary from storm to storm; they have to be monitored."
+   ],
+   "takeaway": "Large, slow cyclones can be tracked; earthquakes give only seconds of warning.",
+   "source": "W10 p42–43"
+  },
+  {
+   "id": "q272",
+   "topic": "w10d",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "How do mangroves, dune systems and coral reefs help protect coastal communities from cyclones?",
+   "options": [
+    "They cool the sea so cyclones always weaken before landfall",
+    "They absorb surge, break waves and reduce wave momentum",
+    "They raise the land so that surge can never reach any town",
+    "They lower wind speeds by adding friction high in the storm"
+   ],
+   "answer": 1,
+   "rationales": [
+    "They do not change sea temperature enough to weaken storms.",
+    "Correct. Mangroves, dunes and reefs absorb storm surges, break waves and reduce wave momentum.",
+    "They reduce surge and waves but have limits; they do not make towns immune.",
+    "Their effect is on water at the coast, not winds high in the storm."
+   ],
+   "takeaway": "Natural barriers absorb surge and wave energy, within limits.",
+   "source": "W10 p47–48"
+  },
+  {
+   "id": "q273",
+   "topic": "w10d",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A city relies on levees and flood walls for protection against cyclone surge. What warning does the notes give about such protection?",
+   "options": [
+    "Protections increase wind damage to the buildings that lie behind them",
+    "Protections only fail during weak storms, never during intense ones",
+    "Protections always hold, so the land behind them needs no evacuation",
+    "Protections have limits and can fail, flooding the areas behind them"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The concern is flood failure, not extra wind damage.",
+    "Intense storms are the ones most likely to exceed a protection's limit.",
+    "No protection is guaranteed, so evacuation planning is still needed.",
+    "Correct. Not all options provide protection: flood protections sometimes fail and flood the areas behind them, and most have a limit."
+   ],
+   "takeaway": "Flood defences have limits; failure can flood the areas they protect.",
+   "source": "W10 p48"
+  },
+  {
+   "id": "q274",
+   "topic": "w10d",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "A cyclone makes landfall. Why does it usually begin to weaken?",
+   "options": [
+    "The Coriolis force switches off over land, so the storm stops spinning",
+    "Land is colder than the eye, so the eye freezes over and then collapses",
+    "It loses its warm-water fuel, and friction over land slows its winds",
+    "Mountains add wind shear, though this has no effect on the storm's energy"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The Coriolis force depends on latitude, not on land or sea.",
+    "The eye does not freeze; the storm loses its energy supply.",
+    "Correct. At landfall the fuel supply is cut, with no more evaporation from warm water, and friction over land slows the winds.",
+    "Shear does weaken storms; the main point is the lost fuel supply and friction."
+   ],
+   "takeaway": "Landfall cuts off the warm-water fuel supply and adds friction.",
+   "source": "W10 p60"
+  },
+  {
+   "id": "q275",
+   "topic": "w10d",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "An AI forecasting model improved when growing storms and decaying storms were trained separately. Why did splitting help?",
+   "options": [
+    "Each stage runs on different physics, so separate models fit them better",
+    "Decaying storms follow no physics at all, so they need no model",
+    "Growing storms move faster, so they need far more satellite images",
+    "Splitting doubles the amount of training data, which is all that matters"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Growth is driven by the formation ingredients, while decay comes from cutting the fuel supply, shear and land friction. Different physics suits separate models.",
+    "Decay has clear physics: landfall, cooler water, shear and friction.",
+    "The split was by life stage and its physics, not storm speed.",
+    "Splitting divides the data rather than doubling it; the gain came from matching each stage's physics."
+   ],
+   "takeaway": "Cyclone growth and decay are driven by different physics.",
+   "source": "W10 p59–61"
+  },
+  {
+   "id": "q276",
+   "topic": "w10d",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What information do cyclone warning systems provide?",
+   "options": [
+    "Alerts based on the first seismic waves, like earthquake warnings",
+    "Location, intensity and movement, forecast up to several days ahead",
+    "Only the wind speed at landfall, issued once the storm has arrived",
+    "The exact time and place a cyclone will form, weeks before it does"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Cyclone warnings come from tracking the storm, not seismic waves.",
+    "Correct. Warning systems give a cyclone's location, intensity and movement up to five days ahead, updated more often as it nears.",
+    "Warnings are issued well before landfall, not only once the storm arrives.",
+    "Warnings track storms once they exist; they do not predict formation weeks ahead."
+   ],
+   "takeaway": "Cyclone warnings give location, intensity and movement days ahead.",
+   "source": "W10 p43"
+  },
+  {
+   "id": "q277",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "In which stage of a thunderstorm do downdrafts dominate and cut off the supply of warm, moist air?",
+   "options": [
+    "The dissipating stage, as cool air spreads out at the ground",
+    "The building stage, as warm, moist air rises and condenses",
+    "The earliest stage, before any cloud has started to form",
+    "The mature stage, as the anvil forms near the tropopause"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. In the dissipating stage, downdrafts dominate; cool air spreads out at the ground and cuts off the warm, moist air, so the updraft weakens.",
+    "The building stage is dominated by updrafts.",
+    "Before cloud forms there are no storm downdrafts.",
+    "The mature stage has downdrafts alongside updrafts, but they do not yet dominate."
+   ],
+   "takeaway": "Thunderstorm stages: building (updrafts) → mature (both) → dissipating (downdrafts).",
+   "source": "W10 p74–77"
+  },
+  {
+   "id": "q278",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why are thunderstorms especially common at latitudes near the equator?",
+   "options": [
+    "Strong, steady winds there carry storms in from higher latitudes",
+    "Cold, dry air sinks steadily, compressing and heating up the ground",
+    "Warm, moist, unstable air rises rapidly, condenses and releases heat",
+    "The Coriolis force is strongest there, spinning the air into storms"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Near-equatorial thunderstorms form locally rather than being carried in.",
+    "Sinking, dry air suppresses storms.",
+    "Correct. Thunderstorms form as unstable, warm and moist air rapidly rises into colder air and condenses, releasing heat and driving the updraft.",
+    "The Coriolis force is weakest near the equator."
+   ],
+   "takeaway": "Thunderstorms grow from warm, moist, unstable air rising and releasing latent heat.",
+   "source": "W10 p78–81"
+  },
+  {
+   "id": "q279",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Lightning in Singapore peaks during the inter-monsoon months rather than during the monsoons. What explains this?",
+   "options": [
+    "Cooler air in those months makes the atmosphere very stable",
+    "Strong monsoon winds then carry storms in from the open sea",
+    "The ITCZ moves far away then, leaving only lightning behind",
+    "Light, variable winds then favour local, intense thunderstorms"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A stable atmosphere suppresses thunderstorms.",
+    "Inter-monsoon months lack strong prevailing winds.",
+    "Lightning comes with thunderstorms; it does not occur on its own.",
+    "Correct. The inter-monsoon months have predominantly light and variable winds, which favour localised, intense thunderstorms."
+   ],
+   "takeaway": "Light, variable inter-monsoon winds favour local thunderstorms and lightning.",
+   "source": "W10 p89"
+  },
+  {
+   "id": "q280",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "How does a thunderstorm build up the charge that lightning later releases?",
+   "options": [
+    "Friction between the cloud and the ground builds charge in the soil",
+    "Colliding ice particles transfer charge, and updrafts separate it",
+    "Falling rain carries positive charge down, leaving the cloud negative",
+    "Sunlight charges the cloud top, while the sea charges its base"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The charge builds inside the cloud, not through friction with the ground.",
+    "Correct. Collisions between ice particles transfer charge, and updrafts and falling particles separate it, leaving the cloud top mainly positive and the base mainly negative.",
+    "The cloud ends up with a positive top and negative base, not wholly negative.",
+    "Charge separation happens within the cloud, not from sunlight or the sea."
+   ],
+   "takeaway": "Ice collisions transfer charge; updrafts separate it top from bottom.",
+   "source": "W10 p86"
+  },
+  {
+   "id": "q281",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Why are tall objects beneath a thunderstorm more likely to be struck by lightning?",
+   "options": [
+    "Tall objects reach right up into the cloud, where all lightning is generated",
+    "Tall objects are usually made of metal, and lightning only ever strikes metal",
+    "The negative cloud base draws positive charge up, gathering on tall objects",
+    "The positive cloud base draws negative charge upward through the tallest objects"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Tall objects do not reach into the cloud; they concentrate the attracted charge.",
+    "Lightning does not strike only metal.",
+    "Correct. The negative cloud base attracts positive charge to the ground beneath it, especially around tall objects; when the field is strong enough, lightning discharges.",
+    "The cloud base is mainly negative, not positive."
+   ],
+   "takeaway": "Positive ground charge gathers on tall objects beneath the negative cloud base.",
+   "source": "W10 p86"
+  },
+  {
+   "id": "q282",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "What causes thunder?",
+   "options": [
+    "Clouds collide in the sky, and the impact creates a loud boom of sound",
+    "Lightning heats air so fast it expands, then contracts, making sound",
+    "Charge leaving the ground pulls the air apart in a sudden sonic boom",
+    "Raindrops fall through the lightning channel and burst into steam"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Clouds do not produce thunder by colliding.",
+    "Correct. Lightning rapidly heats the air, which expands rapidly, then cools and contracts, generating sound waves.",
+    "Thunder comes from rapid heating and expansion of air along the flash.",
+    "Thunder comes from the heated air itself, not raindrops."
+   ],
+   "takeaway": "Thunder is the sound of air rapidly heated and expanded by lightning.",
+   "source": "W10 p88"
+  },
+  {
+   "id": "q283",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "You hear thunder 6 seconds after seeing a lightning flash. Sound travels about 340 m every second. Roughly how far away was the lightning?",
+   "options": [
+    "About 6 km away",
+    "About 340 m away",
+    "About 20 km away",
+    "About 2 km away"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This treats each second as a kilometre; sound covers only about a third of a kilometre per second.",
+    "That is the distance sound travels in one second, not six.",
+    "This is far too large for a six-second delay.",
+    "Correct. Light arrives almost instantly, so the delay is the sound's travel time: 6 × 340 m ≈ 2 km."
+   ],
+   "takeaway": "Distance to lightning ≈ seconds of delay × 340 m.",
+   "source": "W10 p88"
+  },
+  {
+   "id": "q284",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does thunder rumble on rather than arriving as a single crack?",
+   "options": [
+    "Sound from the near part of the flash arrives before sound from the far part",
+    "The air keeps heating for minutes after the flash, which stretches out the sound",
+    "Lightning strikes many times a second along one path, and each strike is heard",
+    "The sound bounces back and forth between the base and the top of the cloud"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. We hear thunder from the closest part of the flash first and the farthest part last, which causes the rumble.",
+    "The heating is extremely brief; the rumble comes from different travel distances.",
+    "The rumble is explained by distance along the flash, not repeated strikes.",
+    "Echoes within the cloud are not the explanation given."
+   ],
+   "takeaway": "Thunder rumbles because sound arrives from near and far parts of the flash at different times.",
+   "source": "W10 p88"
+  },
+  {
+   "id": "q285",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why are downbursts from strong thunderstorms dangerous to aircraft close to the ground?",
+   "options": [
+    "They cause sudden wind shear, so planes can lose lift from under their wings",
+    "They pull aircraft upward into the cloud, where lightning then strikes them",
+    "They carry volcanic ash downward, damaging jet engines near the runway",
+    "They drive hail into the engines, which then fail during take-off or landing"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Downbursts are areas of rapidly descending air that cause wind shear, a sudden change in wind speed or direction, which can make planes lose lift.",
+    "Downbursts push air down, not up.",
+    "Downbursts are not linked to volcanic ash.",
+    "The danger described is wind shear, not hail in the engines."
+   ],
+   "takeaway": "Downbursts create wind shear that can rob aircraft of lift near the ground.",
+   "source": "W10 p92"
+  },
+  {
+   "id": "q286",
+   "topic": "w10e",
+   "week": 10,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "What allows hailstones to grow large inside a thunderstorm?",
+   "options": [
+    "Warm air near the ground melts and refreezes them into big stones",
+    "Weak updrafts let them fall slowly, picking up snow as they go",
+    "Strong updrafts carry them up and down, adding layers of ice",
+    "Lightning fuses small ice pellets together into a single stone"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Hail grows high in the cold atmosphere, not near the warm ground.",
+    "Large hail needs strong updrafts to keep it aloft.",
+    "Correct. Strong updrafts carry droplets high where they freeze; repeated up-and-down movement adds layers of ice until the hailstones are too heavy for the updraft.",
+    "Lightning does not build hailstones."
+   ],
+   "takeaway": "Hail grows as strong updrafts cycle it through cold air, adding ice layers.",
+   "source": "W10 p94–95"
+  },
+  {
+   "id": "q287",
+   "topic": "w11a",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Where does a delta form?",
+   "options": [
+    "Where a river splits around a mountain and drops all of its heaviest rocks",
+    "Where a river enters slower water that cannot carry away its sediment",
+    "Where a river speeds up through a narrow gorge and erodes its bed",
+    "Where seawater flows inland and leaves sediment on the river bed"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Deltas form at a river's mouth, where it meets slower water, not around mountains.",
+    "Correct. A delta is a low-lying landform built by sediment a river deposits as it enters slower-moving or stagnant water that cannot carry the sediment away.",
+    "Speeding up and eroding is the opposite of what builds a delta.",
+    "The sediment comes from the river, not the sea."
+   ],
+   "takeaway": "Deltas form where a river's sediment is dropped into slower water.",
+   "source": "W11 p5"
+  },
+  {
+   "id": "q288",
+   "topic": "w11a",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "As a delta builds out into the sea and the river's course becomes longer, what must happen to the river bed further upstream?",
+   "options": [
+    "It stays fixed, as only the mouth of the river is ever affected",
+    "It falls, as a longer river cuts down deeper into its bed",
+    "It moves sideways only, as rivers never change in height",
+    "It rises, as the river's grade adjusts to its longer course"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The whole profile adjusts, not just the mouth.",
+    "The bed rises rather than cuts down as the profile lengthens.",
+    "River beds do change in height as the profile adjusts.",
+    "Correct. As the river profile lengthens, the river bed at each point along its course has to rise so its grade adjusts to the increasing length."
+   ],
+   "takeaway": "A delta growing seaward lengthens the river, so its bed must rise upstream.",
+   "source": "W11 p10"
+  },
+  {
+   "id": "q289",
+   "topic": "w11a",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does a delta's seaward growth matter to people living along the lower reaches of its river?",
+   "options": [
+    "The river bed and water level rise relative to the land beside it",
+    "The river runs dry as the growing delta soaks up all of its water",
+    "The river speeds up, cutting a deep canyon through their land",
+    "The coastline retreats inland, moving the sea closer towards them"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. As the delta grows seaward, the river bed must rise, so the river sits higher relative to the surrounding land, with important consequences for flooding.",
+    "Delta growth does not dry the river up.",
+    "The river's grade adjusts by raising its bed, not by cutting a canyon.",
+    "Seaward growth moves the coastline outward, not inland."
+   ],
+   "takeaway": "Delta growth raises the river relative to the lower floodplain, raising flood risk.",
+   "source": "W11 p10, p59"
+  },
+  {
+   "id": "q290",
+   "topic": "w11a",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A delta has many distributary channels, some now only weakly connected to the main river. What does this suggest?",
+   "options": [
+    "Every channel carries equal flow, since deltas share water evenly",
+    "The main flow has shifted over time, leaving older channels behind",
+    "The sea carved the channels by flowing up the river at high tide",
+    "The older channels were dug by people to drain water off the delta"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The notes show some channels are much more active than others.",
+    "Correct. The most active distributaries are those still connected to the main river; others were more active when the main river fed them, showing the flow has shifted (avulsion).",
+    "The channels are distributaries carrying river water and sediment out to sea.",
+    "These are natural distributaries, not drainage channels."
+   ],
+   "takeaway": "Deltas shift their main channels over time, leaving older distributaries behind.",
+   "source": "W11 p9, p60"
+  },
+  {
+   "id": "q291",
+   "topic": "w11a",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "On a natural delta, floods and shifting channels spread fresh sediment widely. What happens once people confine the river with levees?",
+   "options": [
+    "Compaction stops, as the levees take weight off the land behind",
+    "Sediment builds up behind the levees, raising the land steadily",
+    "Sediment no longer reaches the land, which sinks as it compacts",
+    "Nothing changes, as sediment has no effect on the land's height"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Compaction of sand, mud and organic material continues regardless.",
+    "Levees keep sediment in the channel, not on the land behind them.",
+    "Correct. Levees stop floods and avulsions delivering sediment, so the land keeps compacting with nothing to replace it and sinks.",
+    "Sediment supply is what keeps a delta's surface up."
+   ],
+   "takeaway": "Levees starve deltas of sediment, so compacting land sinks.",
+   "source": "W11 p57–58, p64"
+  },
+  {
+   "id": "q292",
+   "topic": "w11b",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which of these is NOT included when a storm surge is measured?",
+   "options": [
+    "The rise in water above the normal tide",
+    "Water piled up by strong onshore winds",
+    "Sea level lifted by low air pressure",
+    "The height of the waves breaking on top"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This is exactly what storm surge measures.",
+    "Wind-driven piling up of water contributes to the surge.",
+    "Low pressure raising the sea contributes to the surge.",
+    "Correct. Storm surge is measured as the rise in water level above the normal tidal level and does not include waves."
+   ],
+   "takeaway": "Storm surge = rise above normal tide, excluding waves.",
+   "source": "W11 p13; W10 p32"
+  },
+  {
+   "id": "q293",
+   "topic": "w11b",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Which situation is the clearest example of compound flooding?",
+   "options": [
+    "A tsunami reaching a coast with no rain, wind or river flooding at the same time",
+    "A river rising slowly over several weeks after snow melts far upstream",
+    "A single heavy downpour flooding city streets on an otherwise calm day",
+    "Storm tide, heavy rain and high river flow combining to flood a coastal city"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A tsunami alone is a single driver.",
+    "This is one slow driver, not a combination.",
+    "A single driver acting alone is not compound flooding.",
+    "Correct. Compound flooding combines several drivers, such as storm tides and waves, precipitation, river discharge and sea-level rise."
+   ],
+   "takeaway": "Compound flooding: several drivers (surge, rain, river flow, sea level) combine.",
+   "source": "W11 p17–18"
+  },
+  {
+   "id": "q294",
+   "topic": "w11b",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A moderate high tide and moderate rainfall occur together. Neither is extreme on its own, but together they cause severe flooding. How should this be classified?",
+   "options": [
+    "As a compound event, since non-extreme events can combine into an extreme impact",
+    "As a single event, since only the larger of the two drivers is counted as a cause",
+    "Not as a compound event, since compound events must involve two separate extremes",
+    "As a cascading event, since one of the two hazards must have triggered the other"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. One definition of compound events includes combinations of events that are not themselves extremes but lead to an extreme event or impact when combined.",
+    "Compound events count the combination of drivers, not just one.",
+    "Compound events can involve non-extreme contributors.",
+    "A cascade requires one event to trigger another; here they simply coincide."
+   ],
+   "takeaway": "Compound events can arise from non-extreme drivers combining.",
+   "source": "W11 p18"
+  },
+  {
+   "id": "q295",
+   "topic": "w11b",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "As relative sea level rises, a moderate storm that once caused no flooding now floods a coastal town. Why?",
+   "options": [
+    "Higher sea level slows the waves, so the water lingers longer on the land",
+    "The same surge now starts from a higher base, so it reaches higher ground",
+    "Higher sea level makes storms stronger, so the surges are now much larger",
+    "The storm must be stronger than before, as surges never rise on their own"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The problem is the higher starting level, not slower waves.",
+    "Correct. Sea level is the baseline on which storm surges occur. A surge of the same size, starting from a higher base, reaches higher and further inland.",
+    "Sea-level rise raises the baseline; it does not by itself make storms stronger.",
+    "The storm can be the same; the baseline is what changed."
+   ],
+   "takeaway": "Sea-level rise raises the baseline, so ordinary surges flood more.",
+   "source": "W11 p15, p81"
+  },
+  {
+   "id": "q296",
+   "topic": "w11b",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which set lists the mechanisms of coastal flooding given in the notes?",
+   "options": [
+    "Tsunamis, soil liquefaction, and glacial isostatic adjustment of land",
+    "Heavy precipitation, uplift of the coast, and the cooling of seawater",
+    "Storm surges and tsunamis, heavy precipitation, and relative sea-level rise",
+    "Storm surges, river avulsions, and the slow thermal contraction of the seawater"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Liquefaction and glacial isostatic adjustment are not listed as flooding mechanisms.",
+    "Coastal uplift and cooling seawater reduce flood risk rather than causing it.",
+    "Correct. Coastal flooding mechanisms include storm surges and tsunamis, heavy precipitation and relative sea-level rise.",
+    "Thermal contraction would lower sea level, not cause flooding."
+   ],
+   "takeaway": "Coastal flooding: surges and tsunamis, heavy rain, relative sea-level rise.",
+   "source": "W11 p11, p20"
+  },
+  {
+   "id": "q297",
+   "topic": "w11c",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which pair are the two main global causes of sea-level rise?",
+   "options": [
+    "Coastal uplift in earthquakes, and growth of large deltas",
+    "Seawater shrinking as it cools, and growing sea ice",
+    "More rain over the oceans, and rivers carrying more water",
+    "Seawater expanding as it warms, and melting land ice"
+   ],
+   "answer": 3,
+   "rationales": [
+    "These are local land movements, not global causes of rising seas.",
+    "Cooling and growing ice would lower sea level.",
+    "Rain and rivers move water around the water cycle rather than adding to the ocean long term.",
+    "Correct. Warming makes seawater expand (thermal expansion), and melting glaciers and ice sheets add water to the ocean."
+   ],
+   "takeaway": "Global sea-level rise: thermal expansion plus melting land ice.",
+   "source": "W11 p34; W13 p22–24"
+  },
+  {
+   "id": "q298",
+   "topic": "w11c",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Long after the last ice age ended, land that lay under thick ice sheets is still slowly rising. Why?",
+   "options": [
+    "It is rebounding now that the heavy weight of the ice has been removed",
+    "Sea level is falling everywhere, which only makes the land look higher",
+    "Thermal expansion of the rock beneath is lifting the land as it warms",
+    "New ice is forming deep under the land and pushing the surface upward"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Post-glacial rebound is the rise of land after the huge weight of ice sheets was removed. Glacial isostatic adjustment is still ongoing.",
+    "Global sea level is rising, not falling; the land itself is moving up.",
+    "The rise comes from rebound after the ice load was removed, not thermal expansion of rock.",
+    "The land is rebounding from ice that has gone, not being pushed up by new ice."
+   ],
+   "takeaway": "Glacial isostatic adjustment: land still rebounding after ice-age ice sheets melted.",
+   "source": "W11 p32–33"
+  },
+  {
+   "id": "q299",
+   "topic": "w11c",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Two coastal towns experience the same global sea-level rise, but one sees a much faster relative rise. What best explains the difference?",
+   "options": [
+    "Relative rise depends only on how far each town is from the poles",
+    "The ocean rises more at some coasts because the water is denser",
+    "The faster town's land is subsiding, adding to the global rise",
+    "The faster town's land is being uplifted, adding to the rise"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Distance from the poles is not the controlling factor here.",
+    "The notes explain local differences through land motion, not density.",
+    "Correct. Relative sea level combines ocean rise with vertical land motion. A sinking coast adds to the global rise, so it experiences faster relative rise.",
+    "Uplift would reduce relative sea-level rise, not increase it."
+   ],
+   "takeaway": "Relative sea-level rise = ocean rise + land subsidence (or minus uplift).",
+   "source": "W11 p23, p42, p70"
+  },
+  {
+   "id": "q300",
+   "topic": "w11c",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why do the notes say tectonics matters for sea-level projections in Southeast Asia?",
+   "options": [
+    "Earthquakes heat the ocean water, adding directly to thermal expansion",
+    "Earthquake cycles raise or lower coasts, changing relative sea level",
+    "Tectonic motion is already fully included in every sea-level projection",
+    "Tectonic plates change the volume of the ocean basins every single year"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Earthquakes do not measurably heat the ocean.",
+    "Correct. In much of Southeast Asia tectonics is a local issue: earthquakes uplift or lower coasts, changing relative sea level, yet it is rarely incorporated into projections.",
+    "The notes say tectonics is rarely incorporated into projections.",
+    "Tectonics affects local land height, not ocean basin volume year to year."
+   ],
+   "takeaway": "Tectonic land motion changes relative sea level but is rarely in projections.",
+   "source": "W11 p24–28"
+  },
+  {
+   "id": "q301",
+   "topic": "w11c",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "After a great subduction earthquake, a weak mantle layer beneath the region slowly flows back toward the trench. How can this affect a city far from the trench?",
+   "options": [
+    "Its land can slowly sink for decades, raising its relative sea level",
+    "Its sea level falls, since the trench slowly draws the nearby water away",
+    "Its land rises sharply, removing its coastal flood risk for good",
+    "It is unaffected, since only land right beside the trench moves"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Slow mantle motion after a great earthquake can raise some land near the trench but make land farther away sink over time, raising relative sea level there.",
+    "Sinking land raises relative sea level; the trench does not draw water away.",
+    "The distant land sinks rather than rises.",
+    "The effect reaches far beyond the trench."
+   ],
+   "takeaway": "Post-earthquake mantle flow can make distant coasts subside for decades.",
+   "source": "W11 p27–28"
+  },
+  {
+   "id": "q302",
+   "topic": "w11c",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "During the last glacial maximum, global sea level was far lower than today. Why?",
+   "options": [
+    "The land everywhere was pushed up, moving the shoreline far out to sea",
+    "The oceans were warmer, so the seawater took up less room in the basins",
+    "Rivers stopped flowing, so the oceans slowly evaporated away into space",
+    "Large amounts of water were locked up in expanded ice sheets on land"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Ice actually pushed land down (isostatic depression); sea level fell because water was locked in ice.",
+    "It was colder, not warmer; colder water also takes up less space, but ice storage was the main cause.",
+    "Water was stored as ice, not lost to space.",
+    "Correct. Global ice cover rose sharply during the last glacial maximum, locking water on land, so sea level dropped by over 100 m."
+   ],
+   "takeaway": "Ice ages lower sea level by locking water up in land ice.",
+   "source": "W11 p30–32"
+  },
+  {
+   "id": "q303",
+   "topic": "w11c",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Why do accurate sea-level projections for a coast need global, regional and local processes together?",
+   "options": [
+    "Regional processes cancel out over time, so only global ones matter",
+    "Local land motion can add to or offset global ocean rise at any coast",
+    "Global processes are too small to matter compared with the local tides",
+    "Each process acts in only one place, so all of them must be listed"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Regional and local processes can dominate locally, as subsidence shows.",
+    "Correct. Sea level at a coast reflects global ocean rise plus regional and local processes such as subsidence, tectonics and glacial isostatic adjustment, so all are needed.",
+    "Global rise is a major driver everywhere.",
+    "Processes overlap and combine at every coast; they are not each confined to one place."
+   ],
+   "takeaway": "Projections must combine global ocean rise with regional and local land motion.",
+   "source": "W11 p23, p29"
+  },
+  {
+   "id": "q304",
+   "topic": "w11d",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why have the older parts of a large delta sunk over time?",
+   "options": [
+    "Wind erosion slowly removing the top layers of the sediment",
+    "Uplift of the river mouth, which slowly tilts the old delta downward",
+    "Compaction of sand and mud and the oxidation of organic material",
+    "Melting of ice layers buried deep beneath the delta sediment"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Wind erosion is not the explanation given.",
+    "The notes do not describe tilting by uplift at the mouth.",
+    "Correct. Older parts of the delta have sunk mainly because sand and mud compact and organic material in the sediments oxidises.",
+    "Deltas do not contain buried ice layers."
+   ],
+   "takeaway": "Delta sediments sink through compaction and oxidation of organic matter.",
+   "source": "W11 p58"
+  },
+  {
+   "id": "q305",
+   "topic": "w11d",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Parts of a large coastal city are sinking far faster than global sea level is rising. What is the most likely main cause?",
+   "options": [
+    "Earthquake uplift reversing after many quiet years have passed",
+    "Glacial isostatic adjustment from a former ice sheet nearby",
+    "Groundwater extraction, compacting the soft clays beneath the city",
+    "Thermal expansion of all the seawater lying directly under the city"
+   ],
+   "answer": 2,
+   "rationales": [
+    "This is not the cause the notes identify for rapid urban sinking.",
+    "Tropical delta cities were not under ice sheets.",
+    "Correct. Groundwater-related subsidence can make cities sink by many centimetres a year, much faster than global sea-level rise, especially on compactable clay.",
+    "Thermal expansion raises sea level; it does not sink the land."
+   ],
+   "takeaway": "Groundwater pumping can make cities sink faster than the sea rises.",
+   "source": "W11 p37–44, p69"
+  },
+  {
+   "id": "q306",
+   "topic": "w11d",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Which combination makes a low-lying delta city both sink and flood more?",
+   "options": [
+    "Strong uplift from earthquakes, and sediment delivered by river floods",
+    "Hard bedrock underneath, only a few buildings, and falling regional sea level",
+    "Cool ocean water, lightweight buildings, and frequent river avulsions",
+    "Groundwater pumping, heavy buildings on compactable clay, and rising seas"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Uplift and sediment supply raise land rather than sink it.",
+    "These would all reduce sinking and flooding.",
+    "None of these is identified as driving urban sinking.",
+    "Correct. Uncontrolled groundwater extraction, the sheer weight of urban build-up on compactable clay, more intense rain and sea-level rise together drive sinking and flooding."
+   ],
+   "takeaway": "Urban sinking: groundwater pumping + building weight on soft clay, worsened by sea-level rise.",
+   "source": "W11 p68–70"
+  },
+  {
+   "id": "q307",
+   "topic": "w11d",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A delta city lies below sea level, protected by levees. What happens if a storm surge overtops or breaches the levees?",
+   "options": [
+    "Little flooding occurs, as levees slow the water to a trickle",
+    "Water floods in and stays, as the land lies lower than the sea",
+    "Water drains away quickly, as the land slopes down to the sea",
+    "Only the levees are damaged, as surge cannot travel further in"
+   ],
+   "answer": 1,
+   "rationales": [
+    "A breach lets water pour through, not trickle.",
+    "Correct. Land below sea level fills like a bowl once levees are overtopped or breached, and water cannot drain back out naturally.",
+    "Land below sea level cannot drain back to the sea by gravity.",
+    "Once levees fail, surge water floods the low land behind them."
+   ],
+   "takeaway": "Below-sea-level cities behind levees flood catastrophically if the levees fail.",
+   "source": "W11 p59–62, p67"
+  },
+  {
+   "id": "q308",
+   "topic": "w11d",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Floods that spread sand across a delta are a natural process. Why do they turn into disasters in delta cities?",
+   "options": [
+    "People settle the floodplain and cut off the sediment that kept land up",
+    "Natural floods are disasters anyway, whether or not anyone lives there",
+    "Floods carry far more sand than before, burying deltas faster than ever",
+    "Sand laid down by floods weakens the levees until they finally collapse"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Flooding and sediment deposition are natural; human activities removed the sediment supply and placed people in harm's way, turning a natural process into a disaster.",
+    "A hazard only becomes a disaster when it affects an exposed, vulnerable society.",
+    "The process has not become more extreme; the setting has changed.",
+    "The notes do not blame flood sand for weakening levees."
+   ],
+   "takeaway": "Natural delta flooding becomes disaster when people settle there and cut off sediment.",
+   "source": "W11 p63–65"
+  },
+  {
+   "id": "q309",
+   "topic": "w11e",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which are the three response strategies to sea-level rise named in the notes?",
+   "options": [
+    "Retreat, accommodate and defend",
+    "Defend, insure and wait it out",
+    "Accommodate, relocate and drain",
+    "Retreat, evacuate and rebuild"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The three strategies are planned retreat, accommodate (adapt) and defend or protect with soft or hard engineering.",
+    "Insurance and waiting are not among the three strategies.",
+    "Draining the sea is not a strategy in the notes.",
+    "Evacuation and rebuilding are not the named strategies."
+   ],
+   "takeaway": "Sea-level rise responses: retreat, accommodate, defend.",
+   "source": "W11 p72"
+  },
+  {
+   "id": "q310",
+   "topic": "w11e",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A coastal town raises its houses on stilts and lets seasonal flood water pass beneath them. Which strategy is this?",
+   "options": [
+    "Defend, using hard engineering to keep the sea out of the town entirely",
+    "Planned retreat, moving people away from the coastline to safer ground",
+    "Accommodate, letting natural effects occur while limiting the impacts",
+    "Defend, using soft engineering such as restoring the coastal wetlands"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Stilts let water in rather than keeping it out.",
+    "People stay in place, so this is not retreat.",
+    "Correct. Accommodation lets natural system effects occur while minimising human impacts.",
+    "No wetlands are being restored; the town is adapting its buildings."
+   ],
+   "takeaway": "Accommodate = live with the water while minimising its impact.",
+   "source": "W11 p72"
+  },
+  {
+   "id": "q311",
+   "topic": "w11e",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "A city compares building a seawall with restoring mangroves and wetlands along its coast. How do these fit the response strategies?",
+   "options": [
+    "The seawall is planned retreat, while the mangroves count as accommodation",
+    "Neither is a way to defend, since defending means abandoning the coastline",
+    "The mangroves are planned retreat, as they push the shoreline further inland",
+    "Both defend: one by hard engineering, the other by soft, nature-based means"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A seawall defends; it does not retreat.",
+    "Abandoning the coastline is retreat, not defence.",
+    "Mangroves protect the shoreline rather than retreat from it.",
+    "Correct. Defend or protect can use hard engineering, such as seawalls and barriers, or soft engineering, such as nature-based solutions like mangroves and wetlands."
+   ],
+   "takeaway": "Defend can be hard (seawalls) or soft (nature-based solutions).",
+   "source": "W11 p72–78"
+  },
+  {
+   "id": "q312",
+   "topic": "w11e",
+   "week": 11,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why might planned retreat be chosen despite its heavy social costs?",
+   "options": [
+    "It lets the coast keep its levees, since nobody needs to maintain them",
+    "It minimises losses and can be the most cost-effective long-term response",
+    "It is always the cheapest option in the very first year of any project",
+    "It stops sea level from rising, since people no longer live along the coast"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Retreat is not about keeping levees.",
+    "Correct. Planned retreat minimises losses and maximises the cost-effectiveness of the response.",
+    "Retreat is justified by long-term outcomes, not first-year cost.",
+    "Retreat changes exposure; it does not affect sea level itself."
+   ],
+   "takeaway": "Planned retreat minimises long-term losses and can be the most cost-effective option.",
+   "source": "W11 p72"
+  },
+  {
+   "id": "q313",
+   "topic": "w11e",
+   "week": 11,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A huge movable barrier that closes across an estuary when a storm approaches is an example of what?",
+   "options": [
+    "Defence by hard engineering against storm surge",
+    "A nature-based solution built from living systems",
+    "Accommodation by letting surge water pass freely",
+    "Planned retreat away from a vulnerable estuary"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. A storm surge barrier is hard engineering used to defend against surge.",
+    "It is an engineered structure, not a living system.",
+    "The barrier blocks surge rather than letting it pass.",
+    "The barrier keeps people in place and protects them; it is not retreat."
+   ],
+   "takeaway": "Storm surge barriers are hard-engineering defences.",
+   "source": "W11 p72, p76"
+  },
+  {
+   "id": "q314",
+   "topic": "w13a",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "On short timescales, what mainly controls Earth's surface temperature?",
+   "options": [
+    "How close the Earth sits to the Moon at different times",
+    "How quickly the tectonic plates move across the mantle",
+    "How much sunlight is reflected and how much is absorbed",
+    "How much heat escapes the core through volcanic eruptions"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The Moon's distance is not a control on surface temperature in the notes.",
+    "Plate motion is far too slow to control surface temperature on short timescales.",
+    "Correct. On shorter timescales, Earth's surface temperature is influenced by how much sunlight is reflected and absorbed.",
+    "Heat from the core is not the main control on surface temperature."
+   ],
+   "takeaway": "Surface temperature depends on how much sunlight is reflected versus absorbed.",
+   "source": "W13 p4"
+  },
+  {
+   "id": "q315",
+   "topic": "w13a",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Compared with a clear night, why is a cloudy night usually warmer at the ground?",
+   "options": [
+    "Clouds stop cold air from sinking down from higher altitudes",
+    "Clouds release heat they stored from the Sun during the day",
+    "Clouds reflect leftover sunlight back down onto the ground at night",
+    "Clouds trap the infrared radiation given off by the ground"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The effect comes from trapped radiation, not blocked cold air.",
+    "The notes show clouds trapping outgoing infrared radiation, not releasing stored solar heat.",
+    "There is no sunlight at night to reflect.",
+    "Correct. At night the ground gives off infrared radiation; cloud cover traps it, so a cloudy night stays warmer than a clear one."
+   ],
+   "takeaway": "Clouds trap outgoing infrared at night, keeping the ground warmer.",
+   "source": "W13 p4"
+  },
+  {
+   "id": "q316",
+   "topic": "w13a",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is the greenhouse effect?",
+   "options": [
+    "Gases in the atmosphere reflect incoming sunlight, cooling the surface",
+    "Gases in the atmosphere trap heat given off by the surface, warming it",
+    "Gases form aerosols that block sunlight, just as volcanic SO₂ does",
+    "Gases thin out the atmosphere, letting much more sunlight reach the ground"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Reflecting sunlight would cool; greenhouse gases warm by trapping outgoing heat.",
+    "Correct. Greenhouse gases such as CO₂ trap heat radiated from Earth's surface, warming the lower atmosphere and surface.",
+    "Aerosols from SO₂ cool the climate, the opposite of the greenhouse effect.",
+    "Greenhouse gases do not thin the atmosphere."
+   ],
+   "takeaway": "Greenhouse effect: atmospheric gases trap heat radiated from the surface.",
+   "source": "W13 p5–7"
+  },
+  {
+   "id": "q317",
+   "topic": "w13a",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "How do volcanic SO₂ and CO₂ from burning fossil fuels differ in their effect on climate?",
+   "options": [
+    "SO₂ traps heat and warms for a long time; CO₂ forms aerosols that cool briefly",
+    "Both trap heat, but SO₂ does so far more strongly and for much longer than CO₂",
+    "SO₂ forms aerosols that cool briefly; CO₂ traps heat and warms for a long time",
+    "Both form aerosols that reflect sunlight, cooling the climate for several years"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The two roles are swapped.",
+    "SO₂'s main climate effect is cooling through aerosols.",
+    "Correct. Volcanic SO₂ forms sulphate aerosols that reflect sunlight and temporarily cool the climate, while CO₂ is a greenhouse gas that warms over the long term.",
+    "CO₂ warms; it does not form reflecting aerosols."
+   ],
+   "takeaway": "SO₂ aerosols cool briefly; CO₂ warms long-term.",
+   "source": "W13 p8; W6 p28"
+  },
+  {
+   "id": "q318",
+   "topic": "w13a",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why is the link between CO₂, water vapour and warming described as a positive feedback loop?",
+   "options": [
+    "Warming raises evaporation and vapour, which adds still more warming",
+    "Water vapour forms clouds that always reflect sunlight and cool Earth",
+    "Warming lowers evaporation and vapour, which then cools the climate",
+    "Water vapour helps crops grow, which is good for the environment"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Greenhouse warming increases evaporation, and warmer air holds more water; more water vapour increases greenhouse warming, so the cycle reinforces itself.",
+    "The loop described is about vapour trapping heat, which amplifies warming.",
+    "Warmer air holds more vapour, not less.",
+    "Positive here means self-reinforcing, not beneficial."
+   ],
+   "takeaway": "Positive feedback = self-reinforcing: warming → more vapour → more warming.",
+   "source": "W13 p9; W9 p29"
+  },
+  {
+   "id": "q319",
+   "topic": "w13a",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "If human CO₂ emissions stopped today, why would global temperature not fall significantly for a very long time?",
+   "options": [
+    "The oceans would suddenly absorb all the CO₂ and then freeze over",
+    "CO₂ already taken up by the oceans would slowly be released back",
+    "Volcanoes would immediately replace all of the CO₂ humans stopped",
+    "Plants would stop taking up CO₂ once all human emissions had ended"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The oceans release, rather than suddenly absorb, stored CO₂.",
+    "Correct. CO₂ added to the oceans would slowly release back to the atmosphere, preventing a significant temperature drop for at least 1,000 years.",
+    "Volcanic output does not suddenly rise to replace human emissions.",
+    "Plants do not stop taking up CO₂ when emissions stop."
+   ],
+   "takeaway": "Ocean-stored CO₂ returning to the air keeps temperatures high long after emissions stop.",
+   "source": "W13 p10"
+  },
+  {
+   "id": "q320",
+   "topic": "w13a",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why is the amount of CO₂ in the atmosphere rising?",
+   "options": [
+    "The seasonal cycle of CO₂ has grown stronger each year",
+    "Volcanic activity has risen sharply over recent decades",
+    "Plants and oceans have released all of their stored CO₂",
+    "Human emissions exceed what plants and oceans take up"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The seasonal cycle sits on top of the long-term rise; it does not cause it.",
+    "The notes attribute the rise to human emissions, not volcanoes.",
+    "Plants and oceans are still taking up CO₂; they just cannot keep pace.",
+    "Correct. CO₂ from human activities is greater than what plants and oceans can take up, so the excess accumulates."
+   ],
+   "takeaway": "CO₂ accumulates because human emissions outpace natural uptake.",
+   "source": "W13 p10, p30–32"
+  },
+  {
+   "id": "q321",
+   "topic": "w13b",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A small rise in average temperature shifts the whole temperature distribution towards warmer values. What happens to extremely hot days?",
+   "options": [
+    "They fall, since a warmer average narrows the spread of temperatures",
+    "They rise sharply, as once-rare hot days become far more frequent",
+    "They rise by the same small amount as the average temperature does",
+    "They stay just as rare, since only the middle of the curve moves"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The distribution has actually broadened, not narrowed.",
+    "Correct. Shifting the whole bell curve makes temperatures that were once rare much more frequent, so extreme heat increases disproportionately.",
+    "A small shift in the average causes a much larger change at the hot tail.",
+    "The whole distribution shifts, including the tails."
+   ],
+   "takeaway": "A small average shift makes once-rare extreme heat much more common.",
+   "source": "W13 p13–15"
+  },
+  {
+   "id": "q322",
+   "topic": "w13b",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "As the planet has warmed, the distribution of temperatures has also become broader. What is the most likely reason?",
+   "options": [
+    "Cold extremes have become more common everywhere",
+    "Every region is warming at exactly the same rate",
+    "Weather stations have been removed in recent years",
+    "Different regions are warming at different rates"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The distribution shifts warmer; cold extremes are not becoming more common everywhere.",
+    "Identical warming everywhere would shift the curve without broadening it.",
+    "The notes do not attribute the broadening to station changes.",
+    "Correct. The broadening is most likely due to differential regional warming."
+   ],
+   "takeaway": "Uneven regional warming broadens the temperature distribution.",
+   "source": "W13 p14"
+  },
+  {
+   "id": "q323",
+   "topic": "w13b",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why can a heatwave persist for days under a stationary high-pressure system?",
+   "options": [
+    "Sinking air warms by compression and suppresses cloud, so heat builds up",
+    "Low pressure draws warm ocean air inland, where it sits for several days",
+    "Strong winds keep blowing hot air in from deserts, refreshing the heat",
+    "Rising air cools and forms cloud, which then traps the heat underneath"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Persistent high pressure makes air sink and warm through compression, suppressing cloud and rain. Clear skies allow strong solar heating, and the pattern lets heat build over days.",
+    "Heatwaves are linked to high pressure, not low.",
+    "Heatwaves under high pressure have weak, not strong, winds.",
+    "High pressure brings sinking, not rising, air."
+   ],
+   "takeaway": "Heatwaves: high pressure → sinking, warming air → clear skies → heat builds.",
+   "source": "W13 p16"
+  },
+  {
+   "id": "q324",
+   "topic": "w13b",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Air sinking under a heatwave's high-pressure system warms up. Which earlier concept explains this warming?",
+   "options": [
+    "Latent heat, released by condensation inside the sinking air",
+    "The Coriolis effect, turning sinking air towards the equator",
+    "Adiabatic warming, as sinking air is compressed and heats",
+    "Thermal expansion, as the air expands while it sinks and warms"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Sinking air suppresses cloud, so there is little condensation.",
+    "Coriolis changes wind direction, not temperature.",
+    "Correct. Falling air compresses and warms adiabatically, the reverse of rising air expanding and cooling.",
+    "Sinking air is compressed, not expanded."
+   ],
+   "takeaway": "Sinking air warms by compression (adiabatic warming).",
+   "source": "W13 p16; W9 p20–21"
+  },
+  {
+   "id": "q325",
+   "topic": "w13c",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Recent sea-level rise is broken down into two main modelled causes. What are they?",
+   "options": [
+    "More rain falling over the oceans, and more water in rivers",
+    "Seafloor uplift under the oceans, and coastal land sinking",
+    "Seawater shrinking as the ocean cools, and growing glaciers",
+    "Seawater expanding as the ocean warms, and melting land ice"
+   ],
+   "answer": 3,
+   "rationales": [
+    "These move water around rather than raising the long-term ocean level.",
+    "These are local land motions, not the two global modelled causes.",
+    "Cooling and growing glaciers would lower sea level.",
+    "Correct. The two main causes are sea water expansion from ocean warming and melting land-based glaciers and ice sheets."
+   ],
+   "takeaway": "Sea-level rise = thermal expansion + melting land ice.",
+   "source": "W13 p22–24"
+  },
+  {
+   "id": "q326",
+   "topic": "w13c",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which of these is NOT a consequence of sea-level rise listed in the notes?",
+   "options": [
+    "Coastal populations being forced to move",
+    "Low levees overtopped during flood events",
+    "Stronger earthquakes along faults nearby",
+    "Salt water getting into freshwater aquifers"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Displacement of coastal populations is a listed consequence.",
+    "Low levees being overtopped during floods is a listed consequence.",
+    "Correct. Sea-level rise is not listed as making earthquakes stronger.",
+    "Salt water contaminating freshwater aquifers is a listed consequence."
+   ],
+   "takeaway": "Sea-level rise: coastal flooding, salty aquifers, overtopped levees, displacement.",
+   "source": "W13 p27"
+  },
+  {
+   "id": "q327",
+   "topic": "w13c",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "For a large, low-lying delta nation, why is simply raising levees everywhere not a practical answer to sea-level rise?",
+   "options": [
+    "Raising levees across such vast areas would cost far too much money",
+    "Levees cannot be built on deltas, as the sediment there is too hard",
+    "Levees would make floods less frequent, which the land cannot cope with",
+    "Sea-level rise will stop by itself before levees would be needed"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Raising levees across a vast delta would be cost-prohibitive, especially where floods already affect a large share of the land.",
+    "Delta sediment is soft, not too hard, and levees are built on deltas.",
+    "The barrier is cost, not reduced flooding.",
+    "Sea level reacts slowly and will keep rising for a long time."
+   ],
+   "takeaway": "For vast deltas, raising levees everywhere is cost-prohibitive.",
+   "source": "W13 p27"
+  },
+  {
+   "id": "q328",
+   "topic": "w13c",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "As sea level rises, wells in a coastal town begin to taste salty. What has most likely happened?",
+   "options": [
+    "Rain has become saltier as the ocean evaporates more quickly",
+    "Seawater has pushed into the fresh aquifer under the town",
+    "The town's pipes have corroded, releasing salt into its water",
+    "Sea spray from storms has slowly collected inside the wells"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Evaporation leaves salt behind in the ocean, so rain is fresh.",
+    "Correct. Rising seas let salt water contaminate freshwater aquifers.",
+    "Corrosion is not the consequence of sea-level rise described.",
+    "Spray does not explain groundwater turning salty."
+   ],
+   "takeaway": "Sea-level rise drives salt water into coastal freshwater aquifers.",
+   "source": "W13 p27"
+  },
+  {
+   "id": "q329",
+   "topic": "w13c",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Why will sea level keep rising for centuries even if global warming were to stop?",
+   "options": [
+    "Sea level reacts instantly, so the rise will stop the moment warming stops",
+    "Sea level is set by plate tectonics, which no climate action can affect",
+    "Sea level reacts slowly to warming, so the rise continues long afterwards",
+    "Sea level depends only on rainfall, which will keep rising regardless"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The response is slow, not instant.",
+    "Tectonics affects local relative sea level, but the global rise is driven by warming.",
+    "Correct. Sea level reacts very slowly to global warming, so once started, the rise continues for thousands of years.",
+    "Rainfall is not the driver; thermal expansion and ice melt are."
+   ],
+   "takeaway": "Sea-level rise lags warming and continues for a very long time.",
+   "source": "W13 p34–36"
+  },
+  {
+   "id": "q330",
+   "topic": "w13d",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "The Keeling Curve of atmospheric CO₂ shows two patterns. What are they?",
+   "options": [
+    "A falling long-term trend with no seasonal change at all",
+    "A seasonal cycle on top of a rising long-term trend",
+    "A steady level broken only by sudden volcanic jumps",
+    "A daily cycle that has stayed flat over the decades"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The long-term trend is rising, and there is a clear seasonal cycle.",
+    "Correct. The Keeling Curve, the longest record of directly measured CO₂, shows a seasonal cycle superimposed on a long-term rise.",
+    "The record shows a steady rise with a seasonal cycle, not volcanic jumps.",
+    "The plotted cycle is seasonal and the trend is rising."
+   ],
+   "takeaway": "Keeling Curve: seasonal cycle on a rising long-term trend.",
+   "source": "W13 p30"
+  },
+  {
+   "id": "q331",
+   "topic": "w13d",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "How do ice cores show that today's atmospheric CO₂ level is unusual?",
+   "options": [
+    "Ice records past CO₂, which long stayed in a far lower range",
+    "Ice records past eruptions, which released more CO₂ than today",
+    "Ice records past sea levels, which were always higher than today",
+    "Ice records only temperature, so past CO₂ has to be guessed"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Ice cores trace past climate: for hundreds of thousands of years CO₂ stayed in a lower range, far below today's level.",
+    "Past CO₂ never reached today's level, so eruptions did not release more.",
+    "Ice cores are used here to trace past CO₂, not sea level.",
+    "Ice cores record past CO₂ directly, not just temperature."
+   ],
+   "takeaway": "Ice cores show CO₂ today is far outside its range of the past several hundred thousand years.",
+   "source": "W13 p31–32"
+  },
+  {
+   "id": "q332",
+   "topic": "w13d",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Over one decade, global temperature rises very little even though emissions keep growing. How do the notes explain this?",
+   "options": [
+    "Warming has stopped, so emissions no longer affect global temperature",
+    "Rising emissions cool the climate over periods of about a decade",
+    "The records must be wrong, since warming always rises perfectly steadily",
+    "Natural variability can temporarily dampen or boost the warming trend"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A short pause does not mean warming has ended or that emissions no longer matter.",
+    "Emissions warm the climate; natural variability explains the pause.",
+    "Year-to-year natural variability means warming is not perfectly steady.",
+    "Correct. Over short timescales, typically a decade, natural variability can temporarily dampen or accentuate global warming trends."
+   ],
+   "takeaway": "Natural variability can mask or boost the warming trend over a decade.",
+   "source": "W13 p34"
+  },
+  {
+   "id": "q333",
+   "topic": "w13d",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "According to the IPCC summary in the notes, what must happen for global temperature to stabilise?",
+   "options": [
+    "CO₂ emissions need to stop growing",
+    "CO₂ emissions need to fall by half",
+    "CO₂ in the air needs to double once",
+    "CO₂ emissions need to reach net zero"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Emissions that stay flat still add CO₂, so warming continues.",
+    "Halving emissions still adds CO₂ each year.",
+    "Doubling CO₂ would cause more warming, not stabilise it.",
+    "Correct. For temperature to stabilise, CO₂ emissions need to reach net zero."
+   ],
+   "takeaway": "Temperature stabilises only when CO₂ emissions reach net zero.",
+   "source": "W13 p34"
+  },
+  {
+   "id": "q334",
+   "topic": "w13e",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "How does peat form?",
+   "options": [
+    "Organic matter builds up faster than it decays in waterlogged ground",
+    "Organic matter decays quickly in dry, airy soil, leaving carbon behind",
+    "Seawater floods coastal forests, turning the wood into salt deposits",
+    "Volcanic ash buries forests, which are then compressed into hard rock"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Peat forms when organic matter accumulates faster than it decomposes, because waterlogged conditions lack oxygen.",
+    "Dry, airy soil speeds decay, which prevents peat from building up.",
+    "Peat is accumulated organic matter, not salt.",
+    "Peat forms from waterlogged organic matter, not from buried forests turned to rock."
+   ],
+   "takeaway": "Peat: organic matter accumulating faster than it decays in waterlogged, low-oxygen ground.",
+   "source": "W13 p38"
+  },
+  {
+   "id": "q335",
+   "topic": "w13e",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why are fires in drained peatlands so hard to put out?",
+   "options": [
+    "They spread only through treetops, out of reach of fire crews",
+    "They burn down towards the water table and smoulder for months",
+    "They burn so hot that water turns to steam before reaching them",
+    "They restart each day from lightning, which is common over peat"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Peat fires burn in the ground, not the treetops.",
+    "Correct. In dried peat, fires can penetrate the ground to near the water table, smouldering undetected for months, even after rain or under snow, and spreading far.",
+    "The difficulty is that they burn underground, not their temperature.",
+    "Peat fires persist by smouldering underground, not by daily lightning."
+   ],
+   "takeaway": "Drained peat fires smoulder underground for months and are hard to extinguish.",
+   "source": "W13 p43"
+  },
+  {
+   "id": "q336",
+   "topic": "w13e",
+   "week": 13,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A peat swamp forest is drained and cleared for plantations. What is the likely consequence for the climate?",
+   "options": [
+    "Peat stops forming, but none of the carbon already stored is affected",
+    "Draining locks the carbon away more tightly, which helps cool the climate",
+    "The dried peat can burn and release its stored carbon, adding to warming",
+    "Plantations store more carbon than peat does, so emissions fall overall"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Stored carbon in dried peat is exposed to burning and decomposition.",
+    "Draining exposes the carbon to oxygen and fire rather than locking it away.",
+    "Correct. Draining removes the waterlogging that keeps peat intact, so it can burn and release its carbon. Peatlands are the most carbon-dense land ecosystem.",
+    "Peatlands store far more carbon than plantations."
+   ],
+   "takeaway": "Draining peat turns a carbon store into a carbon source.",
+   "source": "W13 p38–43"
+  },
+  {
+   "id": "q337",
+   "topic": "w13e",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Why do peatlands matter so much in climate change, despite covering a fairly small area of land?",
+   "options": [
+    "They produce most of the world's oxygen, offsetting human CO₂ emissions",
+    "They reflect more sunlight than any other ecosystem, cooling the planet",
+    "They are the most carbon-dense land ecosystem, storing vast carbon stocks",
+    "They hold little carbon but give off large amounts of SO₂ when they are wet"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Their importance lies in stored carbon, not oxygen production.",
+    "Peatlands are dark and waterlogged; their importance is carbon storage.",
+    "Correct. Peatlands are the most carbon-dense of any land ecosystem, storing more carbon than much larger ecosystems.",
+    "Peatlands hold a great deal of carbon."
+   ],
+   "takeaway": "Peatlands are the most carbon-dense land ecosystems.",
+   "source": "W13 p38–41"
+  },
+  {
+   "id": "q338",
+   "topic": "w13e",
+   "week": 13,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Which action best protects a peatland's role as a carbon store?",
+   "options": [
+    "Keeping the peat waterlogged so organic matter does not decompose",
+    "Draining the peat so that it dries out and is easier to farm on",
+    "Burning the surface vegetation regularly to control its growth",
+    "Replacing the peat swamp forest with industrial plantations"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Waterlogged, low-oxygen conditions are what let peat accumulate and keep its carbon.",
+    "Draining dries the peat, making it vulnerable to fire and decay.",
+    "Fires used to control vegetation can spread into dried peat and smoulder for months.",
+    "Conversion to plantations destroys peatlands."
+   ],
+   "takeaway": "Keep peat wet to keep its carbon locked away.",
+   "source": "W13 p38–43"
   }
  ]
 }
