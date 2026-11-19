@@ -1,0 +1,2762 @@
+{
+ "meta": {
+  "course": "ES5001",
+  "title": "Natural Hazards & Society",
+  "scope": "Weeks 1–7, 9–11 & 13",
+  "version": "1.0",
+  "updated": "2026-11-19",
+  "note": "Every question tests concepts, mechanisms and their application. No question asks for dates, magnitudes, temperatures or other facts about particular disasters."
+ },
+ "topics": [
+  {
+   "id": "w01a",
+   "week": 1,
+   "name": "Hazards, disasters & uneven impacts"
+  },
+  {
+   "id": "w01b",
+   "week": 1,
+   "name": "How geoscientists study and monitor Earth"
+  },
+  {
+   "id": "w01c",
+   "week": 1,
+   "name": "Plate tectonics as a unifying theory"
+  },
+  {
+   "id": "w02a",
+   "week": 2,
+   "name": "Earth's structure & mantle convection"
+  },
+  {
+   "id": "w02b",
+   "week": 2,
+   "name": "Seafloor spreading & magnetic stripes"
+  },
+  {
+   "id": "w02c",
+   "week": 2,
+   "name": "Plate boundaries & landforms"
+  },
+  {
+   "id": "w02d",
+   "week": 2,
+   "name": "Elastic rebound & seismic waves"
+  },
+  {
+   "id": "w02e",
+   "week": 2,
+   "name": "Fault types"
+  },
+  {
+   "id": "w03a",
+   "week": 3,
+   "name": "Magnitude, seismic moment & Gutenberg–Richter"
+  },
+  {
+   "id": "w03b",
+   "week": 3,
+   "name": "Magnitude vs intensity & ground shaking"
+  },
+  {
+   "id": "w03c",
+   "week": 3,
+   "name": "Earthquake types, exposure & vulnerability"
+  },
+  {
+   "id": "w03d",
+   "week": 3,
+   "name": "Tsunami generation & propagation"
+  },
+  {
+   "id": "w04a",
+   "week": 4,
+   "name": "Stages of the earthquake cycle"
+  },
+  {
+   "id": "w04b",
+   "week": 4,
+   "name": "Monitoring with GNSS, InSAR & seismometers"
+  },
+  {
+   "id": "w04c",
+   "week": 4,
+   "name": "Aftershocks & subduction zone deformation"
+  },
+  {
+   "id": "w04d",
+   "week": 4,
+   "name": "Warnings & reducing earthquake and tsunami risk"
+  }
+ ],
+ "questions": [
+  {
+   "id": "q001",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "A risk planner sorts hazards by the process that mainly causes them. Which classification follows the definitions in the notes?",
+   "options": [
+    "A flood is a geohazard, because the water moves across the Earth's surface",
+    "A tropical cyclone is a geohazard, because it forms over the Earth's oceans",
+    "A landslide is a geohazard, while a heatwave is a natural hazard that is not a geohazard",
+    "A volcanic eruption is not a geohazard, because its ash plume is carried by the atmosphere"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Floods arise mainly from hydrological processes, so the notes list them as natural hazards that are not geohazards. Moving across the surface is not the test.",
+    "Cyclones are driven by atmospheric circulation over warm oceans. Forming over the ocean does not make a hazard geological.",
+    "Correct. A geohazard is caused mainly by geological or Earth processes, such as a slope failing. A heatwave comes from atmospheric processes, so it is a natural hazard but not a geohazard.",
+    "The eruption is driven by processes inside the Earth, so it is a geohazard. The ash plume is a product of the eruption, not its cause."
+   ],
+   "takeaway": "Classify a hazard by the process that mainly drives it: geological processes make a geohazard; atmospheric, hydrological or biological ones do not.",
+   "source": "W1 p9"
+  },
+  {
+   "id": "q002",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Two towns are hit by floods of the same size. One suffers a disaster while the other sees only minor disruption. What best explains the difference?",
+   "options": [
+    "Floods are not geohazards, so whether they cause disasters is largely a matter of luck",
+    "Only one town received a forecast, and forecasts alone remove the unequal impacts",
+    "The flood must have been physically larger in the town where the disaster happened",
+    "The flood became a disaster only where it struck an exposed and vulnerable society"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Whether a hazard is a geohazard has nothing to do with whether it becomes a disaster. Exposure and vulnerability decide that, not luck.",
+    "The notes stress that scientific forecasts and monitoring alone cannot eliminate unequal impacts, so a forecast cannot be the full explanation.",
+    "The stem fixes the floods at the same size. The difference lies in the people and places affected, not the physical event.",
+    "Correct. A hazard becomes a disaster when it severely disrupts an exposed and vulnerable society. The same hazard can produce very different consequences for different people."
+   ],
+   "takeaway": "Hazard plus an exposed, vulnerable society makes a disaster; the same hazard can have very different outcomes.",
+   "source": "W1 p9–10"
+  },
+  {
+   "id": "q003",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A government spends its entire disaster budget on a world-class hazard monitoring network and nothing else. Based on the notes, what is the most likely outcome?",
+   "options": [
+    "Disaster risk should fall to zero for monitored hazards, since their timing will always be known well in advance",
+    "Unequal impacts are likely to remain, since risk reduction also needs policy, emergency management and communities",
+    "Unequal impacts should largely disappear, since better forecasts will reach every community in the same way",
+    "Disadvantaged communities should recover the fastest, since they gain the most from the new scientific data"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Monitoring improves understanding, but it does not remove exposure or vulnerability, so risk cannot fall to zero.",
+    "Correct. Forecasts and monitoring alone cannot eliminate unequal impacts. Reducing disaster risk needs science, policy, emergency management and communities working together.",
+    "Better forecasts do not change where people live, building quality, wealth or access to support, which shape exposure and vulnerability.",
+    "The notes say disadvantaged communities are often more exposed, less prepared and slower to recover. Data alone does not reverse that."
+   ],
+   "takeaway": "Monitoring is necessary but not sufficient: disaster risk reduction needs science, policy, emergency management and communities together.",
+   "source": "W1 p10"
+  },
+  {
+   "id": "q004",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which of the following is NOT one of the factors the notes list as shaping a community's exposure and vulnerability?",
+   "options": [
+    "The physical size of the hazard event that strikes the area",
+    "Where people live relative to the places the hazard reaches",
+    "The quality of buildings and the infrastructure people use",
+    "Household wealth and how much outside support people can get"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The size of the event describes the hazard itself. Exposure and vulnerability are about the society the hazard meets.",
+    "Where people live is listed as a key factor: it decides who is exposed to the hazard in the first place.",
+    "Building quality and infrastructure are listed factors. They decide how well people withstand the hazard.",
+    "Wealth and access to support are listed factors. They affect how well people prepare and how fast they recover."
+   ],
+   "takeaway": "Exposure and vulnerability describe the society (location, buildings, wealth, infrastructure, support), not the size of the hazard.",
+   "source": "W1 p10"
+  },
+  {
+   "id": "q005",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Two neighbourhoods feel the same earthquake shaking. Months later, the poorer neighbourhood is still struggling while the wealthier one has largely recovered. Which statement best explains this?",
+   "options": [
+    "The shaking must have been stronger in the poorer area, which is why recovery took longer there",
+    "Wealthier areas always suffer more damage, so they receive more help and recover sooner",
+    "Recovery speed depends only on the hazard, so the difference must have come down to chance",
+    "Disadvantaged communities are often less prepared and have less support, so recovery is slower"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The stem says both felt the same shaking. The difference comes from the communities, not the hazard.",
+    "Wealthier areas may lose more in value, but the notes link wealth with better preparation and faster recovery, not with more damage.",
+    "Recovery depends heavily on wealth, infrastructure and access to support, so the difference is not chance.",
+    "Correct. The notes say disadvantaged communities are often more exposed, less prepared and slower to recover. The same hazard produces different consequences for different people."
+   ],
+   "takeaway": "Inequality in exposure, preparation and support makes the same hazard hit disadvantaged communities harder and for longer.",
+   "source": "W1 p10"
+  },
+  {
+   "id": "q006",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "The notes say that natural hazards have unnatural impacts. What does this mean?",
+   "options": [
+    "The physical processes behind most hazards are poorly understood and so seem unnatural",
+    "The harm a hazard causes depends largely on how society is organised and where people live",
+    "Natural hazards only cause harm when scientists fail to forecast them in time for people",
+    "Most natural hazards are now triggered by human activities rather than by the Earth's processes"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The phrase is about impacts on society, not about how well scientists understand the physical processes.",
+    "Correct. A natural hazard becomes a disaster through its interaction with people and society, so its impacts are shaped by human factors.",
+    "Forecasts cannot eliminate unequal impacts, so harm does not depend only on whether a forecast was made.",
+    "The hazards themselves are still natural processes. The unnatural part is how their impacts are distributed across society."
+   ],
+   "takeaway": "The hazard is natural; the size and spread of its impacts are shaped by society.",
+   "source": "W1 p10"
+  },
+  {
+   "id": "q007",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Two hazards differ enormously in how large an area they affect and how long they last. According to the notes, which aspects does this difference in scale shape?",
+   "options": [
+    "How often they recur, their impacts, and how we monitor, prepare for and mitigate them",
+    "Whether each hazard should be counted as a natural hazard or as one caused by humans",
+    "Whether each hazard is a geohazard, with larger ones always counted as weather hazards",
+    "Only how often each hazard happens, since all hazards are monitored in the same way"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Hazards operate across many orders of magnitude in space and time, and this shapes their recurrence, intensity and impacts, how they interact, and how we measure, monitor, prepare and mitigate.",
+    "Scale does not decide whether a hazard is natural. Both small and very large hazards can be natural processes.",
+    "Classification as a geohazard depends on the process involved, not on size. Earthquakes are geohazards at every size.",
+    "Scale affects much more than frequency, including how hazards are measured and monitored, so they are not all monitored the same way."
+   ],
+   "takeaway": "A hazard's spatial and temporal scale shapes its frequency, impacts, interactions and how we monitor and manage it.",
+   "source": "W2 p3–5"
+  },
+  {
+   "id": "q008",
+   "topic": "w01b",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Why do geoscientists bring together many disciplines when studying the Earth and its hazards?",
+   "options": [
+    "Numerical models have replaced fieldwork, so disciplines now mainly share computer code",
+    "Each discipline studies a separate layer of the Earth, so their findings never need to meet",
+    "No single discipline explains the whole Earth, so different perspectives must be combined",
+    "Geoscience is really one single field, and its sub-fields differ only in their instruments"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Geoscientists still combine field observations, laboratory work, instruments, data and models. Models have not replaced fieldwork.",
+    "The disciplines overlap and depend on each other. Understanding Earth needs their findings to be combined.",
+    "Correct. Each discipline offers a different way to study Earth, and geoscience depends on bringing those perspectives together.",
+    "The notes describe many disciplines, each with a different way of studying Earth, not one field split only by instruments."
+   ],
+   "takeaway": "Geoscience works by combining disciplines, because no single one explains the whole Earth.",
+   "source": "W1 p11"
+  },
+  {
+   "id": "q009",
+   "topic": "w01b",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A geoscientist studies how a volcanic eruption sends ash into the atmosphere, which changes rainfall, which in turn triggers landslides on distant slopes. Which way of thinking is this?",
+   "options": [
+    "Thinking about time, by placing the eruption on a scale of billions of years",
+    "Spatial thinking, by picturing the volcano and the slopes in three dimensions",
+    "Treating Earth as a complex system of interacting processes and feedbacks",
+    "Learning in the field, by using the volcano's rocks as the direct evidence"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Thinking about time covers processes from seconds to billions of years, but this study is about linked processes, not long timescales.",
+    "Spatial thinking may help map the slopes, but the core of this study is the chain of linked processes, not the 3D picture.",
+    "Correct. Tracing how one process sets off others in the atmosphere and on land is examining interactions, feedbacks and connections in a complex Earth system.",
+    "Field evidence can support the study, but the reasoning described is about connections between processes."
+   ],
+   "takeaway": "Following a chain of linked processes across Earth's systems is systems thinking.",
+   "source": "W1 p13"
+  },
+  {
+   "id": "q010",
+   "topic": "w01b",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A student studies a map and a cross-section to picture how a sinking plate dips beneath a continent. Which way of thinking from the notes is the student using?",
+   "options": [
+    "Spatial thinking: picturing Earth in three dimensions from maps and cross-sections",
+    "Thinking about time: following how processes unfold over seconds to billions of years",
+    "Systems thinking: tracing feedbacks and connections between different Earth processes",
+    "Learning in the field: using rocks and landscapes seen on site as the main evidence"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Spatial thinking means visualising Earth in 3D and interpreting maps, cross-sections and spatial patterns.",
+    "The student is not working with timescales here. They are building a 3D picture from 2D sources.",
+    "No feedbacks between processes are involved; the task is purely about geometry in three dimensions.",
+    "The student is working from a map and cross-section, not from rocks observed in the field."
+   ],
+   "takeaway": "Reading maps and cross-sections to picture Earth in 3D is spatial thinking.",
+   "source": "W1 p13"
+  },
+  {
+   "id": "q011",
+   "topic": "w01b",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A developer argues that a fault is harmless because it has not produced an earthquake in recorded history. Which way of thinking from the notes best exposes the flaw?",
+   "options": [
+    "Spatial thinking, since the fault must be mapped in three dimensions before anything is said",
+    "Thinking about time, since fault processes can span far longer than human records",
+    "Systems thinking, since a fault only matters through its feedbacks with the climate",
+    "Learning in the field, since only a rock sample can show whether the fault exists"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Mapping helps, but the developer's error is about the length of the record, not about the geometry of the fault.",
+    "Correct. Geoscientists think about processes over timescales from seconds to billions of years. Recorded history is far too short to judge how often a fault ruptures.",
+    "A fault's hazard comes from its own slip, not from feedbacks with the climate.",
+    "Field evidence can help, but the flaw in the argument is the assumption that a short record captures the fault's behaviour."
+   ],
+   "takeaway": "Earth processes often run on timescales longer than human records, so silence in history does not mean safety.",
+   "source": "W1 p13"
+  },
+  {
+   "id": "q012",
+   "topic": "w01b",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A team must assess the hazard from an unfamiliar fault. Which plan best reflects how the notes say geoscientists build understanding?",
+   "options": [
+    "Run a numerical model first, then skip fieldwork if the model output looks realistic enough to trust",
+    "Collect field observations only, since rocks and landscapes record everything that happened",
+    "Install instruments only, since present-day data alone show how the fault behaved in the past",
+    "Map the fault in the field, analyse samples, record it with instruments and test ideas in models"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Models are one tool among several. Skipping fieldwork removes the evidence the model should be tested against.",
+    "Field observations are valuable, but on their own they leave out lab analysis, instruments and modelling.",
+    "Present-day instruments capture recent behaviour only. The fault's longer history needs field and laboratory evidence.",
+    "Correct. Geoscientists combine field observations, laboratory analyses, instruments, data and numerical models to understand Earth and assess hazards."
+   ],
+   "takeaway": "Hazard assessment combines field, laboratory, instrument and model evidence.",
+   "source": "W1 p11"
+  },
+  {
+   "id": "q013",
+   "topic": "w01c",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Why is plate tectonics described as a unifying theory?",
+   "options": [
+    "It explains why earthquakes, volcanoes and mountain belts occur where they do",
+    "It explains every natural hazard, including floods, cyclones and heatwaves",
+    "It is the one theory that geoscientists from every discipline agree upon",
+    "It unifies the continents, which were all joined into one landmass long ago"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Plate tectonics explains how Earth's surface changes and why earthquakes, volcanoes and mountain belts occur where they do, giving a common framework for many geohazards.",
+    "Floods, cyclones and heatwaves are not geohazards. They arise from atmospheric and hydrological processes, which plate tectonics does not explain.",
+    "Agreement among scientists is not what makes it unifying. It is unifying because it explains many different features with one framework.",
+    "Past continental positions are part of the evidence for the theory, not the reason it is called unifying."
+   ],
+   "takeaway": "Plate tectonics unifies by explaining the distribution of earthquakes, volcanoes and mountain belts within one framework.",
+   "source": "W1 p18"
+  },
+  {
+   "id": "q014",
+   "topic": "w01c",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A world map shows that most earthquakes and volcanoes fall in long, narrow belts rather than being spread evenly. What is the best explanation?",
+   "options": [
+    "They follow the coastlines, where continental and ocean crust always meet each other",
+    "Most of them occur along plate boundaries, where moving plates interact",
+    "They lie above the hottest parts of the core, which melt the crust above",
+    "They mark the places where the Earth's crust is thickest and heaviest"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Many coastlines have few earthquakes, and many belts run through the middle of oceans. The belts follow plate boundaries.",
+    "Correct. Plate tectonics explains why earthquakes and volcanoes are concentrated where plates diverge, converge or slide past each other.",
+    "The core does not melt the crust directly, and the belts follow plate boundaries rather than hot spots in the core.",
+    "Crustal thickness alone does not explain the belts. Many belts lie along mid-ocean ridges, where the crust is thin."
+   ],
+   "takeaway": "Earthquakes and volcanoes cluster along plate boundaries, which is what plate tectonics predicts.",
+   "source": "W1 p18; W2 p49–51"
+  },
+  {
+   "id": "q015",
+   "topic": "w01c",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A student claims that plate motion is far too slow to measure, so it can only be inferred from ancient rocks. Which response is best?",
+   "options": [
+    "The claim is right, because plates only move during the brief seconds of large earthquakes",
+    "The claim is right, because plate motion stopped once the ancient continents broke apart",
+    "Plate motion can be measured, but only from space by tracking entire continents at once",
+    "Plate motion can be measured directly, using GPS over a few years or offsets across faults"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Plates move steadily between earthquakes too. The fault may be locked, but the plates keep moving.",
+    "Plates are still moving today. That is why GPS stations record steady changes in position.",
+    "Ground-based evidence such as fault offsets works too, and GPS stations sit on the ground rather than tracking whole continents.",
+    "Correct. Plate motion can be measured directly: offsets along faults show it over years, and GPS records smaller movements over shorter periods."
+   ],
+   "takeaway": "Plate motion is measurable today, with GPS over years and with fault offsets.",
+   "source": "W2 p21"
+  },
+  {
+   "id": "q016",
+   "topic": "w01c",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Fossils of the same distinctive land species are found on two continents that are now separated by a wide ocean. What does this most directly suggest?",
+   "options": [
+    "Ocean currents carried the fossils from one continent to the other",
+    "Sea level was once low enough to expose the whole ocean floor",
+    "The two continents were once joined and have since drifted apart",
+    "The same species evolved separately on each continent by chance"
+   ],
+   "answer": 2,
+   "rationales": [
+    "These are land species preserved in rock where they lived. Currents do not move fossils between continents.",
+    "The ocean floor is far too deep to have been exposed by a fall in sea level. Continental drift is the explanation the notes give.",
+    "Correct. Matching fossils across an ocean was one of Wegener's observations of continental drift, and plate tectonics explains it: the continents were once together.",
+    "The same distinctive species arising separately on two continents is very unlikely. Joined continents explain the match far more simply."
+   ],
+   "takeaway": "Matching fossils on continents now separated by ocean are evidence that the continents were once joined.",
+   "source": "W2 p22"
+  },
+  {
+   "id": "q017",
+   "topic": "w01c",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Some evidence for plate tectonics shows where continents were in the past; other evidence shows how plates move today. Which observation belongs to the second kind?",
+   "options": [
+    "Magnetic stripes on the ocean floor recording past reversals of the field",
+    "Matching fossils found on continents now separated by an ocean",
+    "Glacial scratches that line up once the continents are fitted together",
+    "GPS stations recording steady shifts in position over several years"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Magnetic stripes record spreading that happened over long spans of time, which is evidence about the past.",
+    "Fossils record where continents were when the organisms lived, which is evidence about the past.",
+    "Glacial striations show continents were once attached near a common point, which is evidence about the past.",
+    "Correct. GPS measures present-day plate motion directly, over periods of just a few years."
+   ],
+   "takeaway": "Fossils, striations and stripes record past motion; GPS measures motion today.",
+   "source": "W2 p21–28"
+  },
+  {
+   "id": "q018",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A large earthquake strikes an uninhabited desert with no buildings or infrastructure. How should it be described?",
+   "options": [
+    "As a disaster, because geohazards are disasters by definition, unlike weather hazards",
+    "As a hazard event but not a disaster, as no exposed and vulnerable society was disrupted",
+    "As neither, because only earthquakes near plate boundaries can count as natural hazards",
+    "As a disaster, because any earthquake large enough to be recorded automatically counts as one"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Geohazards are a category of natural hazard, and like any hazard they only become disasters when they disrupt society.",
+    "Correct. A hazard becomes a disaster only when it severely disrupts an exposed and vulnerable society. With nobody exposed, it remains a hazard event.",
+    "Earthquakes within plates are still natural hazards. Location relative to a boundary does not decide whether something is a hazard.",
+    "Size alone does not make a disaster. The test is how much it disrupts an exposed, vulnerable society."
+   ],
+   "takeaway": "No exposed, vulnerable society means no disaster, however large the hazard.",
+   "source": "W1 p9"
+  },
+  {
+   "id": "q019",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which description best fits a natural hazard that is NOT a geohazard?",
+   "options": [
+    "One arising from geological processes but made noticeably worse by human activity",
+    "One whose effects are felt mostly at sea rather than on dry land",
+    "One arising mainly from atmospheric, hydrological or biological processes",
+    "One that unfolds too slowly to be detected by monitoring instruments"
+   ],
+   "answer": 2,
+   "rationales": [
+    "If the hazard arises from geological processes it is still a geohazard, whatever humans add.",
+    "A tsunami acts mainly at the coast and sea yet is a geohazard. Where effects are felt does not decide the category.",
+    "Correct. Non-geohazards are linked to weather, climate, water or biological systems rather than Earth's geological activity.",
+    "Speed and detectability are not part of the definition. The category depends on the process causing the hazard."
+   ],
+   "takeaway": "Non-geohazards come from atmospheric, hydrological or biological processes.",
+   "source": "W1 p9"
+  },
+  {
+   "id": "q020",
+   "topic": "w01a",
+   "week": 1,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Under the classification in the notes, how should an epidemic be described?",
+   "options": [
+    "A natural hazard arising from biological processes, so not a geohazard",
+    "Not a natural hazard at all, since it does not involve Earth processes",
+    "A weather-related hazard, since outbreaks are driven by the climate",
+    "A geohazard, since the disease spreads from place to place across the Earth's surface"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Epidemics and pandemics are listed as biological hazards: natural hazards that are not geohazards.",
+    "Natural hazards include atmospheric, hydrological and biological processes, not only Earth processes. An epidemic still counts.",
+    "The notes classify epidemics as biological hazards, not weather-related ones.",
+    "Spreading across the surface does not make something geological. Geohazards arise from Earth's internal or surface processes."
+   ],
+   "takeaway": "Epidemics are biological natural hazards, not geohazards.",
+   "source": "W1 p9"
+  },
+  {
+   "id": "q021",
+   "topic": "w02a",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which statement correctly contrasts the lithosphere with the asthenosphere?",
+   "options": [
+    "The lithosphere is the crust alone; the asthenosphere is the molten outer core lying beneath it",
+    "The lithosphere is defined by its composition, while the asthenosphere is defined by its depth alone",
+    "The lithosphere is rigid crust plus uppermost mantle; the asthenosphere below is hotter and weaker",
+    "The lithosphere is weak and slowly flowing; the asthenosphere is the rigid shell carrying the plates"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The lithosphere includes the uppermost mantle as well as the crust, and the asthenosphere is part of the upper mantle, not the outer core.",
+    "Both are described by how they behave: rigid versus hotter and weaker. Crust, mantle and core are the layers defined by composition.",
+    "Correct. The lithosphere is the solid, rigid outer shell made of the crust and uppermost mantle, forming the plates. It sits on the hotter, weaker asthenosphere, which deforms slowly.",
+    "This reverses the two layers. The rigid lithosphere forms the plates; the weaker asthenosphere beneath deforms slowly and lets them move."
+   ],
+   "takeaway": "Lithosphere = rigid crust + uppermost mantle (the plates); asthenosphere = hotter, weaker upper mantle beneath.",
+   "source": "W2 p16, p18"
+  },
+  {
+   "id": "q022",
+   "topic": "w02a",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Suppose the asthenosphere were as rigid as the lithosphere above it. What would most directly follow for plate motion?",
+   "options": [
+    "Nothing would change, since plates are carried along by the outer core, not the mantle",
+    "Plates would struggle to move, since the weak layer that lets them glide would be gone",
+    "Plates would move faster, since a rigid layer passes slab pull on more efficiently",
+    "Plates would still move, but only at the moment large earthquakes rupture their edges"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Plates ride on the asthenosphere in the upper mantle. The outer core is far deeper and does not carry the plates.",
+    "Correct. The asthenosphere's ability to deform slowly is what allows the plates above it to move. Remove that weakness and plate motion would be resisted.",
+    "Slab pull needs the plate to move over a weaker layer. A rigid layer below would resist the motion rather than help it.",
+    "Plates move steadily, not only during earthquakes. Earthquakes are sudden releases of strain built up by that steady motion."
+   ],
+   "takeaway": "Plates can move because the asthenosphere beneath them is hot and weak enough to deform slowly.",
+   "source": "W2 p18"
+  },
+  {
+   "id": "q023",
+   "topic": "w02a",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which description of mantle convection is accurate?",
+   "options": [
+    "Solid mantle flows slowly over geological time, with hot, less dense rock rising and cool rock sinking",
+    "Liquid mantle circulates only beneath mid-ocean ridges and stays completely still everywhere else",
+    "Molten mantle flows rapidly under the plates, with hot, dense rock rising and cool, light rock sinking",
+    "Solid mantle stays fixed in place, and heat leaves the interior only through volcanoes at the surface"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Heat escaping from Earth's interior lets the solid mantle deform and flow slowly over geological time; hotter, less dense mantle rises and cooler, denser material sinks.",
+    "The mantle is not liquid, and convection is not confined to ridges.",
+    "The mantle is solid and flows very slowly. Hot material rises because it is less dense, not denser.",
+    "The mantle is not fixed: it deforms and flows slowly, and convection carries heat out of the interior."
+   ],
+   "takeaway": "Mantle convection: solid rock flowing slowly, with hot, less dense rock rising and cool, dense rock sinking.",
+   "source": "W2 p19"
+  },
+  {
+   "id": "q024",
+   "topic": "w02a",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "According to the notes, what is the main force driving plate motion, and where does it act?",
+   "options": [
+    "Rising hot mantle beneath mid-ocean ridges, which lifts the plates and pushes them outward",
+    "The weight of high mountain belts, which presses the plates down and squeezes them sideways",
+    "Drag from the spinning liquid outer core, which turns the whole mantle and the plates above",
+    "Slab pull, where cold, dense oceanic lithosphere sinks into the mantle at subduction zones"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Hot mantle does rise, but the notes identify the sinking slab at subduction zones as the main driver.",
+    "Mountain belts are a result of plate collision, not the force that drives plates.",
+    "The outer core produces the magnetic field. It does not drag the mantle and plates along.",
+    "Correct. At subduction zones, cold oceanic lithosphere sinks and pulls the rest of the plate with it. The notes call this slab pull, the main driving force of plate motion."
+   ],
+   "takeaway": "Slab pull, the sinking of cold, dense oceanic lithosphere at subduction zones, is the main driver of plate motion.",
+   "source": "W2 p19"
+  },
+  {
+   "id": "q025",
+   "topic": "w02a",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "A student lists crust, mantle, outer core and inner core alongside lithosphere and asthenosphere. What distinguishes the first set from the second?",
+   "options": [
+    "The first set describes the oceans; the second set describes the continents",
+    "The first set is used for earthquakes; the second set is used for volcanoes",
+    "The first is defined by composition; the second by how rigid or weak the rock is",
+    "The first set is solid all the way through; the second set is entirely molten"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Both sets apply under oceans and continents alike. They describe Earth's layers, not types of surface.",
+    "Both sets are used throughout geoscience. They differ in what defines the layers, not in which hazard they explain.",
+    "Correct. Crust, mantle, outer core and inner core are defined by composition. The lithosphere is the rigid outer shell and the asthenosphere the hotter, weaker layer beneath it.",
+    "The outer core is liquid, and the asthenosphere is solid but weak. Neither set is all solid or all molten."
+   ],
+   "takeaway": "Crust/mantle/core are compositional layers; lithosphere/asthenosphere are defined by rigid versus weak behaviour.",
+   "source": "W2 p16, p18"
+  },
+  {
+   "id": "q026",
+   "topic": "w02b",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "A research ship samples seafloor rock at increasing distances from a mid-ocean ridge, on both sides of it. What pattern should the ages show?",
+   "options": [
+    "Ages are similar everywhere, since the floor formed at once",
+    "Ages increase away from the ridge, mirrored on both sides",
+    "Ages increase away from the ridge, but only on one side",
+    "Ages decrease away from the ridge, mirrored on both sides"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Ocean crust forms continuously at ridges, so its age varies systematically with distance.",
+    "Correct. New crust forms at the ridge, so rock nearest the ridge is youngest and gets older with distance. Spreading on both sides gives a mirrored pattern.",
+    "Spreading happens on both sides of the ridge, so the age pattern is symmetrical, not one-sided.",
+    "This reverses the pattern. The ridge is where new material emerges, so the youngest rock is there."
+   ],
+   "takeaway": "Ocean floor is youngest at the ridge and older with distance, symmetrically on both sides.",
+   "source": "W2 p24, p28"
+  },
+  {
+   "id": "q027",
+   "topic": "w02b",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why is the pattern of magnetic stripes on one side of a mid-ocean ridge a mirror image of the pattern on the other side?",
+   "options": [
+    "Erosion wears both sides of the ridge at the same rate, smoothing them into matching stripes",
+    "The magnetic field is strongest at the ridge, so the stripes fade evenly in both directions",
+    "Reversals start beneath the ridge and travel outward through the crust on both sides",
+    "New crust forms at the ridge and moves away on both sides, recording the same reversals"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The stripes are a magnetic record frozen into the rock, not a product of erosion.",
+    "Stripes record alternating polarity, not a fading strength, and field strength is not what makes them symmetrical.",
+    "Reversals are flips of the whole field generated in the core. They do not travel outward through the crust.",
+    "Correct. Crust forming at the ridge is split and carried away on both sides, so each reversal is recorded in matching bands either side."
+   ],
+   "takeaway": "Symmetrical stripes form because crust made at the ridge spreads away on both sides while recording each reversal.",
+   "source": "W2 p26–29"
+  },
+  {
+   "id": "q028",
+   "topic": "w02b",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why do the magnetic minerals in ocean crust preserve the direction of Earth's field at the time the crust formed?",
+   "options": [
+    "They align with the field while the rock is hot, then are frozen in place as it cools",
+    "They keep realigning with the field throughout the rock's life, recording the latest polarity",
+    "They can only align once the rock is cold, so they record the field long after eruption",
+    "They align with the direction of plate motion, which changes each time the ridge shifts"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Magnetic particles can move to align with the field only while the rock is hot. Once it cools, their orientation is locked in.",
+    "If the minerals kept realigning, all the crust would show today's polarity and there would be no stripes.",
+    "This reverses the timing. The particles can move only while hot and are frozen once the rock cools.",
+    "The minerals align with Earth's magnetic field, like a compass needle, not with the direction of plate motion."
+   ],
+   "takeaway": "Hot rock lets magnetic minerals align with the field; cooling locks that direction in.",
+   "source": "W2 p26"
+  },
+  {
+   "id": "q029",
+   "topic": "w02b",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Imagine Earth's magnetic field had never reversed, but seafloor spreading worked exactly as it does today. What would the ocean floor show?",
+   "options": [
+    "Uniform magnetization with no stripes, even though crust still spread from the ridge",
+    "No new crust at all, because spreading at the ridge depends on the field reversing",
+    "Stripes would still form, but they would run across the ridge instead of parallel to it",
+    "Stripes would still form, because spreading alone creates bands of alternating polarity"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Stripes record alternating polarity. Without reversals all the crust would be magnetized the same way, even though spreading continued.",
+    "Spreading is driven by plate motion and rising magma, not by the magnetic field. Crust would still form.",
+    "Without reversals there would be no alternating bands to run in any direction.",
+    "Spreading carries the record away from the ridge, but the alternation itself comes from reversals of the field."
+   ],
+   "takeaway": "Spreading moves the record away from the ridge; reversals create the alternating stripes.",
+   "source": "W2 p27–28"
+  },
+  {
+   "id": "q030",
+   "topic": "w02b",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which description of the magnetic stripes on the ocean floor is fully correct?",
+   "options": [
+    "Parallel to the ridge, all of one polarity, symmetrical on either side of it",
+    "Parallel to the ridge, alternating in polarity, symmetrical on either side",
+    "Parallel to the ridge, alternating in polarity, offset on one side only",
+    "At right angles to the ridge, alternating in polarity, symmetrical either side"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The stripes alternate in polarity; that alternation is what makes them stripes.",
+    "Correct. The three key features are that the stripes are parallel to the ridge, alternate in polarity and form a symmetrical pattern.",
+    "The pattern is symmetrical either side of the ridge, because spreading carries crust away on both sides.",
+    "The stripes run parallel to the ridge, because each band forms along the ridge at the time it was active."
+   ],
+   "takeaway": "Magnetic stripes are parallel to the ridge, alternating and symmetrical.",
+   "source": "W2 p28"
+  },
+  {
+   "id": "q031",
+   "topic": "w02b",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Where does Earth's magnetic field, whose reversals are recorded in the ocean floor, come from?",
+   "options": [
+    "Magnetic minerals in the crust, which together act like one very large bar magnet",
+    "The solid inner core, which spins in one direction and then reverses its rotation",
+    "Convection in the solid mantle, which drags magnetized plates around the planet",
+    "Convection and rotation of the liquid iron-nickel outer core, forming a geodynamo"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Crustal minerals record the field; they do not generate it.",
+    "The notes place the geodynamo in the liquid outer core, not in a spinning solid inner core.",
+    "Mantle convection moves the plates, but the field is generated in the liquid outer core.",
+    "Correct. Convection and rotation of the conductive liquid outer core create the geodynamo, a self-sustaining field that can flip polarity."
+   ],
+   "takeaway": "The geodynamo in the liquid outer core generates Earth's magnetic field, which can flip polarity.",
+   "source": "W2 p25"
+  },
+  {
+   "id": "q032",
+   "topic": "w02b",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Rock on the ocean floor is generally much younger than many continental rocks. What best explains this?",
+   "options": [
+    "The continents formed first, and oceans only began spreading in recent geological time",
+    "Seawater erodes ocean rock away quickly, so only the youngest rock stays exposed on the floor",
+    "Old oceanic lithosphere is returned to the mantle at subduction zones, which continents avoid",
+    "Each magnetic reversal resets the age of ocean rock, so its measured age always looks young"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Spreading has gone on throughout geological time. The ocean floor is young because it is constantly destroyed and replaced.",
+    "Ocean crust is not lost through erosion; it is recycled into the mantle at subduction zones.",
+    "Correct. Ocean crust forms at ridges and is destroyed at subduction zones, because dense oceanic plates sink. Continental crust is less dense and is not recycled the same way, so it can be much older.",
+    "Reversals are recorded in the rock's magnetism. They do not change its age."
+   ],
+   "takeaway": "Ocean floor stays young because it is made at ridges and destroyed at subduction zones.",
+   "source": "W2 p31, p37"
+  },
+  {
+   "id": "q033",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why do ridges form along divergent plate boundaries?",
+   "options": [
+    "The plates pull apart, opening space for magma to rise, cool and build new crust",
+    "The plates push together, buckling the crust upward into a long submarine ridge",
+    "One plate sinks under the other, and the melted slab rises to build up a ridge",
+    "The plates slide past each other, piling up crust where their edges grind together"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. At divergent boundaries the plates move apart, and the space is filled by new crust formed from magma rising and cooling, building a ridge.",
+    "Pushing together describes convergent boundaries, which produce trenches and mountain belts rather than spreading ridges.",
+    "Sinking of one plate under another describes subduction at convergent boundaries, which forms trenches.",
+    "Sliding past each other describes transform boundaries, where crust is neither created nor destroyed."
+   ],
+   "takeaway": "Ridges mark divergent boundaries, where plates separate and magma fills the gap with new crust.",
+   "source": "W2 p35"
+  },
+  {
+   "id": "q034",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A long valley on a continent is slowly widening, with frequent shallow earthquakes and volcanic activity. If the process continues, what is the likely long-term outcome?",
+   "options": [
+    "It will close into a mountain belt once the two sides begin to subduct together",
+    "It will turn into a transform boundary once the valley stops getting any wider",
+    "It will become a deep-ocean trench as the valley floor sinks into the mantle",
+    "It may open into a new ocean basin as the divergent boundary keeps spreading"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A widening valley shows the plates moving apart. Mountain belts form where plates converge.",
+    "A transform boundary involves sliding past, not a pause in spreading. Nothing in the setting points to that change.",
+    "Trenches form where one plate subducts beneath another at a convergent boundary, not in a widening rift.",
+    "Correct. On land a divergent boundary produces a rift, which can eventually open up and become an ocean basin."
+   ],
+   "takeaway": "A continental rift is a divergent boundary on land that can grow into an ocean basin.",
+   "source": "W2 p35–36"
+  },
+  {
+   "id": "q035",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "An oceanic plate converges with a continental plate. Which one subducts, and why?",
+   "options": [
+    "The continental plate, because it is thicker and so heavier than the oceanic plate",
+    "The oceanic plate, because it is denser even though the continental plate is thicker",
+    "Neither, because plates of different types slide past each other at a transform",
+    "Whichever plate is moving faster, regardless of its density or its thickness"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Thickness does not decide it. The continental plate is thicker but less dense, so it stays on top.",
+    "Correct. The denser oceanic plate is subducted beneath the less dense plate. Continental plates are thicker, but density is what decides which one sinks.",
+    "Converging plates collide; sliding past describes transform boundaries.",
+    "Speed is not what decides which plate sinks. Density is."
+   ],
+   "takeaway": "Oceanic plates are denser, continental plates thicker; the denser plate subducts.",
+   "source": "W2 p37"
+  },
+  {
+   "id": "q036",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Two continents converge after all the ocean floor between them has subducted. What is expected to happen?",
+   "options": [
+    "A ridge forms between them as magma rises into the gap left by the subducted ocean",
+    "The thicker continent subducts, forming a deep trench and a chain of volcanoes above",
+    "Neither sinks easily, so the crust shortens and thickens into a high mountain range",
+    "The plates stop moving at once, because two continents cannot interact with each other"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Ridges form where plates move apart, but here the plates are converging.",
+    "Continental crust is less dense and resists subduction. Thickness does not make it sink.",
+    "Correct. Collision starts as ocean subducting under a continent, but continental material arriving behind it does not sink easily, so the crust thickens into mountains such as the Himalayas.",
+    "The plates keep converging; the motion is taken up by shortening and thickening the crust."
+   ],
+   "takeaway": "Continent-continent collision builds high mountains because neither continent sinks easily.",
+   "source": "W2 p41–43"
+  },
+  {
+   "id": "q037",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which description fits a transform plate boundary?",
+   "options": [
+    "Plates move apart horizontally, and new crust is created to fill the opening gap",
+    "Plates slide horizontally past each other, and crust is neither created nor destroyed",
+    "Plates slide past each other, and crust is destroyed as one edge is ground away",
+    "Plates collide horizontally, and crust is created as the colliding edges fold up"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Moving apart and creating crust describes a divergent boundary.",
+    "Correct. At transform boundaries the relative motion is horizontal, they can be on land or underwater, and crust is neither destroyed nor created.",
+    "Sliding past is right, but crust is not destroyed at transform boundaries.",
+    "Collision describes convergent boundaries, and those destroy crust rather than create it."
+   ],
+   "takeaway": "Transform boundary: horizontal sliding past, with no crust created or destroyed.",
+   "source": "W2 p44"
+  },
+  {
+   "id": "q038",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "On a detailed map of a mid-ocean ridge, many short faults cut across the ridge and offset it into segments. What are these faults?",
+   "options": [
+    "Transform boundaries, where ridge segments are linked by plates sliding past",
+    "Normal faults, where crust at the ridge is pulled downward into a rift valley",
+    "Collision zones, where two ridge segments push into each other and buckle up",
+    "Small subduction zones, where the youngest crust sinks back into the mantle"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Transform faults connect segments of mid-ocean ridges, letting the plates slide past each other between them.",
+    "Normal faults run along the ridge as it pulls apart. Faults cutting across and offsetting the ridge are transforms.",
+    "Ridge segments are spreading apart, not colliding.",
+    "The youngest crust is at the ridge and is too buoyant to subduct there. Subduction happens far away at trenches."
+   ],
+   "takeaway": "Transform faults link and offset segments of mid-ocean ridges.",
+   "source": "W2 p45–46"
+  },
+  {
+   "id": "q039",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Beneath one region, earthquakes get steadily deeper in one direction, tracing a sloping band into the mantle. What does this indicate?",
+   "options": [
+    "A hotspot, with earthquakes tracking the path of the mantle plume beneath it",
+    "A divergent boundary, with magma rising from deeper levels as plates separate",
+    "A transform boundary, with faults reaching deeper the further from the ridge",
+    "A subducting slab, with earthquakes following it as it sinks into the mantle"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A hotspot plume rises roughly vertically and does not produce a sloping band of deep earthquakes.",
+    "Earthquakes at divergent boundaries are shallow. They do not trace a deep sloping band.",
+    "Transform earthquakes are shallow and do not form a band sloping into the mantle.",
+    "Correct. This sloping zone of earthquakes, the Wadati-Benioff zone, follows the subducting slab. It is why the deepest earthquakes occur along subduction zones."
+   ],
+   "takeaway": "A sloping band of deepening earthquakes (Wadati-Benioff zone) traces a subducting slab.",
+   "source": "W2 p40, p52"
+  },
+  {
+   "id": "q040",
+   "topic": "w02c",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which pairing of landform with plate boundary type is fully correct?",
+   "options": [
+    "Trench: convergent; ridge: transform; fault offsetting a ridge: divergent",
+    "Trench: transform; ridge: divergent; fault offsetting a ridge: convergent",
+    "Trench: convergent; ridge: divergent; fault offsetting a ridge: transform",
+    "Trench: divergent; ridge: convergent; fault offsetting a ridge: transform"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Ridges form at divergent boundaries, and the faults that offset them are transforms.",
+    "Trenches form at convergent boundaries where one plate subducts, not at transforms.",
+    "Correct. Trenches form where plates converge and one subducts, ridges form where plates diverge, and faults offsetting a ridge are transforms.",
+    "Trenches and ridges are swapped. Ridges form where plates move apart."
+   ],
+   "takeaway": "Trench → convergent; ridge → divergent; ridge-offsetting fault → transform.",
+   "source": "W2 p35, p37, p45"
+  },
+  {
+   "id": "q041",
+   "topic": "w02d",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which sequence follows elastic rebound theory?",
+   "options": [
+    "The plates stop moving, the fault cools and shrinks, and the rock cracks to make waves",
+    "Strain builds suddenly at a fault, is released slowly over decades, and the rock stays bent",
+    "Strain builds slowly near a locked fault, is released suddenly as slip, and the rock rebounds",
+    "Magma forces the fault open, heat escapes as seismic waves, and the rock melts and resets"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The plates keep moving; it is the locked fault that stores strain until it slips.",
+    "This reverses the timing. Strain builds slowly over decades and is released suddenly.",
+    "Correct. Elastic deformation accumulates slowly from plate motion, the stored stress is suddenly released as an earthquake, and the rocks rebound so the next cycle can start.",
+    "Elastic rebound involves stored elastic stress in rock, not magma or melting."
+   ],
+   "takeaway": "Elastic rebound: slow strain build-up, sudden release, rocks rebound, and the cycle repeats.",
+   "source": "W2 p55"
+  },
+  {
+   "id": "q042",
+   "topic": "w02d",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Bending a stick of dry pasta until it snaps is used as an analogy for an earthquake. Which part of the earthquake process matches the moment of the snap?",
+   "options": [
+    "The sudden release of stored elastic stress as the fault slips",
+    "The arrival of surface waves long after the main shaking",
+    "The slow build-up of strain as plate motion bends the rocks",
+    "The rocks returning to their bent shape once stress is gone"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The snap is the sudden failure that releases stored stress, which on a fault is the earthquake.",
+    "Wave arrivals are a consequence of the rupture, not the failure itself.",
+    "That matches bending the pasta before it breaks, not the snap itself.",
+    "After the earthquake the rocks rebound towards their original, unbent shape, not a bent one."
+   ],
+   "takeaway": "An earthquake is the sudden failure that releases stress stored during slow loading.",
+   "source": "W2 p55–56"
+  },
+  {
+   "id": "q043",
+   "topic": "w02d",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "How does a seismometer record the motion of the ground during an earthquake?",
+   "options": [
+    "It measures the heat released by the fault as seismic waves pass beneath the station",
+    "Its suspended mass stays nearly still by inertia while the ground moves around it",
+    "It detects sound in the air, which arrives before the ground itself starts to move",
+    "Its suspended mass moves with the ground, and the change in its weight is recorded"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Seismometers record ground motion, not heat.",
+    "Correct. Seismometers work on the inertial principle: the ground moves while the suspended mass does not, and the relative motion is recorded.",
+    "Seismometers record motion of the ground itself, not sound in the air.",
+    "If the mass moved with the ground there would be no relative motion to record. Its inertia is the point."
+   ],
+   "takeaway": "A seismometer records ground motion relative to an inertial suspended mass.",
+   "source": "W2 p58"
+  },
+  {
+   "id": "q044",
+   "topic": "w02d",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A seismometer far from an earthquake records a small first arrival followed later by a much larger arrival. Which interpretation is correct?",
+   "options": [
+    "S waves arrived first with smaller amplitude; P waves followed with larger amplitude",
+    "Surface waves arrived first; P waves followed once they had climbed to the surface",
+    "P and S waves arrived together; the larger arrival was the ground's own echo",
+    "P waves arrived first with smaller amplitude; S waves followed with larger amplitude"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This reverses the two body waves. P waves arrive first and are smaller.",
+    "Surface waves are the slowest and arrive after the body waves.",
+    "P waves travel faster than S waves, so they arrive at different times, and the gap grows with distance.",
+    "Correct. P waves are fastest so arrive first, with smaller amplitude. S waves are slower but larger and more destructive."
+   ],
+   "takeaway": "P waves arrive first and are smaller; S waves arrive later and shake harder.",
+   "source": "W2 p61–63"
+  },
+  {
+   "id": "q045",
+   "topic": "w02d",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A station records clear P waves but no S waves from an earthquake whose waves took a path deep through Earth's interior. What does this suggest about the path?",
+   "options": [
+    "It crossed a solid layer, since P waves cannot pass through liquids",
+    "It crossed the lithosphere, where S waves are turned into P waves",
+    "It crossed only the crust, where S waves are too slow to be recorded",
+    "It crossed a liquid layer, since S waves cannot pass through liquids"
+   ],
+   "answer": 3,
+   "rationales": [
+    "P waves do pass through liquids. It is S waves that cannot.",
+    "S waves are not converted into P waves in the lithosphere. Their absence points to liquid on the path.",
+    "S waves are slower than P waves but still recorded through the crust. A deep path is the clue here.",
+    "Correct. S waves travel only through solids, while P waves travel through solids, liquids and gases. Losing the S waves points to a liquid layer such as the outer core."
+   ],
+   "takeaway": "S waves travel only through solids, so missing S waves reveal liquid along the path.",
+   "source": "W2 p61; p25"
+  },
+  {
+   "id": "q046",
+   "topic": "w02d",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which pairing correctly matches properties to the two body waves?",
+   "options": [
+    "P: fastest, with the largest amplitude; S: slower, smaller, passes through liquids",
+    "P: fastest, passes through solids, liquids and gases; S: slower, larger, solids only",
+    "P: slower but with the largest amplitude; S: fastest, smaller, passes through solids",
+    "P: slower, solids only; S: fastest, smaller, passes through solids, liquids and gases"
+   ],
+   "answer": 1,
+   "rationales": [
+    "P waves are fastest, but they have the smaller amplitude, and S waves cannot travel through liquids.",
+    "Correct. P waves are fastest, smaller and travel through solids, liquids and gases. S waves are slower, larger and travel only through solids.",
+    "P waves are the fastest wave, and S waves are slower and larger.",
+    "This swaps the properties of the two waves."
+   ],
+   "takeaway": "P: fast, small, any medium. S: slower, larger, solids only.",
+   "source": "W2 p61"
+  },
+  {
+   "id": "q047",
+   "topic": "w02d",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A building on the surface and a deep tunnel directly below it feel the same distant earthquake. Why would surface-wave shaking be stronger in the building?",
+   "options": [
+    "Surface waves form at the free surface and their amplitude decays rapidly with depth",
+    "Surface waves travel only through liquids, so they speed up near the groundwater",
+    "Surface waves are the fastest waves, so they reach the surface before the tunnel",
+    "Surface waves are reflected P waves, which grow stronger the deeper they travel"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Surface waves form at the free surface and their amplitude decays exponentially with depth, so the tunnel feels much less of them.",
+    "Surface waves travel along the ground, not only through liquids.",
+    "Surface waves are the slowest waves, not the fastest.",
+    "The notes describe surface waves forming at the free surface and weakening with depth, not strengthening."
+   ],
+   "takeaway": "Surface-wave amplitude is largest at the surface and decays with depth.",
+   "source": "W2 p63"
+  },
+  {
+   "id": "q048",
+   "topic": "w02e",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which matching of plate boundary to its most typical fault type is correct?",
+   "options": [
+    "Divergent: normal faults; convergent: strike-slip; transform: reverse or thrust",
+    "Divergent: reverse faults; convergent: normal faults; transform: strike-slip",
+    "Divergent: normal faults; convergent: reverse or thrust; transform: strike-slip",
+    "Divergent: strike-slip; convergent: reverse or thrust; transform: normal faults"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Convergence compresses the crust, which makes reverse or thrust faults, not strike-slip.",
+    "Normal and reverse faults are swapped. Divergence pulls crust apart, which makes normal faults.",
+    "Correct. Pulling apart makes normal faults, compression makes reverse or thrust faults, and sliding past makes strike-slip faults.",
+    "Strike-slip faults belong at transform boundaries, where plates slide past horizontally."
+   ],
+   "takeaway": "Divergent → normal; convergent → reverse/thrust; transform → strike-slip.",
+   "source": "W2 p66–67"
+  },
+  {
+   "id": "q049",
+   "topic": "w02e",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Standing on one side of a strike-slip fault, you see that a fence crossing it has been offset so the far section has moved to your right. You walk across and look back. Which way has the section on your original side moved?",
+   "options": [
+    "To the left, so the fault is left-lateral when viewed from that side",
+    "To the right as well, so the fault is right-lateral from both sides",
+    "Upward, because strike-slip offset looks vertical from the other side",
+    "Not at all, because only one block of a strike-slip fault ever moves"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Lateral sense does not flip when you cross the fault. Both blocks are seen moving to the right of the observer.",
+    "Correct. Whichever side you stand on, the opposite block appears to have moved the same way, so a right-lateral fault looks right-lateral from both sides.",
+    "Strike-slip motion is horizontal from every viewpoint.",
+    "Offset is relative motion between two blocks; it looks the same from either side."
+   ],
+   "takeaway": "Right- or left-lateral is judged by how the opposite block moved, and it is the same from either side.",
+   "source": "W2 p68–69"
+  },
+  {
+   "id": "q050",
+   "topic": "w02e",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which describes the motion on a normal fault?",
+   "options": [
+    "The footwall moves down relative to the hanging wall as the crust is pulled apart",
+    "The hanging wall moves up relative to the footwall as the crust is squeezed together",
+    "The hanging wall moves down relative to the footwall as the crust is pulled apart",
+    "The two blocks slide sideways past each other with no vertical motion between them"
+   ],
+   "answer": 2,
+   "rationales": [
+    "If the footwall moves down relative to the hanging wall, the hanging wall has moved up. That is reverse motion, which does not fit pulling apart.",
+    "Hanging wall moving up under compression describes a reverse or thrust fault.",
+    "Correct. On a normal fault the block above the fault (hanging wall) moves down relative to the block below, as tectonic forces pull the crust apart.",
+    "Sideways motion with no vertical component describes a strike-slip fault."
+   ],
+   "takeaway": "Normal fault: hanging wall moves down, crust pulled apart.",
+   "source": "W2 p73"
+  },
+  {
+   "id": "q051",
+   "topic": "w02e",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A straight running track crosses a fault that ruptures as a reverse (thrust) fault. Measured along the ground afterwards, what has happened to the length of the track?",
+   "options": [
+    "It is shorter, because compression pushed one block up and over the other",
+    "It is longer, because the hanging wall dropped down and away from the footwall",
+    "It is longer, because compression stretched the ground as the block was raised",
+    "It is the same, because thrust faults only move the blocks straight up and down"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Reverse or thrust faults are caused by compression and result in shortening, so the track across the fault ends up shorter.",
+    "A hanging wall dropping away describes a normal fault, which lengthens the ground.",
+    "Compression shortens the crust; it does not stretch it.",
+    "Thrust motion carries one block up and over the other, which shortens the distance across the fault."
+   ],
+   "takeaway": "Reverse or thrust faulting shortens the ground across the fault.",
+   "source": "W2 p77–79"
+  },
+  {
+   "id": "q052",
+   "topic": "w02e",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why can a blind thrust fault be especially hard to plan for?",
+   "options": [
+    "It slips so slowly that it never stores enough strain for a damaging event",
+    "It only produces S waves, which seismometers cannot pick up at the surface",
+    "It lies only beneath the oceans, far away from any monitoring network",
+    "It slips without breaking the surface, so it is often unknown until it ruptures"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Blind thrusts can produce damaging earthquakes; being hidden does not mean being harmless.",
+    "Blind thrusts produce the usual seismic waves, and seismometers record S waves.",
+    "Blind thrust faults occur on land too. What makes them hard to plan for is that they leave no surface trace.",
+    "Correct. A blind thrust slips but never breaks the surface, so it typically is not known until an earthquake happens."
+   ],
+   "takeaway": "Blind thrusts are dangerous because they leave no surface trace before they rupture.",
+   "source": "W2 p80"
+  },
+  {
+   "id": "q053",
+   "topic": "w02e",
+   "week": 2,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A fault rupture shows both vertical offset and horizontal sliding along the same fault. How is this fault classified?",
+   "options": [
+    "Normal fault, combining downward motion with sideways stretching",
+    "Blind thrust fault, combining hidden reverse motion with surface slip",
+    "Transform fault, combining spreading at a ridge with strike-slip motion",
+    "Oblique fault, combining normal or reverse motion with strike-slip motion"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A normal fault is dip-slip; horizontal sliding along the fault makes it oblique.",
+    "A blind thrust does not break the surface at all, so it cannot show surface offset.",
+    "A transform is a strike-slip plate boundary. It does not combine vertical and horizontal motion in this way.",
+    "Correct. An oblique fault combines normal or reverse faulting with strike-slip motion."
+   ],
+   "takeaway": "Oblique fault = dip-slip (normal or reverse) plus strike-slip.",
+   "source": "W2 p81"
+  },
+  {
+   "id": "q054",
+   "topic": "w02e",
+   "week": 2,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Which statement about the faults found at subduction zones is most accurate?",
+   "options": [
+    "Strike-slip faults dominate, since the plates slide past each other at trenches",
+    "Only reverse or thrust faults can occur, since all motion there is compressional",
+    "Reverse or thrust faults are most expected, but other fault types can occur too",
+    "Normal faults are most expected, since the sinking slab pulls the crust apart"
+   ],
+   "answer": 2,
+   "rationales": [
+    "At trenches one plate goes under the other; sliding past is transform motion.",
+    "Thrust faults dominate, but the notes stress that other fault types can occur at subduction zones too.",
+    "Correct. At subduction zones the fault you would most expect is reverse or thrust, but not always; other fault types can also occur there.",
+    "Convergent boundaries are mainly compressional, so reverse or thrust faults are the most expected."
+   ],
+   "takeaway": "Subduction zones are dominated by thrust faults but are not limited to them.",
+   "source": "W2 p77"
+  },
+  {
+   "id": "q055",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why was Richter's original magnitude scale replaced for measuring earthquakes worldwide?",
+   "options": [
+    "It was strictly valid only for certain frequency and distance ranges",
+    "It measured only the damage seen in buildings close to the source",
+    "It could only be applied to earthquakes that happened under the sea",
+    "It was not logarithmic, so very large earthquakes could not be ranked"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Richter built the scale for southern California using local stations. As stations spread worldwide, it proved strictly valid only for certain frequency and distance ranges.",
+    "Richter's scale used the amplitude recorded by seismographs, not observed damage. Damage-based measures are intensity scales.",
+    "The scale was developed for earthquakes in southern California, on land. Being limited to the sea was not its problem.",
+    "Richter's scale was logarithmic. The moment magnitude scale that replaced it is logarithmic too."
+   ],
+   "takeaway": "The Richter scale only worked for certain frequency and distance ranges, so moment magnitude replaced it.",
+   "source": "W3 p5–6"
+  },
+  {
+   "id": "q056",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Two earthquakes occur on faults in similar rock. Fault A ruptures a longer, wider area and slips further than fault B. What follows?",
+   "options": [
+    "Fault B has the larger seismic moment, as less slip concentrates its energy",
+    "Fault A has the larger seismic moment, so it has the larger moment magnitude",
+    "Both have the same moment magnitude, because the rock is similar on both faults",
+    "They cannot be compared until shaking intensity has been mapped in every town"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Seismic moment grows with slip and rupture area. Less slip means a smaller moment, not a concentrated one.",
+    "Correct. Seismic moment is rupture length × width × fault slip × shear modulus. With similar rock, the larger rupture and greater slip give fault A the larger moment and magnitude.",
+    "Similar rock fixes only the shear modulus. Rupture size and slip still differ, so the moments differ.",
+    "Moment magnitude comes from the rupture and seismic recordings, not from intensity maps."
+   ],
+   "takeaway": "Seismic moment = rupture length × width × slip × shear modulus; a bigger rupture with more slip means a bigger magnitude.",
+   "source": "W3 p7"
+  },
+  {
+   "id": "q057",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Two faults rupture identical areas with identical slip, but one is in rock that is far more resistant to deformation. Which has the larger seismic moment?",
+   "options": [
+    "Neither, because seismic moment depends only on the rupture area and fault slip",
+    "The fault in less resistant rock, since weak rock lets slip release more energy",
+    "The fault in more resistant rock, since seismic moment scales with shear modulus",
+    "Neither, because seismic moment depends on the distance to the nearest station"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Rupture area and slip matter, but the shear modulus is also part of the seismic moment.",
+    "The shear modulus multiplies the moment, so weaker rock gives a smaller moment for the same rupture.",
+    "Correct. Seismic moment includes the shear modulus, a measure of how resistant the rock is to deformation. With area and slip equal, the stiffer rock gives the larger moment.",
+    "Seismic moment describes the source itself. It does not depend on where stations happen to be."
+   ],
+   "takeaway": "Seismic moment includes the shear modulus, so rock stiffness matters as well as rupture size and slip.",
+   "source": "W3 p7"
+  },
+  {
+   "id": "q058",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What does the moment magnitude scale fundamentally reflect?",
+   "options": [
+    "The amplitude of shaking recorded at the seismograph nearest the source",
+    "The energy spent moving large masses of rock on each side of the fault",
+    "The damage observed in buildings standing closest to the epicentre",
+    "The length of time shaking was felt by people at a fixed distance away"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Amplitude at a local station was the basis of Richter's scale, which is no longer used.",
+    "Correct. Moment magnitude is based on the seismic moment, which relates to the energy expended moving rock on each side of the fault. The w stands for work.",
+    "Damage describes shaking intensity at a place, not the size of the earthquake.",
+    "Duration of felt shaking varies with location and does not define magnitude."
+   ],
+   "takeaway": "Moment magnitude (Mw) measures the work done moving rock during rupture.",
+   "source": "W3 p6"
+  },
+  {
+   "id": "q059",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "Which statement follows from the Gutenberg–Richter law?",
+   "options": [
+    "Big earthquakes are more common than small ones, since strain builds over time",
+    "Small earthquakes occur only in the years that lead up to a big earthquake",
+    "Earthquakes of every magnitude occur at about the same rate within a given region",
+    "Small earthquakes are very common, moderately large ones fewer, and big ones rare"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This reverses the relationship. Larger earthquakes are much rarer.",
+    "Small earthquakes happen all the time, not only before large ones.",
+    "Frequency changes strongly with magnitude; that relationship is exactly what the law describes.",
+    "Correct. The Gutenberg–Richter law describes a power-law relationship: many small earthquakes, fewer moderately large ones and very few big ones."
+   ],
+   "takeaway": "Gutenberg–Richter: the bigger the magnitude, the rarer the earthquake.",
+   "source": "W3 p10"
+  },
+  {
+   "id": "q060",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "An earthquake of magnitude 7 is compared with one of magnitude 5. Roughly how much more energy does the larger one release?",
+   "options": [
+    "About 1,000 times more",
+    "About 100 times more",
+    "About 64 times more",
+    "About 20 times more"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Each whole-number increase is about 32 times more energy, so two steps give about 32 × 32 ≈ 1,000 times.",
+    "This assumes energy rises 10 times per step. The notes give about 32 times per step, so two steps is about 1,000 times.",
+    "This doubles 32 instead of multiplying it by itself. Energy grows by a factor of about 32 for each step.",
+    "This treats the steps as adding energy rather than multiplying it."
+   ],
+   "takeaway": "Each magnitude step is about 32× energy, so two steps is about 1,000×.",
+   "source": "W3 p10–11"
+  },
+  {
+   "id": "q061",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Each whole-number increase in magnitude releases about 32 times more energy. About how many magnitude 6 earthquakes release the same energy as a single magnitude 7?",
+   "options": [
+    "Roughly 1,000 of them",
+    "Roughly 32 of them",
+    "Roughly 10 of them",
+    "Roughly 7 of them"
+   ],
+   "answer": 1,
+   "rationales": [
+    "About 1,000 magnitude 6 events match a magnitude 8, which is two steps up, not one.",
+    "Correct. One magnitude step is a factor of about 32 in energy, so about 32 magnitude 6 events match one magnitude 7.",
+    "Ten per step is a tempting guess from the logarithmic scale, but energy rises about 32 times per step.",
+    "This has no basis in the energy relationship and ignores that each step multiplies energy."
+   ],
+   "takeaway": "One step up in magnitude is about 32 times the energy.",
+   "source": "W3 p11"
+  },
+  {
+   "id": "q062",
+   "topic": "w03a",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A fault zone produces many moderate earthquakes and, rarely, a very large one. Over the long term, which statement about the energy released is best supported?",
+   "options": [
+    "Most energy is released in the few largest earthquakes, not the many small ones",
+    "Energy is shared equally, since frequency exactly balances the size of each event",
+    "Small earthquakes release enough energy to stop large ones from ever happening",
+    "Most energy comes from the many small earthquakes, since they are far more common"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Energy rises so steeply with magnitude (about 32 times per step) that most of a fault's energy is released in a few of its largest earthquakes.",
+    "Frequency does not offset size. The energy increase per magnitude step outweighs the drop in frequency.",
+    "Small earthquakes do not release enough strain to rule out large ones.",
+    "Small events are more common, but each releases so little energy that together they do not match the rare large ones."
+   ],
+   "takeaway": "Most fault energy is released in the rare largest earthquakes.",
+   "source": "W3 p10–11"
+  },
+  {
+   "id": "q063",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "News reports say an earthquake struck under a coastal town, but seismologists say the rupture began many kilometres below the ground. Which terms describe these two points?",
+   "options": [
+    "The town sits above the hypocentre; the rupture began at the epicentre",
+    "The town sits on the wavefront; the rupture began at the fault scarp",
+    "The town sits above the epicentre; the rupture began at the hypocentre",
+    "The town sits on the fault scarp; the rupture began at the wavefront"
+   ],
+   "answer": 2,
+   "rationales": [
+    "This swaps the terms. The epicentre is on the surface, above the hypocentre.",
+    "A wavefront moves out from the source, and a fault scarp is on the surface. Neither marks where the rupture began.",
+    "Correct. The hypocentre (focus) is where the earthquake originates, and the epicentre is the point on the surface directly above it.",
+    "A fault scarp is a landform made by surface offset, and a wavefront is a surface of equal travel time. Neither is the origin point."
+   ],
+   "takeaway": "Hypocentre = where the rupture starts; epicentre = the point on the surface above it.",
+   "source": "W3 p13"
+  },
+  {
+   "id": "q064",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which statement correctly separates earthquake magnitude from shaking intensity?",
+   "options": [
+    "Magnitude and intensity both vary by place, but only intensity uses a logarithmic scale",
+    "Magnitude varies by place and observed damage; intensity is one value from seismic records",
+    "Magnitude and intensity are both single values, calculated from the same seismic recordings",
+    "Magnitude is one value from seismic records; intensity varies by place and observed damage"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Magnitude does not vary by place, and it is the moment magnitude scale that is logarithmic.",
+    "This swaps the two. Magnitude is the single value; intensity varies from place to place.",
+    "Intensity is not a single value; it changes from place to place and comes from observations.",
+    "Correct. Magnitude measures energy released and is one value per earthquake, calculated from seismic recordings. Intensity is the strength of shaking at a location, judged from observed shaking and damage."
+   ],
+   "takeaway": "Magnitude: one value, energy, from recordings. Intensity: varies by place, from shaking and damage.",
+   "source": "W3 p15"
+  },
+  {
+   "id": "q065",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "After an earthquake, a team gathers shaking reports and damage observations town by town and grades each location. What are they producing?",
+   "options": [
+    "A seismic hazard map, giving the shaking expected over the coming decades",
+    "A moment magnitude estimate, calculated from the seismic moment of the fault",
+    "An intensity map, such as one using the Modified Mercalli Intensity scale",
+    "A Gutenberg–Richter plot, comparing how often each magnitude level occurs"
+   ],
+   "answer": 2,
+   "rationales": [
+    "A hazard map forecasts future shaking probabilities; this team is recording what one past earthquake did.",
+    "Moment magnitude is one value from seismic recordings, not a town-by-town grade from observations.",
+    "Correct. Intensity is determined from observed shaking and damage and varies from place to place, which is what the Modified Mercalli Intensity scale records.",
+    "A Gutenberg–Richter plot uses many earthquakes' magnitudes, not damage reports from one event."
+   ],
+   "takeaway": "Grading observed shaking and damage place by place produces an intensity map (e.g. MMI).",
+   "source": "W3 p15"
+  },
+  {
+   "id": "q066",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "During an earthquake, one mid-rise building sways violently while shorter and taller buildings nearby shake far less. What best explains this?",
+   "options": [
+    "The building stood nearer the epicentre, since intensity changes over short distances",
+    "The seismic waves' frequency was close to the building's natural frequency",
+    "The building received larger P waves, which mainly affect medium-height structures",
+    "The building had the greatest mass, and heavier buildings always shake the hardest"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The buildings are next to each other, so distance from the epicentre is effectively the same.",
+    "Correct. Buildings shake more strongly when the frequency of the seismic waves is close to their natural frequency, which amplifies the motion. That is resonance.",
+    "P waves have smaller amplitude, and they do not single out buildings of a particular height.",
+    "Mass alone does not decide how much a building shakes; the match between wave and building frequency does."
+   ],
+   "takeaway": "Resonance: buildings shake hardest when wave frequency matches their natural frequency.",
+   "source": "W3 p19"
+  },
+  {
+   "id": "q067",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Two towns lie the same distance from an earthquake. One is built on hard rock; the other sits on a sedimentary basin of soft ground. What is expected?",
+   "options": [
+    "Shaking is stronger and lasts longer in the basin town, as soft ground amplifies it",
+    "Shaking is weaker in the basin town, because soft ground absorbs the seismic energy",
+    "Shaking is stronger on hard rock, since seismic waves travel faster through solid rock",
+    "Shaking is the same in both, since intensity depends only on distance from the source"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Sedimentary basins or soft ground amplify ground motion, increasing both its strength and duration through basin resonance, even far from the source.",
+    "Soft ground amplifies shaking rather than absorbing it.",
+    "Faster travel does not mean stronger shaking. Soft ground is where amplification happens.",
+    "Distance matters, but local ground conditions also control shaking at a site."
+   ],
+   "takeaway": "Soft ground and sedimentary basins amplify shaking in strength and duration.",
+   "source": "W3 p22–24"
+  },
+  {
+   "id": "q068",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "In general, how does shaking intensity change with distance from an earthquake's source?",
+   "options": [
+    "It stays the same at every distance for an earthquake of a given size",
+    "It is weakest near the source and builds up the further away you are",
+    "It is greatest at one set distance where the waves first come together",
+    "It is greatest near the source and generally weakens with distance"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Intensity varies from place to place. That is one of the ways it differs from magnitude.",
+    "This reverses the general pattern. Intensity usually drops as the waves travel.",
+    "There is no fixed distance of peak shaking. Shaking generally decreases away from the source.",
+    "Correct. Shaking intensity is generally greatest near the source and attenuates, or dissipates, with distance."
+   ],
+   "takeaway": "Shaking intensity generally decreases with distance from the source.",
+   "source": "W3 p16"
+  },
+  {
+   "id": "q069",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A city far from an earthquake suffers severe damage, while towns much nearer the source escape lightly. Which set of factors from the notes could explain this?",
+   "options": [
+    "Soft basin ground, buildings resonating with the waves, and the rupture's direction",
+    "Faster P waves, shorter shaking and the city's distance from any plate boundary",
+    "A smaller magnitude, a deeper hypocentre and fewer aftershocks near the city",
+    "Hard bedrock, shorter buildings and a rupture travelling away from the city"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Soft soil, resonance and directivity (the direction the rupture travels) can all raise shaking far from the source.",
+    "P waves are less destructive, shorter shaking reduces damage, and plate-boundary distance does not raise local shaking.",
+    "A smaller or deeper earthquake would weaken shaking everywhere, and aftershocks do not explain a distant city's damage.",
+    "Each of these would reduce shaking in the city rather than increase it."
+   ],
+   "takeaway": "Site effects (soft ground, resonance) and rupture directivity can make distant places shake hardest.",
+   "source": "W3 p19, p22–26"
+  },
+  {
+   "id": "q070",
+   "topic": "w03b",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "Compared with a smaller earthquake, what does a larger magnitude earthquake generally produce?",
+   "options": [
+    "Weaker shaking, as its energy spreads further out",
+    "Stronger maximum shaking that is over more quickly",
+    "Stronger maximum shaking that also lasts for longer",
+    "The same maximum shaking spread over a wider area"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Larger earthquakes release more energy, so shaking is stronger, not weaker.",
+    "Larger earthquakes rupture longer faults, so shaking lasts longer, not shorter.",
+    "Correct. Maximum shaking and its duration both scale roughly with magnitude.",
+    "Larger earthquakes produce stronger maximum shaking as well as affecting a wider area."
+   ],
+   "takeaway": "Bigger earthquakes shake harder and longer.",
+   "source": "W3 p16"
+  },
+  {
+   "id": "q071",
+   "topic": "w03c",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "An earthquake within very old, unbroken rock in the middle of a plate is felt unusually far away. Why?",
+   "options": [
+    "Old rock sits on plate boundaries, where the largest earthquakes take place",
+    "Old rock produces only surface waves, which never lose energy with distance",
+    "Old rock is softer, so it amplifies shaking in the same way as a basin does",
+    "Seismic waves travel further without weakening through old, unbroken rock"
+   ],
+   "answer": 3,
+   "rationales": [
+    "These earthquakes are intraplate: they happen away from plate boundaries.",
+    "Earthquakes in old rock still produce body and surface waves, and all waves weaken with distance.",
+    "Old cratonic rock is hard and unbroken, not soft basin sediment.",
+    "Correct. Old cratonic rock is not easily broken, so seismic waves travel further through it without weakening."
+   ],
+   "takeaway": "Waves travel far through old, unbroken rock, so intraplate quakes there can be felt over wide areas.",
+   "source": "W3 p31–32"
+  },
+  {
+   "id": "q072",
+   "topic": "w03c",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which earthquake is best described as intraplate?",
+   "options": [
+    "One triggered by human activity, such as injecting wastewater underground",
+    "One that occurs within a tectonic plate, well away from its boundaries",
+    "One that occurs where two plates slide past each other along a transform",
+    "One that occurs where two plates collide at a subduction zone trench"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Earthquakes triggered by human activity are classed as induced seismicity, whatever their location.",
+    "Correct. Intraplate earthquakes occur within a tectonic plate, away from its boundaries.",
+    "Transform earthquakes occur at a plate boundary.",
+    "Subduction zone earthquakes are plate-boundary earthquakes."
+   ],
+   "takeaway": "Intraplate = within a plate, away from boundaries; induced = triggered by human activity.",
+   "source": "W3 p31, p33"
+  },
+  {
+   "id": "q073",
+   "topic": "w03c",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A region with long-inactive faults begins to have earthquakes after large volumes of wastewater are injected underground. What is the mechanism?",
+   "options": [
+    "Injected fluid raises underground pressure, letting existing faults slip",
+    "The water cools the rock, which shrinks and cracks along brand-new faults",
+    "The added weight of water pushes the crust down and creates new faults",
+    "Injection heats the faults, melting the rock until it flows and ruptures"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Injecting large volumes of water increases underground fluid pressure, which can cause existing, previously inactive faults to slip.",
+    "Cooling and shrinking is not the mechanism; the notes point to increased fluid pressure on existing faults.",
+    "The mechanism is fluid pressure on existing faults, not the weight of the water making new ones.",
+    "The rock does not melt. Higher fluid pressure lets faults slip."
+   ],
+   "takeaway": "Induced seismicity: raised fluid pressure lets existing faults slip.",
+   "source": "W3 p33"
+  },
+  {
+   "id": "q074",
+   "topic": "w03c",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Two countries experience similar earthquakes. The first records larger economic losses but few deaths; the second records smaller economic losses but many deaths. What best explains this?",
+   "options": [
+    "The first has mostly intraplate earthquakes; the second has mostly plate-boundary earthquakes",
+    "The first has more valuable exposed assets but safer buildings; the second has weaker buildings",
+    "The first has stronger earthquakes overall; the second has more frequent but smaller earthquakes",
+    "The first sits on hard rock everywhere; the second sits entirely on soft sedimentary basins"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The type of earthquake does not explain why one country loses more money but fewer lives.",
+    "Correct. Comparing rich and poor countries, the notes show a contrast between economic and life losses. Costly assets drive economic loss, while weak buildings drive deaths: earthquakes don't kill, buildings kill.",
+    "The stem says the earthquakes are similar, so the difference lies in exposure and vulnerability.",
+    "Ground conditions matter, but they would not neatly split economic losses from deaths. Building quality and wealth explain the pattern."
+   ],
+   "takeaway": "Wealth raises economic losses; weak buildings raise deaths. Buildings, not earthquakes, kill.",
+   "source": "W3 p44"
+  },
+  {
+   "id": "q075",
+   "topic": "w03c",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A country has strong earthquake building codes, yet many recently built buildings collapse in an earthquake. Which explanation fits the notes?",
+   "options": [
+    "Strong codes make buildings stiff, which always worsens resonance damage",
+    "Codes guard only against P waves, so the later S waves caused the collapses",
+    "The codes were laxly enforced, so buildings did not meet the standard set",
+    "Building codes cover only tall buildings, so low-rise housing was unprotected"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Codes are designed to reduce damage; resonance depends on the match between wave and building frequency.",
+    "Codes are not written for one wave type. The failures came from buildings not meeting the code.",
+    "Correct. The notes contrast strong building codes with often lax enforcement. A code only helps if buildings are actually built to it.",
+    "Nothing in the notes limits codes to tall buildings. The issue highlighted is enforcement."
+   ],
+   "takeaway": "Building codes reduce losses only when they are enforced.",
+   "source": "W3 p42–43"
+  },
+  {
+   "id": "q076",
+   "topic": "w03c",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Which pairing correctly matches each term to an example?",
+   "options": [
+    "Hazard: the quality of local buildings; exposure: the ground shaking expected",
+    "Hazard: the people and buildings in its path; exposure: the ground shaking expected",
+    "Hazard: the ground shaking expected; exposure: the quality of local buildings",
+    "Hazard: the ground shaking expected; exposure: the people and buildings in its path"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Building quality relates to vulnerability, not hazard, and shaking is the hazard rather than exposure.",
+    "This swaps hazard and exposure.",
+    "Shaking is the hazard, but building quality is vulnerability. Exposure is who and what is in the path.",
+    "Correct. A seismic hazard map shows expected ground shaking, while exposure models are based on the buildings and population in harm's way."
+   ],
+   "takeaway": "Hazard = the shaking; exposure = people and buildings in its path; vulnerability = how badly they fare.",
+   "source": "W3 p29, p35"
+  },
+  {
+   "id": "q077",
+   "topic": "w03c",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A seismic hazard map shows high expected shaking in a remote mountain range, yet a map of expected losses ranks the same area low. Why?",
+   "options": [
+    "Hazard maps exaggerate remote areas, where fewer seismometers are installed",
+    "Few people or buildings are exposed there, so expected losses stay small",
+    "Mountains amplify shaking less than basins, so the hazard has been overstated",
+    "Loss maps ignore ground shaking and count only past deaths in each area"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Nothing suggests the hazard is wrong. The difference comes from exposure.",
+    "Correct. Loss depends on hazard, exposure and vulnerability together. High hazard with little exposure means low expected loss.",
+    "The stem gives no reason to doubt the hazard map. Low loss follows from low exposure.",
+    "Loss models combine ground shaking with exposure and vulnerability; they do not ignore shaking."
+   ],
+   "takeaway": "High hazard does not mean high loss without exposure and vulnerability.",
+   "source": "W3 p29, p35–37"
+  },
+  {
+   "id": "q078",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "Which event is most likely to generate a tsunami?",
+   "options": [
+    "A thrust fault that suddenly uplifts a large area of the seafloor",
+    "A strike-slip fault that moves two blocks of seafloor sideways",
+    "A deep earthquake beneath a continent, far from any coastline",
+    "A strong storm wind blowing steadily over the open ocean"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. A tsunami is caused by sudden displacement of a large volume of water. Reverse (thrust) faults usually cause earthquake tsunamis by uplifting or lowering a large area of seafloor.",
+    "Sideways motion displaces little water vertically, so it is much less effective at generating a tsunami.",
+    "An earthquake beneath a continent does not displace seawater.",
+    "Wind makes regular wind-driven waves, not a tsunami."
+   ],
+   "takeaway": "Tsunamis need sudden displacement of a large volume of water, typically by thrust faulting of the seafloor.",
+   "source": "W3 p48–49"
+  },
+  {
+   "id": "q079",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "A tsunami crosses a deep ocean basin and then a broad, shallow continental shelf. Where is it fastest, and where is it tallest?",
+   "options": [
+    "Fastest over the shallow shelf; tallest out over the deep ocean basin",
+    "The same speed throughout; tallest wherever the wind is strongest",
+    "Fastest over the deep basin; tallest out in the deep basin as well",
+    "Fastest over the deep basin; tallest as it reaches the shallow shelf"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This reverses both. Shallow water slows the wave and makes it taller.",
+    "Speed changes with water depth, and wind has no role in a tsunami's height.",
+    "In deep water the wave is fast but low. It grows tall only in shallow water.",
+    "Correct. Tsunami speed depends on water depth, so it is fastest in deep water. As it enters shallow water it slows and its height increases."
+   ],
+   "takeaway": "Tsunamis are fast and low in deep water, slow and tall in shallow water.",
+   "source": "W3 p52–53"
+  },
+  {
+   "id": "q080",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A tsunami spreads out from its source and reaches one coast much later than another coast the same distance away in the opposite direction. What is the best explanation?",
+   "options": [
+    "The slower path ran parallel to the fault, where tsunamis are always weaker",
+    "The slower path crossed colder water, which is denser and slows the waves",
+    "The water on the slower path is shallower, and tsunami speed depends on depth",
+    "The slower path faced a strong headwind, which held the tsunami waves back"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Wave height may vary with direction, but speed is set by depth, not by direction relative to the fault.",
+    "Water temperature is not what controls tsunami speed. Depth is.",
+    "Correct. Tsunami propagation speed depends on water depth, so the wave travels more slowly across shallower water.",
+    "Wind does not control tsunami speed. Water depth does."
+   ],
+   "takeaway": "Tsunami speed depends on water depth, so shallow paths are slower.",
+   "source": "W3 p52, p55"
+  },
+  {
+   "id": "q081",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Compared with a regular wind-driven wave, why does a tsunami flood so far inland?",
+   "options": [
+    "It is pushed along by strong coastal winds, which drive the water further and further in",
+    "It moves only the water near the surface, so all of its energy is packed into the crest",
+    "It is much taller out in the deep ocean, so it already towers above ships far offshore",
+    "Its wavelength is enormous compared with its height, and it moves the whole water column"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Tsunamis come from sudden displacement of water, not from wind.",
+    "This describes a wind-driven wave. A tsunami moves the whole depth of water.",
+    "In deep water a tsunami is low; it gains height only as it enters shallow water.",
+    "Correct. A tsunami's wavelength is far greater than its height, and unlike a wind wave it moves water all the way down, so a huge volume keeps flowing onshore."
+   ],
+   "takeaway": "Tsunamis have huge wavelengths and move the whole water column, so they surge far inland.",
+   "source": "W3 p50–51, p54"
+  },
+  {
+   "id": "q082",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which of these is NOT a tsunami-generating mechanism described in the notes?",
+   "options": [
+    "Days of heavy rainfall over a low-lying coastal city",
+    "Pyroclastic flows from an eruption entering the sea",
+    "An atmospheric pressure wave coupling with the ocean",
+    "A submarine landslide down a steep underwater slope"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Rainfall causes flooding, but it does not suddenly displace a large volume of seawater, so it is not a tsunami mechanism.",
+    "Volcanoes can generate tsunamis, including through pyroclastic flows entering the sea.",
+    "Meteotsunamis arise from ocean-atmosphere coupling, where a pressure wave drives sea-level change.",
+    "Submarine landslides are one of the main tsunami mechanisms."
+   ],
+   "takeaway": "Tsunami mechanisms: earthquakes, volcanoes, submarine landslides and atmospheric pressure waves.",
+   "source": "W3 p63–64, p78–81"
+  },
+  {
+   "id": "q083",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "An earthquake on the shallowest part of a subduction interface produces only modest shaking but a very large tsunami. What best explains this?",
+   "options": [
+    "It was a strike-slip event, which makes big tsunamis but little ground shaking",
+    "It was a deep event, and deep earthquakes always produce the largest tsunamis",
+    "It ruptured slowly, giving weak short-period waves while still moving the seafloor",
+    "It ruptured quickly, so most of its energy went into shaking instead of the water"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Strike-slip motion is poor at generating tsunamis. Subduction interfaces rupture as thrusts.",
+    "The rupture was shallow, and shallow slip is what lets it move the seafloor so effectively.",
+    "Correct. These tsunami earthquakes rupture the shallowest part of the interface slowly, exciting short-period seismic waves weakly compared with their moment and their tsunami.",
+    "Fast rupture would produce strong shaking. The modest shaking points to slow rupture."
+   ],
+   "takeaway": "Shallow, slow subduction ruptures can make weak shaking but large tsunamis.",
+   "source": "W3 p83"
+  },
+  {
+   "id": "q084",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Why can't the size of a tsunami be predicted from an earthquake's magnitude alone?",
+   "options": [
+    "Magnitude comes from intensity reports, which are unreliable for events at sea",
+    "Depth, rupture speed and how far the seafloor moves vertically also control it",
+    "Tsunamis come from storms that follow earthquakes, not from the earthquakes",
+    "Magnitude is not logarithmic, so it understates the size of very large events"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Magnitude is calculated from seismic recordings, not from intensity reports.",
+    "Correct. Seismic moment does not correlate perfectly with tsunami size, because rupture depth, speed and vertical seafloor displacement also matter.",
+    "Earthquake tsunamis are caused by the seafloor moving during the earthquake itself.",
+    "Moment magnitude is logarithmic. The mismatch comes from how the rupture moves the seafloor."
+   ],
+   "takeaway": "Tsunami size depends on how the rupture moves the seafloor, not on magnitude alone.",
+   "source": "W3 p82–83"
+  },
+  {
+   "id": "q085",
+   "topic": "w03d",
+   "week": 3,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After an eruption, sea-level disturbances appear at distant coasts, even in ocean basins cut off from the eruption by land. They arrive earlier than any ocean wave could. What most likely caused them?",
+   "options": [
+    "An atmospheric pressure wave coupling with the sea surface along its path",
+    "A submarine landslide on the far coast, triggered by the eruption's shaking",
+    "A deep ocean current carrying the original wave beneath the land masses",
+    "Seismic surface waves that shook the distant coasts and moved the water"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. An atmospheric pressure wave travelling at acoustic speed can couple with the ocean, producing a meteotsunami that crosses land masses and arrives early.",
+    "Nothing links simultaneous disturbances in many basins to separate landslides.",
+    "Ocean water cannot pass beneath land masses, and currents are far slower than an acoustic pressure wave.",
+    "Seismic waves shake the ground, but they would not raise sea level across separate basins in this pattern."
+   ],
+   "takeaway": "Meteotsunami: an atmospheric pressure wave drives sea-level change, even across land.",
+   "source": "W3 p78–81"
+  },
+  {
+   "id": "q086",
+   "topic": "w04a",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which matches each stage of the earthquake cycle to its typical duration?",
+   "options": [
+    "Interseismic: decades to centuries; coseismic: months to years; postseismic: seconds",
+    "Interseismic: months to years; coseismic: seconds; postseismic: decades to centuries",
+    "Interseismic: decades to centuries; coseismic: seconds; postseismic: months to years",
+    "Interseismic: seconds; coseismic: decades to centuries; postseismic: months to years"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Coseismic slip lasts seconds to minutes, and postseismic adjustment lasts much longer than seconds.",
+    "Interseismic loading lasts decades or more, and postseismic adjustment lasts days to years, not centuries.",
+    "Correct. Strain builds over tens to hundreds of years between earthquakes, is released in seconds to minutes during the rupture, and the crust keeps adjusting for days to years afterwards.",
+    "The interseismic stage is the long loading period, not the seconds of rupture."
+   ],
+   "takeaway": "Interseismic (decades–centuries) → coseismic (seconds–minutes) → postseismic (days–years).",
+   "source": "W4 p10–13"
+  },
+  {
+   "id": "q087",
+   "topic": "w04a",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A graph of strain on a fault over time shows a long steady rise, a near-vertical drop, then a short curved section before the steady rise resumes. What does the curved section represent?",
+   "options": [
+    "Coseismic slip, as the fault suddenly releases all of its stored stress",
+    "A foreshock sequence, as the fault gets ready for its coming mainshock",
+    "Interseismic loading, as the locked fault slowly stores up elastic strain",
+    "Postseismic adjustment, as afterslip and aftershocks redistribute stress"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Coseismic slip is the near-vertical drop itself.",
+    "The curve comes after the earthquake, and foreshocks can only be identified once a larger event follows.",
+    "Interseismic loading is the long steady rise, not the short curve after the drop.",
+    "Correct. After the sudden coseismic drop, the crust keeps adjusting: stress is redistributed and afterslip and aftershocks may occur over days to years."
+   ],
+   "takeaway": "On a strain–time plot: steady rise = interseismic, sudden drop = coseismic, short curve after = postseismic.",
+   "source": "W4 p10–13"
+  },
+  {
+   "id": "q088",
+   "topic": "w04a",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does the ground keep deforming for months to years after an earthquake has ended?",
+   "options": [
+    "Seismic waves keep bouncing around in the crust, shaking it for many months",
+    "The subsurface is viscoelastic, so it keeps responding to the change in stress",
+    "The fault stays unlocked for years and slips steadily at the full plate rate",
+    "The plates speed up after an earthquake, so strain builds faster than before"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Seismic waves die away within minutes. They do not cause months of deformation.",
+    "Correct. Earth's subsurface is viscoelastic, so it continues to respond to the stress change from the earthquake, producing afterslip and aftershocks.",
+    "Afterslip does occur, but the cause is the viscoelastic response to the stress change, not a fault left permanently unlocked.",
+    "Plate motion continues at its steady rate; postseismic deformation is the crust adjusting to the stress change."
+   ],
+   "takeaway": "Postseismic deformation reflects the viscoelastic response of the subsurface to the earthquake's stress change.",
+   "source": "W4 p32–33"
+  },
+  {
+   "id": "q089",
+   "topic": "w04a",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Two faults are loaded by plate motion at the same rate. Fault X releases strain in frequent small earthquakes, while fault Y stays locked for a much longer interseismic period. Compared with X's events, Y's next earthquake is likely to be:",
+   "options": [
+    "Smaller, since a long locked period lets the strain leak away quietly",
+    "The same size, since both faults are loaded at exactly the same rate",
+    "Impossible to compare, since interseismic strain cannot be measured",
+    "Larger, since more strain has built up over its longer locked period"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A locked fault stores strain rather than losing it. That is the basis of elastic rebound.",
+    "Loading rate is the same, but the size of an earthquake depends on how much strain has accumulated before it slips.",
+    "Interseismic strain can be measured, for example with GNSS stations recording slow motion over years.",
+    "Correct. On the strain–time plot, the longer the strain accumulates, the larger the drop when the fault finally slips."
+   ],
+   "takeaway": "A longer locked period stores more strain, which tends to mean a larger earthquake.",
+   "source": "W4 p10–14"
+  },
+  {
+   "id": "q090",
+   "topic": "w04b",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why are GNSS stations used for plate motion securely anchored to bedrock?",
+   "options": [
+    "So they record motion of the crust itself, precise to under a millimetre a year",
+    "So the solid rock shields them from radio interference that blocks satellite signals",
+    "So they can sense heat rising from the mantle beneath the moving plates",
+    "So they can measure shaking intensity directly from the rock beneath them"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Anchoring to bedrock means the receiver moves with the crust, and these high-precision receivers can track movement of less than a millimetre per year.",
+    "Bedrock anchoring is about moving with the crust, not about blocking interference.",
+    "GNSS tracks position; it does not measure heat.",
+    "GNSS measures position over time, not shaking intensity."
+   ],
+   "takeaway": "GNSS stations on bedrock track crustal motion precisely enough to monitor plate motion.",
+   "source": "W4 p15"
+  },
+  {
+   "id": "q091",
+   "topic": "w04b",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Why is radar better suited than optical imagery for mapping ground changes after an earthquake in a cloudy tropical region?",
+   "options": [
+    "It measures shaking intensity from the colour of the ground",
+    "It sees only at night, when the ground echoes are clearest",
+    "It works by day and night and can see through clouds",
+    "It uses visible light, so it takes sharper images than optical"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Radar measures echoes from the ground, not the colour of the ground or shaking intensity.",
+    "Radar works day and night; it is not limited to night.",
+    "Correct. Radar has all-day capability and nearly all-weather capability, so it can see through clouds that block optical images.",
+    "Radar uses microwaves, not visible light. That is why it can see through cloud."
+   ],
+   "takeaway": "Radar sees through cloud, day or night, which optical imagery cannot.",
+   "source": "W4 p22–24"
+  },
+  {
+   "id": "q092",
+   "topic": "w04b",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "InSAR compares the phase of radar echoes from two passes over the same ground. What does a phase shift between the passes represent?",
+   "options": [
+    "A change in surface temperature between the passes, caused by friction on the fault",
+    "Ground displacement along the satellite's line of sight between the two passes",
+    "Ground displacement in the north–south direction only, whatever the satellite path",
+    "A difference in cloud cover between the two passes, which must then be removed"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The phase shift reflects ground movement, not temperature.",
+    "Correct. Phase shift equals displacement along the line of sight, so comparing passes before and after movement maps how the ground moved.",
+    "InSAR measures motion along the satellite's line of sight, not one fixed compass direction.",
+    "Radar sees through cloud, so cloud cover is not what the phase shift records."
+   ],
+   "takeaway": "InSAR phase shift = ground displacement along the satellite's line of sight.",
+   "source": "W4 p26–27"
+  },
+  {
+   "id": "q093",
+   "topic": "w04b",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Before an interferogram can be used to measure fault slip, which effects must be corrected for?",
+   "options": [
+    "Ocean tides, shaking intensity and the depth of the hypocentre",
+    "Cloud cover, time of day and the season the images were taken",
+    "Topography, satellite positions and the curvature of the Earth",
+    "Building heights, road layouts and the population living there"
+   ],
+   "answer": 2,
+   "rationales": [
+    "These are not part of turning phase differences into ground displacement.",
+    "Radar sees through cloud and works day and night, so these are not the corrections listed.",
+    "Correct. An interferogram (phase A minus phase B) must be corrected for topography, satellite positions and Earth's curvature.",
+    "These describe exposure, not corrections to the radar phase."
+   ],
+   "takeaway": "Interferograms are corrected for topography, satellite positions and Earth's curvature.",
+   "source": "W4 p28"
+  },
+  {
+   "id": "q094",
+   "topic": "w04b",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A team wants to track the slow build-up of strain across a plate boundary over a decade. Which tool fits best?",
+   "options": [
+    "A network of GNSS stations recording position continuously for years",
+    "A DART buoy measuring changes in water pressure on the seafloor",
+    "A shaking intensity survey compiled from damage after each event",
+    "A single seismometer that records the shaking during the next large earthquake"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Interseismic strain builds slowly, and GNSS stations can track sub-millimetre motion per year, which suits monitoring this stage.",
+    "DART buoys detect tsunamis in the ocean, not strain across a plate boundary.",
+    "Intensity surveys record damage from one earthquake, not slow strain build-up.",
+    "A seismometer records the sudden coseismic stage, not slow loading between earthquakes."
+   ],
+   "takeaway": "GNSS is the tool for slow interseismic strain; seismometers capture coseismic rupture.",
+   "source": "W4 p14–20"
+  },
+  {
+   "id": "q095",
+   "topic": "w04b",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Which observation best reveals how fast a fault slips during the rupture itself?",
+   "options": [
+    "Building damage surveys completed weeks after the earthquake",
+    "GNSS positions averaged over the decade before the earthquake",
+    "Tsunami deposits found in coastal sediments after the event",
+    "Seismometer records of ground motion during the earthquake"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Damage surveys measure intensity, not the slip on the fault.",
+    "Averages over the decade before capture interseismic loading, not the rupture.",
+    "Deposits show that a past tsunami happened, not how fast a fault slipped.",
+    "Correct. Seismometers record the coseismic stage directly and can show how fast the fault slips over the seconds of rupture."
+   ],
+   "takeaway": "Seismometers capture the coseismic stage as it happens.",
+   "source": "W4 p21, p31"
+  },
+  {
+   "id": "q096",
+   "topic": "w04b",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A large earthquake strikes a remote area with no ground-based instruments. How can scientists still map where the fault ruptured and how much it slipped?",
+   "options": [
+    "Install GNSS stations right after the event to record its coseismic slip",
+    "Compare radar images from before and after to map surface displacement",
+    "Use optical images taken at night to detect heat released along the fault",
+    "Wait for the aftershocks to stop, then add up their total released energy"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Stations installed after the event miss the coseismic slip they would be trying to record.",
+    "Correct. InSAR compares radar passes from before and after the earthquake to detect surface change and show how much the fault slipped.",
+    "Optical images need daylight and clear skies, and they do not measure heat from slip.",
+    "Aftershock energy does not map the rupture or its slip."
+   ],
+   "takeaway": "InSAR maps coseismic displacement from space, even where there are no ground instruments.",
+   "source": "W4 p29–30"
+  },
+  {
+   "id": "q097",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why can an earthquake not be identified as a foreshock at the moment it happens?",
+   "options": [
+    "It only counts as a foreshock once a larger earthquake follows nearby",
+    "Foreshocks happen deep in the mantle, beyond the reach of monitoring",
+    "Foreshocks are too small to be located until the aftershocks begin",
+    "Foreshocks produce no S waves, so seismometers record them as noise"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Foreshocks are earthquakes that precede larger ones in the same place, so one can only be called a foreshock after the larger earthquake occurs.",
+    "Foreshocks occur in the same location as the following larger earthquake, not deep in the mantle.",
+    "Size is not the issue. The label depends on whether a larger event follows.",
+    "Foreshocks are ordinary earthquakes with ordinary seismic waves."
+   ],
+   "takeaway": "A foreshock is defined only in hindsight, after a larger earthquake follows.",
+   "source": "W4 p37"
+  },
+  {
+   "id": "q098",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Ten days after a large mainshock, a resident says the remaining aftershocks must now be too small to cause harm. Which response fits the notes?",
+   "options": [
+    "Aftershocks become more frequent over time, but each one is much smaller",
+    "That's right, because no aftershock can occur more than a week after the event",
+    "That's right, because aftershocks get steadily smaller with every passing day",
+    "Aftershocks become less frequent with time, but their magnitudes do not shrink"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The rate of aftershocks falls with time rather than rising.",
+    "Aftershocks can continue for days to years after the mainshock.",
+    "This is the misconception the notes warn against: magnitudes do not decline over time.",
+    "Correct. The rate of aftershocks decreases with time, but their magnitudes do not get smaller. Only their rate changes."
+   ],
+   "takeaway": "Aftershock rate falls with time; aftershock size does not.",
+   "source": "W4 p37–38"
+  },
+  {
+   "id": "q099",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "Two mainshocks of very different sizes strike similar regions. Which expectation is supported by the statistics in the notes?",
+   "options": [
+    "Neither triggers aftershocks unless a foreshock came first",
+    "The larger mainshock is likely to trigger more aftershocks",
+    "The smaller mainshock is likely to trigger more aftershocks",
+    "Both trigger the same number, since aftershocks are random"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Aftershocks follow mainshocks whether or not there was a foreshock.",
+    "Correct. Larger mainshocks trigger more aftershocks than smaller mainshocks.",
+    "This reverses the relationship.",
+    "Aftershock occurrence can be estimated statistically, and it scales with the size of the mainshock."
+   ],
+   "takeaway": "Bigger mainshocks trigger more aftershocks.",
+   "source": "W4 p38"
+  },
+  {
+   "id": "q100",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "Compared with the first day after a mainshock, roughly how many aftershocks would you expect on the tenth day?",
+   "options": [
+    "About half as many",
+    "About ten times as many",
+    "About a tenth as many",
+    "About the same number"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The decline is steeper than this. The notes give about a tenth as many by the tenth day.",
+    "The rate decreases with time, not increases.",
+    "Correct. The aftershock rate decreases with time: there are about ten times as many aftershocks on the first day as on the tenth.",
+    "The rate falls with time, so the numbers are not the same."
+   ],
+   "takeaway": "Aftershock rate decays with time: about ten times fewer on day ten than on day one.",
+   "source": "W4 p38"
+  },
+  {
+   "id": "q101",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "A moderate earthquake has just occurred. What do the statistics in the notes suggest about a larger earthquake nearby within the following week?",
+   "options": [
+    "A small but real chance, so it cannot be ruled out",
+    "It is impossible, since the stress is now released",
+    "It is likely, as most quakes are followed by bigger ones",
+    "It is certain, since every quake leads to a bigger one"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The chance of an earthquake being followed by a larger one nearby within a week is about 5%: small, but real.",
+    "The stress change can bring other parts of the fault closer to failure, so a larger event is possible.",
+    "The chance is small, about 5%, so a larger one is not likely.",
+    "Most earthquakes are not followed by a larger one, so it is not certain."
+   ],
+   "takeaway": "There is a small but real chance (about 5%) that an earthquake is followed by a larger one within a week.",
+   "source": "W4 p38"
+  },
+  {
+   "id": "q102",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which statement best describes aftershocks?",
+   "options": [
+    "Echoes of the mainshock's seismic waves, recorded again as they bounce back",
+    "Larger earthquakes that follow a mainshock once its fault has fully unlocked",
+    "Earthquakes that occur only on faults far away from the one that slipped",
+    "Smaller earthquakes nearby as the crust readjusts after a larger mainshock"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Aftershocks are real earthquakes, not echoes of earlier waves.",
+    "A larger earthquake would itself become the mainshock, turning the first event into a foreshock.",
+    "Aftershocks occur in the same general area, mostly along the part of the fault that slipped.",
+    "Correct. Aftershocks are smaller earthquakes in the same general area during the days to years after a mainshock, representing readjustments along the fault that slipped."
+   ],
+   "takeaway": "Aftershocks are smaller earthquakes in the same area as the crust readjusts after a mainshock.",
+   "source": "W4 p37"
+  },
+  {
+   "id": "q103",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Above a locked subduction zone, a coastal bulge rises slowly over decades while an area further landward sinks. What happens when the megathrust finally slips in an earthquake?",
+   "options": [
+    "Nothing changes vertically, as these earthquakes move land sideways only",
+    "The motions reverse: the bulge drops and the landward area rises",
+    "Both areas rise together, as the rupture lifts the whole margin upward",
+    "The motions continue: the bulge rises faster and the land sinks more"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Megathrust earthquakes cause large vertical changes, both uplift and subsidence.",
+    "Correct. As strain accumulates, a bulge rises and a landward area sinks. These vertical displacements reverse when the fault slips.",
+    "The rupture produces a pattern of both uplift and subsidence, not uniform uplift.",
+    "The earthquake releases the strain that caused these motions, so they reverse rather than speed up."
+   ],
+   "takeaway": "At subduction zones, vertical motions built up between earthquakes reverse when the megathrust slips.",
+   "source": "W4 p41"
+  },
+  {
+   "id": "q104",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After a megathrust earthquake, a harbour dock is left so high above the water that boats can no longer use it. What does this indicate?",
+   "options": [
+    "Sea level fell sharply because the tsunami drained the water out of the bay",
+    "The coast subsided during rupture, which drew the sea away from the dock",
+    "The coast was uplifted as the overriding plate rebounded during the rupture",
+    "Postseismic afterslip slowly lifted the seabed over the following decade"
+   ],
+   "answer": 2,
+   "rationales": [
+    "A tsunami's water returns; it does not permanently lower sea level.",
+    "Subsidence would lower the land, bringing the sea closer to the dock, not further away.",
+    "Correct. Megathrust slip produces uplift in some areas, raising the coast and leaving docks stranded above the water.",
+    "The change was abrupt, linked to the earthquake itself, not a slow decade-long process."
+   ],
+   "takeaway": "Megathrust earthquakes can abruptly uplift coasts, stranding docks above the sea.",
+   "source": "W4 p46–48"
+  },
+  {
+   "id": "q105",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A GPS station on an island near a trench moves steadily landward for years, then jumps back seaward during a large earthquake. What does this illustrate?",
+   "options": [
+    "Elastic rebound: strain stored during loading is released in the rupture",
+    "Postseismic afterslip: the fault creeps backward before locking up again",
+    "Mantle convection: the plate turns around once the slab breaks away below",
+    "Induced seismicity: fluid pressure pushes the island back during the slip"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The motion before the earthquake is relieved during it, an example of Reid's elastic rebound theory.",
+    "The jump happened during the earthquake, so it is coseismic rather than postseismic.",
+    "The plates do not reverse direction. The station's jump is the release of stored elastic strain.",
+    "Induced seismicity involves human activity raising fluid pressure, which plays no part here."
+   ],
+   "takeaway": "GPS motion that is reversed during an earthquake is elastic rebound in action.",
+   "source": "W4 p42–43"
+  },
+  {
+   "id": "q106",
+   "topic": "w04c",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "During a megathrust earthquake, where does uplift typically occur relative to subsidence?",
+   "options": [
+    "Subsidence nearer the trench, with uplift further landward",
+    "Uplift everywhere, with the most uplift furthest inland",
+    "Subsidence everywhere, with the most along the coastline",
+    "Uplift nearer the trench, with subsidence further landward"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This reverses the pattern shown in the notes.",
+    "The rupture produces both uplift and subsidence, not uplift everywhere.",
+    "The rupture produces both uplift and subsidence, not subsidence everywhere.",
+    "Correct. Slip on the megathrust uplifts the area nearer the trench and lowers the area further landward. Where the coast sits relative to the trench decides what happens there."
+   ],
+   "takeaway": "Megathrust slip: uplift towards the trench, subsidence further landward.",
+   "source": "W4 p45–46"
+  },
+  {
+   "id": "q107",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Why does an earthquake early warning system give little or no warning to places right next to the epicentre?",
+   "options": [
+    "Warning messages travel more slowly than seismic waves, so they arrive late",
+    "Shaking near the epicentre comes only from P waves, which give no warning",
+    "The damaging S and surface waves arrive almost as soon as the first P waves",
+    "P waves cannot be detected near the epicentre, because they are too large"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Warning messages travel at the speed of light, much faster than seismic waves.",
+    "Near the epicentre the damaging S and surface waves still arrive. They just follow the P waves too closely.",
+    "Correct. Warnings rely on fast P waves arriving before the damaging S and surface waves. Close to the source the gap between them is tiny, leaving a blind zone.",
+    "P waves near the source are readily detected; the problem is how little time separates them from the S waves."
+   ],
+   "takeaway": "Early warning uses the gap between P waves and damaging S waves, and that gap is tiny near the source.",
+   "source": "W4 p52–54"
+  },
+  {
+   "id": "q108",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What does a DART station detect, and how?",
+   "options": [
+    "Earthquakes, using a seafloor seismometer linked to a coastal radar",
+    "Tsunamis, using a seafloor pressure recorder linked to a surface buoy",
+    "Storm surges, using a buoy that measures how wind speed is changing",
+    "Tsunamis, using a surface buoy that films the wave height from above"
+   ],
+   "answer": 1,
+   "rationales": [
+    "DART is designed for tsunamis, using water pressure, not seismometers and radar.",
+    "Correct. Each DART station has a surface buoy and a seafloor bottom pressure recorder, which detects water pressure changes caused by tsunamis.",
+    "DART detects tsunamis through water pressure changes, not storm surges through wind.",
+    "Detection relies on the seafloor pressure recorder, not filming the waves."
+   ],
+   "takeaway": "DART: seafloor pressure recorder plus surface buoy, detecting tsunamis in the deep ocean.",
+   "source": "W4 p55"
+  },
+  {
+   "id": "q109",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Tsunami warning systems can give an hour to a day of warning. Which community benefits most from deep-ocean tsunami detection?",
+   "options": [
+    "A coast right next to the source, reached minutes after the earthquake",
+    "A coast across the ocean basin, many hours' travel from the source",
+    "A coast where the earthquake struck under land, far from any sea",
+    "A coast inland of a mountain range, where the tsunami cannot reach"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Near-source coasts may be hit before detection, assessment and warning can happen.",
+    "Correct. Distant coasts have hours before arrival, which gives time for buoys to detect the tsunami and warnings to be issued.",
+    "An earthquake under land does not displace seawater, so there is no tsunami to detect.",
+    "A coast the tsunami cannot reach has no need of warning."
+   ],
+   "takeaway": "Deep-ocean tsunami warnings help most where travel times are long.",
+   "source": "W4 p56–57"
+  },
+  {
+   "id": "q110",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A densely populated coastal city sits on flat land near a subduction zone, with little high ground within reach. Which measure from the notes best addresses this?",
+   "options": [
+    "Vertical evacuation structures that people can climb to escape the tsunami",
+    "A DART buoy placed just offshore to warn the city well before the wave",
+    "Placing coastal pipelines on sliders so the ground can move beneath them",
+    "Restricting land use within a fixed distance of every active fault trace"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Where people cannot reach high ground in time, vertical evacuation structures provide height. One proposal doubles as a community park in normal times.",
+    "Near a subduction zone the tsunami may arrive within minutes, so a nearby buoy does not buy enough time.",
+    "Pipeline sliders protect against fault offset, not tsunami flooding.",
+    "Fault zoning addresses surface rupture, not tsunami flooding."
+   ],
+   "takeaway": "Vertical evacuation structures give height where natural high ground is out of reach.",
+   "source": "W4 p76–79"
+  },
+  {
+   "id": "q111",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Laws that restrict building within a set distance of active fault traces mainly target which hazard?",
+   "options": [
+    "Aftershocks that keep occurring for years after a mainshock",
+    "Tsunami flooding of low-lying ground close to the coastline",
+    "Surface rupture tearing through structures built across the fault",
+    "Strong shaking amplified by soft sediments in nearby sedimentary basins"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Aftershocks shake a wide area; a setback from the fault trace does not address them.",
+    "Tsunami flooding is managed with hazard maps, warnings and evacuation, not fault setbacks.",
+    "Correct. Fault zone laws restrict land use on active faults because buildings sitting on the rupture are torn apart, while similar buildings nearby can survive.",
+    "Basin amplification affects whole regions, not a narrow strip along the fault."
+   ],
+   "takeaway": "Fault zoning targets surface rupture, which destroys buildings built on the fault.",
+   "source": "W4 p62–66"
+  },
+  {
+   "id": "q112",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A pipeline must cross an active strike-slip fault. Which design approach does the notes highlight?",
+   "options": [
+    "Bury the pipe deep so the fault offset passes harmlessly above the pipeline",
+    "Anchor the pipe rigidly on both sides so that it holds the two blocks together",
+    "Run the pipe along the fault trace so it shifts together with the slip",
+    "Rest the pipe on sliders so the ground can shift beneath it without breaking it"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Fault offset extends to depth, so burying the pipe would put it right in the path of the slip.",
+    "A pipe cannot hold back plate motion; rigid anchoring would make it snap.",
+    "The two sides of a strike-slip fault move in opposite directions, so a pipe along the trace would still be torn.",
+    "Correct. A pipeline placed on sliders let the ground move beneath it during fault offset without breaking it."
+   ],
+   "takeaway": "Designing for fault offset (e.g. sliders) lets infrastructure survive surface rupture.",
+   "source": "W4 p67–69"
+  },
+  {
+   "id": "q113",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Instrumental records near a subduction zone cover only about a century. How can scientists judge whether very large tsunamis have struck there before?",
+   "options": [
+    "Study tsunami deposits, drowned forests and corals that record past events",
+    "Extrapolate from present GNSS motion, which records every past earthquake",
+    "Use InSAR images, which reveal displacements from previous centuries",
+    "Count today's aftershocks, as their number reveals the largest past event"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Tsunami deposits, ghost forests drowned by subsidence, and corals that track past uplift extend the record far beyond instruments.",
+    "GNSS measures present motion only; it does not record earthquakes before the stations existed.",
+    "InSAR satellites have only operated recently, so they cannot see centuries back.",
+    "Present aftershock counts relate to recent mainshocks, not the region's largest past event."
+   ],
+   "takeaway": "Geological records such as deposits, drowned forests and corals reveal past tsunamis and earthquakes.",
+   "source": "W4 p71–74"
+  },
+  {
+   "id": "q114",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is the main purpose of tsunami hazard maps and warning signs?",
+   "options": [
+    "Predict the exact date and size of the next tsunami along a given coastline",
+    "Prevent tsunamis by marking where seafloor slip is most likely to happen",
+    "Record the heights of past tsunamis for settling insurance claims later",
+    "Support emergency planning and adaptation by showing where water may reach"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Hazard maps show where flooding could reach; they do not predict exact timing.",
+    "Maps cannot prevent tsunamis. They help people prepare for them.",
+    "Their purpose is preparedness, not recording past events for insurance.",
+    "Correct. Hazard maps and warning signs help communities with infrastructural adaptation and emergency planning."
+   ],
+   "takeaway": "Tsunami hazard maps and signs support planning and evacuation.",
+   "source": "W4 p73"
+  },
+  {
+   "id": "q115",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After a thrust earthquake, buildings standing across the fault trace collapsed while similar buildings a short distance away survived. What does this show?",
+   "options": [
+    "Shaking was weaker on the fault trace than further away from the fault",
+    "Rupture beneath a structure does far more damage than shaking alone",
+    "Only buildings over the hypocentre collapse, as shaking is focused there",
+    "Buildings away from the trace were saved by soft ground absorbing waves"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Shaking is generally strongest close to the source, so it would not be weaker on the trace.",
+    "Correct. Buildings not on the fault did not collapse, while buildings on it were torn apart by the surface rupture.",
+    "The rupture runs along the fault trace at the surface; the hypocentre is a single point at depth.",
+    "Soft ground amplifies shaking rather than absorbing it."
+   ],
+   "takeaway": "Surface rupture destroys buildings on the fault, which is why fault zoning matters.",
+   "source": "W4 p62–64"
+  },
+  {
+   "id": "q116",
+   "topic": "w04d",
+   "week": 4,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why do the notes stress cooperation between countries in managing tsunami risk?",
+   "options": [
+    "Each country's warning system only works for tsunamis inside its own borders",
+    "Tsunamis form only in international waters that no single country controls",
+    "A tsunami from one country's subduction zone can strike coasts in many others",
+    "Tsunami building codes must be identical in every country before they work"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Warning systems share data across borders. The point is that the hazard itself crosses borders.",
+    "Tsunamis can start close to any country's coast, not only in international waters.",
+    "Correct. Natural hazards are transboundary: tsunamis cross ocean basins, so detection and warnings need countries to cooperate.",
+    "Nothing requires identical codes. Cooperation matters because the hazard crosses borders."
+   ],
+   "takeaway": "Hazards like tsunamis are transboundary, so countries must cooperate.",
+   "source": "W4 p56, p87"
+  }
+ ]
+}
