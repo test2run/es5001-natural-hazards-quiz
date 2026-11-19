@@ -87,6 +87,71 @@
    "id": "w04d",
    "week": 4,
    "name": "Warnings & reducing earthquake and tsunami risk"
+  },
+  {
+   "id": "w05a",
+   "week": 5,
+   "name": "How magma forms & tectonic settings"
+  },
+  {
+   "id": "w05b",
+   "week": 5,
+   "name": "Hotspots"
+  },
+  {
+   "id": "w05c",
+   "week": 5,
+   "name": "Silica, viscosity & igneous rocks"
+  },
+  {
+   "id": "w05d",
+   "week": 5,
+   "name": "Volcano shape & eruption style"
+  },
+  {
+   "id": "w06a",
+   "week": 6,
+   "name": "Lava, ash fall & volcanic gases"
+  },
+  {
+   "id": "w06b",
+   "week": 6,
+   "name": "Pyroclastic flows, surges, lahars & collapse"
+  },
+  {
+   "id": "w06c",
+   "week": 6,
+   "name": "Monitoring volcanoes"
+  },
+  {
+   "id": "w06d",
+   "week": 6,
+   "name": "Forecasting, alerts & hazard zones"
+  },
+  {
+   "id": "w07a",
+   "week": 7,
+   "name": "Forces on a slope"
+  },
+  {
+   "id": "w07b",
+   "week": 7,
+   "name": "Water, cohesion & liquefaction"
+  },
+  {
+   "id": "w07c",
+   "week": 7,
+   "name": "Types of mass movement"
+  },
+  {
+   "id": "w07d",
+   "week": 7,
+   "name": "Landslide monitoring & mitigation"
+  },
+  {
+   "id": "w07e",
+   "week": 7,
+   "name": "Cascading hazards"
   }
  ],
  "questions": [
@@ -2757,6 +2822,2283 @@
    ],
    "takeaway": "Hazards like tsunamis are transboundary, so countries must cooperate.",
    "source": "W4 p56, p87"
+  },
+  {
+   "id": "q117",
+   "topic": "w05a",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Mantle rock at a fixed depth begins to melt even though its temperature has not risen. Which change could explain this?",
+   "options": [
+    "Extra rock piled up above it, raising the pressure that acts on it at that depth",
+    "Slower plate motion overhead, letting the rock cool down and then contract",
+    "Water driven out of the rock, raising the temperature needed for melting",
+    "Water added from a subducting slab, lowering the temperature needed to melt"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Increasing pressure makes rock harder to melt, not easier. Melting comes from decreasing pressure.",
+    "Cooling works against melting, and plate speed overhead does not melt the rock.",
+    "Removing water would raise the melting temperature, making melting less likely.",
+    "Correct. Adding water reduces the temperature needed to melt rock (flux melting), so rock can melt without heating up or moving."
+   ],
+   "takeaway": "Magma forms by adding heat, lowering pressure, or adding water; at fixed depth and temperature, only water can do it.",
+   "source": "W5 p9–11"
+  },
+  {
+   "id": "q118",
+   "topic": "w05a",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "At a mid-ocean ridge, mantle rock rises and melts. What triggers the melting?",
+   "options": [
+    "Friction between the separating plates heats the rock beyond its melting point",
+    "Water from a sinking slab lowers the melting point of the rising mantle rock",
+    "Pressure falls as the rock rises, while its temperature stays about the same",
+    "Temperature rises sharply as the rock rises, while the pressure stays the same"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Friction between plates does not melt the mantle at ridges.",
+    "Water-driven (flux) melting happens at subduction zones, where slabs carry water down. There is no sinking slab at a ridge.",
+    "Correct. This is decompression melting: as rock rises from mantle to crust its temperature stays about the same while pressure drops, so it melts.",
+    "The rising rock does not heat up sharply. The change that matters is falling pressure."
+   ],
+   "takeaway": "Mid-ocean ridges: decompression melting as rising rock loses pressure.",
+   "source": "W5 p10"
+  },
+  {
+   "id": "q119",
+   "topic": "w05a",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which pairing of tectonic setting with its main melting process is correct?",
+   "options": [
+    "Mid-ocean ridge: decompression melting; subduction zone: water lowering the melting point",
+    "Mid-ocean ridge: friction between plates; subduction zone: pressure rise melting the slab",
+    "Mid-ocean ridge: rising pressure on the rock; subduction zone: friction between the plates",
+    "Mid-ocean ridge: water lowering the melting point; subduction zone: decompression melting"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Rock rising beneath ridges melts as pressure drops; at subduction zones, water released from the slab lowers the melting temperature of the mantle above.",
+    "Neither friction nor rising pressure melts rock in these settings; rising pressure actually hinders melting.",
+    "Rising pressure hinders melting, and friction is not the melting process at subduction zones.",
+    "The two processes are swapped."
+   ],
+   "takeaway": "Ridges melt by decompression; subduction zones melt by adding water (flux melting).",
+   "source": "W5 p10–12"
+  },
+  {
+   "id": "q120",
+   "topic": "w05a",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "In a continental rift, the cold upper part of the plate breaks along normal faults, and volcanoes appear along the fault boundaries. Where does their magma come from?",
+   "options": [
+    "Friction on the normal faults heating the crust until it partly melts",
+    "Hot, ductile upper mantle rising beneath the thinning plate and melting",
+    "A subducting slab beneath the rift releasing water into the mantle above",
+    "Old ocean lithosphere pushed onto the continent and melted by collision"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The normal faults break the brittle upper plate, but the magma comes from rising mantle, not fault friction.",
+    "Correct. As divergence pulls the continent apart, hot, ductile upper mantle rises, elevating the land and generating magma that feeds volcanism along the faults.",
+    "Rifts are divergent settings; there is no subducting slab supplying water beneath them.",
+    "Ocean lithosphere placed on a continent by collision is an ophiolite. It does not feed rift volcanism."
+   ],
+   "takeaway": "Continental rift volcanism: rising, decompressing upper mantle beneath a stretching plate.",
+   "source": "W5 p36"
+  },
+  {
+   "id": "q121",
+   "topic": "w05a",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "A curved chain of volcanic islands forms where one oceanic plate sinks beneath another oceanic plate. Which setting is this?",
+   "options": [
+    "An ocean-ocean convergent boundary, forming a volcanic island arc",
+    "A divergent boundary, where islands form along the spreading ridge",
+    "A hotspot track, where islands form as a plate moves over a plume",
+    "An ocean-continent convergent boundary, forming a continental arc"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Chains of volcanic islands form where oceanic plates subduct beneath other oceanic plates, at an ocean-ocean convergent boundary.",
+    "Spreading ridges produce new ocean floor, not an arc of islands above a sinking plate.",
+    "Hotspot chains form within a plate, not where one plate sinks beneath another.",
+    "A continental arc needs an ocean plate subducting under a continent, but here both plates are oceanic."
+   ],
+   "takeaway": "Ocean-ocean subduction builds volcanic island arcs; ocean-continent subduction builds continental arcs.",
+   "source": "W5 p15, p23"
+  },
+  {
+   "id": "q122",
+   "topic": "w05a",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A line of stratovolcanoes runs parallel to a coastline, inland of a deep ocean trench. What best explains their location?",
+   "options": [
+    "A transform boundary runs along the coast, where sliding heats the rock up to its melting point",
+    "A stationary hotspot lies under the coast and feeds each of the volcanoes in turn",
+    "The continent is rifting apart, so decompression melting happens along the coast",
+    "An oceanic plate subducts beneath the continent, adding water that melts the mantle"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Transform boundaries do not generate magma by sliding.",
+    "A hotspot under a moving plate makes a chain that ages along its length, not an arc running beside a trench.",
+    "A trench points to convergence, not rifting.",
+    "Correct. The trench marks subduction; water released from the sinking slab causes melting in the mantle above, building a continental volcanic arc inland."
+   ],
+   "takeaway": "Trench plus parallel line of volcanoes = subduction-related volcanic arc.",
+   "source": "W5 p11–12, p22–23"
+  },
+  {
+   "id": "q123",
+   "topic": "w05b",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is the source of a hotspot?",
+   "options": [
+    "A subducting slab releasing water into the mantle beneath the moving plate",
+    "A mantle plume rising from deep in the mantle, near the core-mantle boundary",
+    "A divergent boundary where two plates pull apart and thin the crust above",
+    "Friction on a transform fault that heats rock along the length of the plate"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Slab water drives arc volcanism at subduction zones, not hotspots.",
+    "Correct. Hotspots are fed by a mantle plume rising from the core-mantle boundary.",
+    "Hotspots occur within plates, away from divergent boundaries.",
+    "Transform faults do not produce hotspot magma."
+   ],
+   "takeaway": "Hotspots are fed by mantle plumes rising from the core-mantle boundary.",
+   "source": "W5 p25"
+  },
+  {
+   "id": "q124",
+   "topic": "w05b",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A plate moves over a stationary hotspot, building a chain of volcanoes. Partway through, the plate changes the direction it is moving. What would the chain show?",
+   "options": [
+    "Two parallel chains, because the plume splits to follow both directions",
+    "No change, because the hotspot moves with the plate and keeps a straight line",
+    "A bend, because the chain records the plate's path over a fixed source",
+    "A gap, because hotspots switch off whenever the plate's motion changes"
+   ],
+   "answer": 2,
+   "rationales": [
+    "A single plume makes a single track; it does not split.",
+    "The hotspot stays roughly stationary; it is the plate that moves.",
+    "Correct. Because the hotspot is stationary, the chain traces the plate's motion over it. A change in direction shows up as a bend in the track.",
+    "The plume keeps supplying magma regardless of plate direction."
+   ],
+   "takeaway": "A hotspot track records the plate's motion over a fixed plume, so a turn in motion bends the chain.",
+   "source": "W5 p27–28"
+  },
+  {
+   "id": "q125",
+   "topic": "w05b",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "On a hotspot island chain, the only active volcano is at the eastern end, and the islands become older towards the west. Which way is the plate moving?",
+   "options": [
+    "Westward, carrying older volcanoes away from the hotspot",
+    "It is not moving, while the hotspot drifts to the east",
+    "Westward, but only because the hotspot moves west too",
+    "Eastward, carrying older volcanoes towards the hotspot"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The active volcano sits over the stationary hotspot. As the plate moves west, it carries each volcano away from the magma source, so they get older westward.",
+    "Hotspots are treated as stationary; the plate does the moving.",
+    "The plate's motion alone explains the pattern; the hotspot stays put.",
+    "If the plate moved east, older islands would lie to the east of the active one."
+   ],
+   "takeaway": "In a hotspot chain, volcanoes get older in the direction the plate is moving.",
+   "source": "W5 p27"
+  },
+  {
+   "id": "q126",
+   "topic": "w05b",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Hotspot volcanoes can form beneath both oceans and continents. What sets a hotspot volcano apart from an arc volcano?",
+   "options": [
+    "It forms where plates diverge, while arcs form where plates slide past",
+    "It forms only beneath oceans, while arcs form only beneath the continents",
+    "It forms within a plate above a plume, not from slab water at a boundary",
+    "It forms by water lowering melting points, while arcs form by decompression"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Hotspots are not divergent boundaries, and arcs form at convergent boundaries, not where plates slide past.",
+    "Continental hotspots exist, and arcs can be oceanic island arcs.",
+    "Correct. Hotspots sit over a mantle plume, often far from plate boundaries, while arc volcanoes form above subducting slabs that release water.",
+    "This swaps the mechanisms: water-driven melting is what feeds arcs."
+   ],
+   "takeaway": "Hotspot volcanoes sit over plumes within plates; arc volcanoes sit over subducting slabs.",
+   "source": "W5 p11, p25–32"
+  },
+  {
+   "id": "q127",
+   "topic": "w05b",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why does rock in a rising mantle plume melt as it nears the base of the plate?",
+   "options": [
+    "The pressure on it increases as it rises toward the surface",
+    "It stays very hot while the pressure on it falls as it rises",
+    "Water from a nearby subducting slab lowers its melting point",
+    "Friction with the moving plate above heats it until it melts"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Pressure decreases, not increases, as rock rises.",
+    "Correct. High heat combined with lower pressure helps the plume rock melt. The melt then rises through cracks to form volcanoes.",
+    "Hotspots are not tied to subducting slabs.",
+    "Friction with the plate is not the cause of hotspot melting."
+   ],
+   "takeaway": "Plume rock melts because it stays hot while the pressure on it drops.",
+   "source": "W5 p27"
+  },
+  {
+   "id": "q128",
+   "topic": "w05c",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which pairing of magma type with its silica content and viscosity is correct?",
+   "options": [
+    "Felsic: high silica, low viscosity; mafic: low silica, high viscosity",
+    "Felsic: low silica, high viscosity; mafic: high silica, low viscosity",
+    "Felsic: low silica, low viscosity; mafic: high silica, high viscosity",
+    "Felsic: high silica, high viscosity; mafic: low silica, low viscosity"
+   ],
+   "answer": 3,
+   "rationales": [
+    "More silica makes magma stiffer, so high silica goes with high viscosity.",
+    "Low silica gives low viscosity, not high.",
+    "This is the version on the original Week 5 slide, which was corrected in Week 6.",
+    "Correct. Felsic is full of silica and more viscous; mafic is missing silica and less viscous. Week 6 opened by correcting this pairing on the Week 5 slide."
+   ],
+   "takeaway": "Felsic = full of silica = more viscous; mafic = missing silica = less viscous.",
+   "source": "W5 p67–68; W6 p4"
+  },
+  {
+   "id": "q129",
+   "topic": "w05c",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "An igneous rock has large, clearly visible crystals. What does this indicate about how it formed?",
+   "options": [
+    "It cooled slowly inside the Earth, so it is intrusive",
+    "It cooled quickly at the surface, so it is extrusive",
+    "It cooled slowly at the surface, so it is extrusive",
+    "It cooled quickly inside the Earth, so it is intrusive"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Intrusive rocks cool slowly inside the Earth, giving crystals time to grow large (coarse grained).",
+    "Quick cooling at the surface gives fine grains, not large crystals.",
+    "Rock at the surface cools quickly, so extrusive rocks are fine grained.",
+    "Rock inside the Earth stays hot and cools slowly, which is why intrusive crystals are large."
+   ],
+   "takeaway": "Intrusive = inside, slow cooling, big crystals; extrusive = exits, fast cooling, fine grains.",
+   "source": "W5 p64–65"
+  },
+  {
+   "id": "q130",
+   "topic": "w05c",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Large amounts of pumice are produced in Plinian eruptions. How should pumice be classified?",
+   "options": [
+    "Mafic and intrusive",
+    "Felsic and extrusive",
+    "Felsic and intrusive",
+    "Mafic and extrusive"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Pumice is neither mafic nor formed underground.",
+    "Correct. Pumice comes from high-silica magma blasted out at the surface, so it is felsic and extrusive.",
+    "Pumice forms from magma erupted at the surface, so it is extrusive.",
+    "Plinian eruptions involve high-silica rhyolitic magma, which is felsic, not mafic."
+   ],
+   "takeaway": "Pumice: felsic, extrusive, typical of Plinian eruptions.",
+   "source": "W5 p67, p86"
+  },
+  {
+   "id": "q131",
+   "topic": "w05c",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Magma A has a low silica content; magma B has a much higher silica content. As each rises and its gases form bubbles, which is more likely to erupt explosively?",
+   "options": [
+    "Magma A, because low-silica magma can hold more gas under pressure",
+    "Neither, because silica controls volcano shape but not eruption style",
+    "Magma A, because its fluidity lets bubbles grow much larger before escaping",
+    "Magma B, because its stiffness traps gas bubbles until pressure builds"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The notes link explosivity to gas being trapped by stiff, high-silica magma, not to low-silica magma.",
+    "Magma type controls both the shape of the volcano and its eruption style.",
+    "In fluid magma bubbles escape easily, which is why low-silica eruptions are effusive.",
+    "Correct. More silica makes magma stiffer. Bubbles cannot escape easily from viscous magma, so pressure builds until the gas violently fragments it."
+   ],
+   "takeaway": "High silica, stiff magma traps gas, which leads to explosive eruptions.",
+   "source": "W5 p68, p70, p83–84"
+  },
+  {
+   "id": "q132",
+   "topic": "w05c",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Basalt and rhyolite are both extrusive rocks. What separates them?",
+   "options": [
+    "Basalt is intrusive, while rhyolite forms only at hotspot volcanoes",
+    "Basalt is felsic and formed from stiff lava; rhyolite is mafic and fluid",
+    "Basalt is mafic and formed from fluid lava; rhyolite is felsic and stiff",
+    "Basalt cooled slowly underground, while rhyolite cooled at the surface"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Basalt is extrusive, and rhyolite is not limited to hotspots.",
+    "The magma types are swapped.",
+    "Correct. Basalt has roughly half silica and is fluid; rhyolite has much more silica and is stiff. Both are extrusive.",
+    "Both are extrusive, so both cooled at the surface."
+   ],
+   "takeaway": "Basalt: mafic, fluid. Rhyolite: felsic, stiff.",
+   "source": "W5 p68–69"
+  },
+  {
+   "id": "q133",
+   "topic": "w05c",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "Which combination makes lava flow most easily?",
+   "options": [
+    "Hotter lava with high silica content",
+    "Hotter lava with low silica content",
+    "Cooler lava with high silica content",
+    "Cooler lava with low silica content"
+   ],
+   "answer": 1,
+   "rationales": [
+    "High silica makes lava stiff, even when hot.",
+    "Correct. Shield volcano lavas are hotter, low in silica and less viscous, so they flow most easily.",
+    "Both factors point to stiff lava.",
+    "Low silica helps, but cooler lava is stiffer than hotter lava."
+   ],
+   "takeaway": "Hot, low-silica lava is the most fluid.",
+   "source": "W5 p71; W6 p12"
+  },
+  {
+   "id": "q134",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why do shield volcanoes have broad shapes and gentle slopes?",
+   "options": [
+    "Their explosive eruptions scatter material across wide areas",
+    "Their stiff, high-silica lava piles up close around the vent",
+    "Their fluid, low-silica lava flows far before it solidifies",
+    "Their magma cools underground, lifting the land up gently"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Shield volcano eruptions are mostly non-explosive.",
+    "Stiff lava piling up near the vent builds steeper stratovolcanoes.",
+    "Correct. The fluidity of shield volcano lava gives a low aspect ratio: lava spreads widely, building broad, gentle slopes.",
+    "Shield volcanoes are built from erupted lava, not uplift from cooling magma."
+   ],
+   "takeaway": "Fluid lava spreads widely and builds broad, gentle shield volcanoes.",
+   "source": "W5 p70–72"
+  },
+  {
+   "id": "q135",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Which comparison of shield volcanoes and stratovolcanoes is correct?",
+   "options": [
+    "Shield: smaller, built of stiff lava; strato: larger, built of fluid basaltic lava",
+    "Shield: steep-sided and rhyolitic; strato: gentle slopes and built from basalt",
+    "Shield: high aspect ratio, mostly explosive; strato: low aspect ratio, mostly effusive",
+    "Shield: low aspect ratio, mostly effusive; strato: steeper, can be explosive"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Shield volcanoes are far larger than stratovolcanoes, and they are built of fluid lava.",
+    "Shields are gentle and basaltic; stratovolcanoes are steeper and closer to rhyolitic.",
+    "The descriptions are swapped.",
+    "Correct. Fluid lava gives shields a low aspect ratio and mostly non-explosive eruptions. Viscous lava gives stratovolcanoes a higher aspect ratio, with explosive and non-explosive eruptions."
+   ],
+   "takeaway": "Shield: broad, fluid, effusive. Strato: steep, viscous, can be explosive.",
+   "source": "W5 p71–76"
+  },
+  {
+   "id": "q136",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A student assumes the tallest, steepest-looking volcanoes must also be the largest. What do the notes show?",
+   "options": [
+    "Shield volcanoes are far larger overall, despite their gentle slopes",
+    "Stratovolcanoes are largest, because steep sides hold more volume",
+    "Cinder cones are largest, because they grow through many eruptions",
+    "All volcano types reach similar sizes; only their slopes differ"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Shield volcanoes are far larger than stratovolcanoes; much of a shield's bulk can even sit below sea level.",
+    "Steepness reflects viscous lava, not size. Stratovolcanoes are much smaller than shields.",
+    "Cinder cones are even smaller than stratovolcanoes.",
+    "Sizes differ enormously between volcano types."
+   ],
+   "takeaway": "Gentle shield volcanoes are by far the largest volcano type.",
+   "source": "W5 p76–77"
+  },
+  {
+   "id": "q137",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why do gases drive explosions in viscous magma but escape quietly from fluid magma?",
+   "options": [
+    "In viscous magma, expanding bubbles cannot escape, so pressure builds",
+    "Viscous magma rises faster, so its gas stays dissolved the whole way",
+    "Fluid magma traps its bubbles more tightly, so the gas cannot expand",
+    "Viscous magma holds no dissolved gas, so pressure comes from heat alone"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. In thick, viscous magma the bubbles cannot escape easily, so pressure keeps building until expanding gases violently fragment the magma.",
+    "Gases come out of solution as pressure falls on the way up, whatever the magma type.",
+    "This reverses it: in fluid magma, bubbles expand and escape easily.",
+    "Viscous magma does hold dissolved gas; that gas is what drives the explosion."
+   ],
+   "takeaway": "Viscous magma traps expanding gas like a pressure cooker; fluid magma lets it escape.",
+   "source": "W5 p79, p83–84"
+  },
+  {
+   "id": "q138",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "As magma rises towards the surface, what role does the falling pressure around it play?",
+   "options": [
+    "It cools the magma until it solidifies in the vent",
+    "It raises the silica content of the rising magma",
+    "It forces gases to dissolve more fully in the magma",
+    "It lets dissolved gases form bubbles and expand"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The key effect of falling pressure is on the gas, not on cooling the magma.",
+    "Pressure does not change the magma's silica content.",
+    "Falling pressure does the opposite: it lets gas come out of solution.",
+    "Correct. Deep down, high pressure keeps gases dissolved. As pressure decreases during ascent, gases form bubbles and expand."
+   ],
+   "takeaway": "Falling pressure on rising magma lets dissolved gases bubble out and expand.",
+   "source": "W5 p84"
+  },
+  {
+   "id": "q139",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which lists the regions of a Plinian eruption column in order, from the vent upward?",
+   "options": [
+    "Convective, then gas thrust, then umbrella",
+    "Gas thrust, then convective, then umbrella",
+    "Umbrella, then convective, then gas thrust",
+    "Gas thrust, then umbrella, then convective"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The gas thrust region is the lowest part, where material is blasted out of the vent.",
+    "Correct. The lowest kilometre or two is the gas thrust region, then the convective region, then the umbrella region at the top.",
+    "This is the order from the top down.",
+    "The umbrella region is the uppermost part, above the convective region."
+   ],
+   "takeaway": "Plinian column, bottom to top: gas thrust → convective → umbrella.",
+   "source": "W5 p87"
+  },
+  {
+   "id": "q140",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "In the lowest region of a Plinian eruption column, what mainly drives material upward?",
+   "options": [
+    "Buoyancy of the hot gas and ash mixture rising by convection",
+    "Sideways spreading of the column once it reaches its top height",
+    "The force of expanding gas blasting material out of the vent",
+    "Wind shear lifting fine ash vertically away from the crater"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Buoyant convection takes over in the next region up, the convective region.",
+    "Sideways spreading happens in the umbrella region at the top.",
+    "Correct. The lowest part is the gas thrust region, where the blast of expanding gas propels material upward.",
+    "Wind does not push the column vertically."
+   ],
+   "takeaway": "Gas thrust drives the lowest part of a Plinian column; convection drives the middle.",
+   "source": "W5 p87"
+  },
+  {
+   "id": "q141",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A photo shows ash spreading sideways into a broad, flat cloud high above an erupting volcano. Which part of the Plinian column is this?",
+   "options": [
+    "The convective region, where hot ash rises by buoyancy",
+    "The umbrella region, where the column spreads at its top",
+    "The caldera region, where the summit collapses inward",
+    "The gas thrust region, where gas blasts out of the vent"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The convective region is where the column rises; spreading happens above it.",
+    "Correct. The umbrella region is the upper part of the column, where it spreads out sideways.",
+    "A caldera is a collapse feature on the ground, not a region of the column.",
+    "The gas thrust region is the lowest kilometre or two, right above the vent."
+   ],
+   "takeaway": "The flat, spreading top of a Plinian column is the umbrella region.",
+   "source": "W5 p87–88"
+  },
+  {
+   "id": "q142",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Eruption X ejects far more material, with a much taller eruption column, than eruption Y. How do they compare on the Volcanic Explosivity Index (VEI)?",
+   "options": [
+    "X has the higher VEI, as VEI reflects erupted volume and column height",
+    "Y has the higher VEI, as smaller eruptions last longer and do more harm",
+    "VEI cannot be assigned until the death tolls are known",
+    "They share a VEI if they come from the same type of volcano"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. VEI classifies eruptions mainly by the volume of material erupted and the height of the eruption column.",
+    "VEI is not based on duration or harm.",
+    "VEI measures the eruption, not its human impact.",
+    "VEI is based on each eruption's own size, not on the volcano type."
+   ],
+   "takeaway": "VEI ranks eruptions by erupted volume and column height.",
+   "source": "W5 p90–92"
+  },
+  {
+   "id": "q143",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which set of features describes a Hawaiian-type eruption?",
+   "options": [
+    "Rhyolitic, low silica, low viscosity, explosive yet still gentle",
+    "Rhyolitic, high silica, high viscosity, explosive and pumice-rich",
+    "Basaltic, high silica, high viscosity, effusive and full of ash",
+    "Basaltic, low silica, low viscosity, effusive and relatively gentle"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Rhyolitic magma is high in silica, and gentle eruptions are effusive, not explosive.",
+    "These are the features of Plinian eruptions.",
+    "Basaltic magma is low in silica and low in viscosity.",
+    "Correct. Hawaiian-type eruptions are relatively gentle, low-energy and effusive, with typically basaltic, low-silica, low-viscosity (mafic) magma."
+   ],
+   "takeaway": "Hawaiian-type: basaltic, mafic, low viscosity, effusive.",
+   "source": "W5 p80, p83"
+  },
+  {
+   "id": "q144",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "What characterises the ultra-Plinian eruptions that form calderas?",
+   "options": [
+    "Rhyolitic magma, small volumes and mostly effusive lava flows",
+    "Basaltic magma, small volumes and gentle, long-lived lava fountains",
+    "Rhyolitic magma, huge ejected volumes and very high energy release",
+    "Basaltic magma, huge volumes but almost no gas or ash released at all"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Rhyolitic is right, but caldera eruptions are explosive and very large.",
+    "This describes gentle Hawaiian-type activity, not caldera formation.",
+    "Correct. Caldera-forming ultra-Plinian eruptions involve rhyolitic magma, very large ejecta volumes, high energy release and massive plumes.",
+    "Caldera eruptions are rhyolitic and gas-rich, producing massive plumes."
+   ],
+   "takeaway": "Calderas come from ultra-Plinian eruptions: rhyolitic, huge volume, high energy.",
+   "source": "W5 p90, p95"
+  },
+  {
+   "id": "q145",
+   "topic": "w05d",
+   "week": 5,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A steep-sided stratovolcano erupts fast-moving, fluid lava flows instead of explosions. What does this suggest?",
+   "options": [
+    "Shape fixes eruption style, so the observation must be mistaken",
+    "The magma must have been high in silica, as all stratovolcanoes require",
+    "This eruption's magma was low in silica, despite the volcano's shape",
+    "The magma was cooler than usual, which made it far more fluid"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Volcano shape reflects the usual magma, but each eruption's style depends on the magma erupted.",
+    "High-silica magma would be stiff and tend to erupt explosively, not as fluid flows.",
+    "Correct. Eruption style follows the magma. A stratovolcano can still erupt low-silica magma that produces fluid lava flows.",
+    "Cooler lava is stiffer, not more fluid."
+   ],
+   "takeaway": "Eruption style is set by the magma's silica content, which can differ from what the volcano's shape suggests.",
+   "source": "W6 p8; W5 p70"
+  },
+  {
+   "id": "q146",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why are lava flows considered the least hazardous process in a volcanic eruption?",
+   "options": [
+    "They only occur at stratovolcanoes, which are far away from where people live",
+    "They cool almost instantly in air, so they never travel beyond the vent itself",
+    "They give off no heat or gas, so they are dangerous only to the landscape",
+    "They usually move slowly enough to escape, so their main threat is to property"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Lava flows are typical of shield volcanoes with fluid lava, and they can occur at stratovolcanoes too.",
+    "Lava flows can travel far, depending on temperature, silica, extrusion rate and slope.",
+    "Lava is extremely hot. It is less deadly because people can usually move out of its way.",
+    "Correct. Lava flows are the least hazardous volcanic process; their biggest hazard is to property rather than lives."
+   ],
+   "takeaway": "Lava flows mainly threaten property, not lives.",
+   "source": "W6 p12"
+  },
+  {
+   "id": "q147",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Which lava flow is likely to travel the furthest?",
+   "options": [
+    "Hot, low-silica lava erupting at a high rate down a steep slope",
+    "Cool, high-silica lava erupting at a high rate down a steep slope",
+    "Hot, low-silica lava erupting at a low rate across flat ground",
+    "Cool, high-silica lava erupting at a low rate across flat ground"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Flow rate and distance depend on temperature, silica content, extrusion rate and slope. Every factor here favours a long flow.",
+    "Cold or high-silica lava is viscous and will not travel far, even on a steep slope.",
+    "The lava is fluid, but a low extrusion rate and flat ground both limit how far it goes.",
+    "Every factor here limits the flow."
+   ],
+   "takeaway": "Lava travels furthest when it is hot, low in silica, erupted rapidly and on a steep slope.",
+   "source": "W6 p12"
+  },
+  {
+   "id": "q148",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is a volcanic bomb?",
+   "options": [
+    "A pocket of gas that explodes underground before an eruption has begun",
+    "Molten rock thrown out of a vent that solidifies in the air",
+    "A dense cloud of hot ash and steam that hugs the ground as it moves",
+    "A block of cold rock that rolls downslope from a collapsing lava dome"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Bombs are pieces of ejected rock, not underground gas explosions.",
+    "Correct. Volcanic (lava) bombs are molten rock ejected from a volcano that solidify as they travel through the air.",
+    "That describes a pyroclastic flow.",
+    "Bombs are thrown out molten, not rolled down cold."
+   ],
+   "takeaway": "Volcanic bombs are molten rock ejected into the air that solidify in flight.",
+   "source": "W6 p14"
+  },
+  {
+   "id": "q149",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Where does pyroclastic fall come from, and how is it spread?",
+   "options": [
+    "It pours from the vent as a dense flow and collects mainly in valley floors",
+    "It seeps from hot ground near the vent and collects in acid crater lakes",
+    "It rises from the gas thrust region and lands only around the crater rim",
+    "It falls from the convective part of the column and spreads widely downwind"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Dense flows that collect in valleys are pyroclastic flows, not falls.",
+    "Acid lakes form from dissolved gases, not from ash fall.",
+    "Ash fall is widespread, not limited to the crater rim.",
+    "Correct. Ash (tephra) falls from the convective part of the Plinian column and can cover wide areas, travelling downwind."
+   ],
+   "takeaway": "Ash fall drops from the convective column and spreads widely downwind.",
+   "source": "W6 p16, p18"
+  },
+  {
+   "id": "q150",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A geologist finds a volcanic ash layer of fairly even thickness draping hilltops and valley floors alike. What most likely deposited it?",
+   "options": [
+    "Pyroclastic fall, which blankets the ground in a near-uniform layer",
+    "A lava flow, which follows the lowest ground away from the vent",
+    "A pyroclastic flow, which races downslope and pools in valley floors",
+    "A lahar, which carries water and rock fragments along river valleys"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Fallout from the Plinian column blankets the ground with a nearly uniform mantle of fine particles, over hills and valleys alike.",
+    "Lava follows low ground and solidifies as rock, not as an even ash layer.",
+    "Pyroclastic flow deposits concentrate in valleys rather than draping hilltops.",
+    "Lahars follow valleys and would not leave an even layer on hilltops."
+   ],
+   "takeaway": "Fall deposits drape the landscape evenly; flow deposits fill valleys.",
+   "source": "W6 p19, p36"
+  },
+  {
+   "id": "q151",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which of these is NOT an impact of ash fall listed in the notes?",
+   "options": [
+    "Damaging engines and reducing visibility",
+    "Triggering slip on nearby tectonic faults",
+    "Collapsing roofs under the weight of ash",
+    "Clogging water supplies and damaging crops"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Ash damages engines and reduces visibility, blocking sunlight.",
+    "Correct. Ash fall is dense and disruptive, but triggering fault slip is not one of its listed impacts.",
+    "Ash is dense and can collapse roofs.",
+    "Ash clogs water supplies and damages crops."
+   ],
+   "takeaway": "Ash fall collapses roofs, disrupts power and water, harms breathing and crops, and damages engines.",
+   "source": "W6 p18"
+  },
+  {
+   "id": "q152",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Why is volcanic ash a serious hazard even to aircraft flying far from the volcano?",
+   "options": [
+    "Ash reflects radar, so pilots lose track of where the ground is",
+    "Ash clouds carry lava bombs that can strike distant aircraft",
+    "Ash drifts widely downwind and can cause jet engines to fail",
+    "Ash stays near the vent but heats the air along flight paths"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The notes list engine damage, abraded windows and contaminated systems, not radar effects.",
+    "Bombs fall close to the vent; distant aircraft face fine ash.",
+    "Correct. Ash plumes drift over large areas, and ash damages jet engines, abrades windows and contaminates aircraft systems. Engine failure is the major issue.",
+    "Ash travels far downwind; the danger is ash entering the engines, not heated air."
+   ],
+   "takeaway": "Ash drifts far and can cause jet engine failure, so aircraft avoid it.",
+   "source": "W6 p21–24"
+  },
+  {
+   "id": "q153",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "An airline argues it can safely fly through a thin volcanic ash cloud because the concentration is low. What does the aviation guidance in the notes say?",
+   "options": [
+    "Fly through only if the ash is below a safe threshold",
+    "Fly higher, because ash never reaches cruising height",
+    "Avoid volcanic ash, regardless of its concentration",
+    "Fly through quickly to limit time spent in the ash"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The guidance sets no safe concentration; it says to avoid ash whatever the concentration.",
+    "Plinian columns can reach the stratosphere, well above cruising height.",
+    "Correct. The recommended procedure for volcanic ash, regardless of concentration, is to avoid it.",
+    "Even brief exposure can cause engine failure, so the guidance is to avoid ash."
+   ],
+   "takeaway": "Aviation rule for volcanic ash: avoid it, whatever the concentration.",
+   "source": "W6 p24"
+  },
+  {
+   "id": "q154",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A large eruption grounds flights across a continent for a week. Which impact reaches furthest from the volcano?",
+   "options": [
+    "Lost perishable goods and halted factories far from the eruption",
+    "Lava flows destroying houses that stand on the volcano's lower flanks",
+    "Roofs collapsing under heavy ash fall in towns right beside the volcano",
+    "Lahars flowing down the river valleys that drain the volcano's slopes"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Cancelled flights disrupt travel, cause perishable goods to be lost and suspend industrial production far from the volcano, with large economic costs.",
+    "Lava flows are local to the volcano's flanks.",
+    "Roof collapse is a local impact near the volcano.",
+    "Lahars affect valleys draining the volcano, not distant economies."
+   ],
+   "takeaway": "Airspace closures spread an eruption's economic impact far beyond the volcano.",
+   "source": "W6 p26"
+  },
+  {
+   "id": "q155",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After a very large explosive eruption, global temperatures drop for a short time. What causes this?",
+   "options": [
+    "Carbon dioxide from the eruption traps heat close to the ground",
+    "Sulphur dioxide forms sulphate aerosols that reflect sunlight",
+    "Ash fall blankets the oceans and stops them giving off heat",
+    "Lava flows draw heat out of the atmosphere as they slowly cool"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Trapping heat would warm the surface, not cool it.",
+    "Correct. SO₂ spreads globally and forms sulphate aerosols that reflect sunlight, temporarily cooling Earth's climate.",
+    "The global effect comes from aerosols in the atmosphere, not ash on the ocean.",
+    "Lava flows are far too local to change global temperature."
+   ],
+   "takeaway": "Volcanic SO₂ forms sulphate aerosols that reflect sunlight and briefly cool the climate.",
+   "source": "W6 p28"
+  },
+  {
+   "id": "q156",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Animals are found dead in a low hollow on a volcano's flank, though there has been no eruption. What is the most likely explanation?",
+   "options": [
+    "A pyroclastic surge swept unseen over the ridge and down into the hollow",
+    "Acid rain from the crater lake poisoned the water that they drank there",
+    "Volcanic SO₂ formed aerosols that blocked out sunlight inside the hollow",
+    "Dense volcanic CO₂ pooled near the ground and suffocated them"
+   ],
+   "answer": 3,
+   "rationales": [
+    "A surge happens during an eruption, and there has been none.",
+    "Acid crater lakes are a real hazard, but suffocation in a low hollow points to heavy CO₂.",
+    "Aerosols affect sunlight on a regional or global scale, not suffocation in a hollow.",
+    "Correct. Volcanoes often leak gas. CO₂ is denser than air, so it sits near the ground, and animals, including people, can suffocate in this odourless gas."
+   ],
+   "takeaway": "Volcanic CO₂ is denser than air, pools in low areas and can suffocate.",
+   "source": "W6 p41"
+  },
+  {
+   "id": "q157",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Trees on part of a volcano's flank die off, though no eruption has occurred. The soil gas contains very high levels of CO₂. How does this kill them?",
+   "options": [
+    "The CO₂ makes the soil acidic enough to dissolve the roots directly",
+    "The CO₂ heats the soil until the roots are cooked where they grow",
+    "Roots are denied oxygen, and their uptake of nutrients is disrupted",
+    "The leaves take in too much CO₂ and so stop producing any oxygen"
+   ],
+   "answer": 2,
+   "rationales": [
+    "The mechanism given is oxygen starvation of the roots, not acid dissolving them.",
+    "The gas is not killing trees through heat.",
+    "Correct. Leaves make oxygen from CO₂, but roots need to absorb oxygen directly. High soil CO₂ denies roots oxygen and interferes with nutrient uptake.",
+    "The problem is in the soil around the roots, not in the leaves."
+   ],
+   "takeaway": "High CO₂ in soil kills plants by starving their roots of oxygen.",
+   "source": "W6 p42–43"
+  },
+  {
+   "id": "q158",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "A crater lake suddenly releases a huge volume of gas, which flows downhill as a dense, fast cloud. What is this?",
+   "options": [
+    "A sector collapse, as the lake's weight breaks the volcano's flank",
+    "A limnic eruption, releasing CO₂ that was dissolved in the lake",
+    "A lahar, made of water and rock rushing out of the crater lake",
+    "A pyroclastic flow, made of hot ash and steam from the crater"
+   ],
+   "answer": 1,
+   "rationales": [
+    "A sector collapse is a landslide of the volcano's flank, not a gas release.",
+    "Correct. A limnic eruption is a sudden release of CO₂ from a lake, creating a dense, fast flow of gas.",
+    "A lahar is a mixture of water and rock, not a cloud of gas.",
+    "A pyroclastic flow is hot ash and steam from an eruption, not gas from a lake."
+   ],
+   "takeaway": "Limnic eruption: sudden CO₂ release from a lake, flowing downhill as dense gas.",
+   "source": "W6 p44"
+  },
+  {
+   "id": "q159",
+   "topic": "w06a",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why can volcanic crater lakes become extremely acidic?",
+   "options": [
+    "Gases from the magma, such as SO₂ and CO₂, dissolve in the water",
+    "Lava flows heat the water until it breaks down into strong acid",
+    "Ash from the column adds silica that turns the lake water acidic",
+    "Rain is naturally acidic and evaporates to concentrate the lake"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Crater lakes become strongly acidic as gases from magma, such as CO₂, SO₂ and HCl, dissolve in the water.",
+    "Heating water does not turn it into acid.",
+    "Silica from ash is not what makes crater lakes acidic.",
+    "The acidity comes from magmatic gases, not from concentrated rain."
+   ],
+   "takeaway": "Acid crater lakes form when magmatic gases dissolve in the water.",
+   "source": "W6 p40"
+  },
+  {
+   "id": "q160",
+   "topic": "w06b",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which description fits a pyroclastic flow?",
+   "options": [
+    "A mixture of water and loose rock fragments flowing down steep slopes",
+    "A dilute, turbulent cloud rich in gas that can rise over hills and ridges",
+    "Fine ash falling from the eruption column and blanketing land downwind",
+    "A dense, hot mixture of ash and steam that hugs the ground as it flows"
+   ],
+   "answer": 3,
+   "rationales": [
+    "That describes a lahar.",
+    "That describes a pyroclastic surge, which has a higher ratio of gas to rock.",
+    "That describes pyroclastic fall.",
+    "Correct. A pyroclastic flow is a dense mixture of hot volcanic ash and steam flowing downslope and hugging the ground."
+   ],
+   "takeaway": "Pyroclastic flow: dense, hot, ground-hugging ash and steam.",
+   "source": "W6 p29"
+  },
+  {
+   "id": "q161",
+   "topic": "w06b",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "One hot volcanic cloud crosses a ridge and reaches the next valley, while another stays confined to the valley floor where it started. What best distinguishes them?",
+   "options": [
+    "The first is ash fall carried along by the wind, while the second is a lava flow",
+    "The first is a surge, whose extra gas makes it turbulent enough to cross ridges",
+    "The first is a lahar, which is fluid enough to overtop any obstacle in its path",
+    "The first is a flow, whose greater density gives it the momentum to carry over ridges"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Both clouds are moving across the ground, which fits pyroclastic density currents rather than ash fall and lava.",
+    "Correct. A pyroclastic surge has a higher ratio of gas to rock, making it more turbulent and able to rise over ridges and hills. A dense pyroclastic flow concentrates in valleys.",
+    "A lahar is water and rock and follows valleys; it is not a hot cloud.",
+    "Density keeps a pyroclastic flow low and in valleys; it is the dilute surge that crosses ridges."
+   ],
+   "takeaway": "Surges (more gas) cross ridges; flows (denser) stay in valleys.",
+   "source": "W6 p29, p35–36"
+  },
+  {
+   "id": "q162",
+   "topic": "w06b",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Compared with a pyroclastic flow, a pyroclastic surge has:",
+   "options": [
+    "A lower ratio of gas to rock, making it denser and slower",
+    "No ash at all, being made of nothing but steam and gas",
+    "A higher ratio of gas to rock, making it more turbulent",
+    "Water in place of gas, making it a kind of volcanic mudflow"
+   ],
+   "answer": 2,
+   "rationales": [
+    "This describes how a flow differs from a surge, not the other way round.",
+    "Surges still carry ash and rock; they simply have more gas relative to rock.",
+    "Correct. The surge's higher gas-to-rock ratio makes it more turbulent and able to rise over ridges.",
+    "A volcanic mudflow is a lahar, not a surge."
+   ],
+   "takeaway": "Surge vs flow: more gas, more turbulence.",
+   "source": "W6 p35"
+  },
+  {
+   "id": "q163",
+   "topic": "w06b",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which statement about lahars is correct?",
+   "options": [
+    "They are clouds of hot ash and steam that form only in explosive eruptions",
+    "They are slow lava flows that occur only at shield volcanoes with fluid magma",
+    "They are gas releases from crater lakes that suffocate animals downslope",
+    "They are water and rock mixtures that rain can trigger long after eruptions"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Hot ash-and-steam clouds are pyroclastic flows.",
+    "Lahars are not lava.",
+    "Gas releases from lakes are limnic eruptions.",
+    "Correct. Lahars are mixtures of water and loose rock fragments flowing down steep volcano slopes. They can be triggered by an eruption or by heavy rain, so they are an ongoing hazard."
+   ],
+   "takeaway": "Lahars: water plus loose rock, triggered by eruptions or rain, an ongoing hazard.",
+   "source": "W6 p38–39"
+  },
+  {
+   "id": "q164",
+   "topic": "w06b",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Years after an eruption has ended, a town on a river downstream of the volcano is still judged to be at risk. From which hazard, chiefly?",
+   "options": [
+    "Lahars, since heavy rain can mobilise loose volcanic debris on the slopes",
+    "Ash fall, which keeps settling out of the original eruption for years",
+    "Pyroclastic surges, which can sweep down long after an eruption is over",
+    "Lava bombs, which can keep falling for years after an eruption has ended"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Loose volcanic debris remains on the slopes, and heavy rain can turn it into lahars that race down river valleys.",
+    "Ash settles within days to weeks; the long-term threat downstream is lahars.",
+    "Surges happen during eruptions, not years afterwards.",
+    "Bombs are thrown out during an eruption only."
+   ],
+   "takeaway": "Lahars keep volcanoes dangerous long after eruptions end.",
+   "source": "W6 p38–39"
+  },
+  {
+   "id": "q165",
+   "topic": "w06b",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A growing city is built on top of an old lahar deposit in a valley below a volcano. What does that deposit tell planners?",
+   "options": [
+    "The ground is now safe, since old deposits block any new flows",
+    "Only ash fall threatens the city, as lahars never repeat a path",
+    "The volcano is extinct, since lahars only follow a final eruption",
+    "Lahars have reached this ground before and could reach it again"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Old deposits do not protect against new lahars; they mark where lahars go.",
+    "Lahars follow valleys, so they tend to reuse the same paths.",
+    "Lahars can be triggered by eruptions or heavy rain; a deposit says nothing about the volcano being extinct.",
+    "Correct. An old lahar deposit shows the valley is a lahar pathway, and many communities built on such deposits are at risk."
+   ],
+   "takeaway": "Old lahar deposits mark the paths future lahars are likely to take.",
+   "source": "W6 p39"
+  },
+  {
+   "id": "q166",
+   "topic": "w06b",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A large section of an ocean island volcano's flank suddenly collapses into the sea. Which follow-on hazard is most likely?",
+   "options": [
+    "A lahar, as the collapse empties the crater lake down the far slope",
+    "Acid rain, as the collapse mixes seawater with the crater lake gases",
+    "A tsunami, as the collapse suddenly displaces a huge volume of water",
+    "A limnic eruption, as the collapse releases CO₂ held in the seafloor"
+   ],
+   "answer": 2,
+   "rationales": [
+    "A collapse into the sea mainly displaces seawater; nothing suggests a crater lake is involved.",
+    "This is not a mechanism described in the notes.",
+    "Correct. Sector collapses on volcanic islands can generate tsunamis, which can travel across ocean basins.",
+    "Limnic eruptions come from gas-charged lakes, not from flank collapse."
+   ],
+   "takeaway": "Volcanic flank collapse into the sea can generate a tsunami.",
+   "source": "W6 p45–47"
+  },
+  {
+   "id": "q167",
+   "topic": "w06c",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Beneath a volcano, seismometers record sharp earthquakes like those on tectonic faults, together with long-lasting tremor. What do these signals suggest?",
+   "options": [
+    "Brittle rock failure, plus resonance from moving magma and gas",
+    "Old magma cooling and cracking as it contracts into solid rock",
+    "Only tectonic faulting, unrelated to any magma below the volcano",
+    "That an eruption has already begun at the surface of the volcano"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Volcanic seismicity includes brittle failure of rock, like on a tectonic fault, and a variety of signals from resonance due to magma and gas movement.",
+    "The notes link these signals to brittle failure and moving magma and gas, not cooling.",
+    "The tremor points to magma and gas moving, not just tectonic faulting.",
+    "These signals track movement within the volcano and can come before an eruption."
+   ],
+   "takeaway": "Volcano seismicity = brittle rock failure + resonance from moving magma and gas.",
+   "source": "W6 p56"
+  },
+  {
+   "id": "q168",
+   "topic": "w06c",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Seismic tomography beneath a volcano reveals a zone where seismic waves travel unusually slowly. What does this most likely indicate?",
+   "options": [
+    "Cold, solid rock, which slows waves more than hot rock does",
+    "Hot, partially molten rock, a possible zone of stored magma",
+    "An empty cavity left behind when the last eruption drained",
+    "A layer of loose, water-soaked ash lying at the surface"
+   ],
+   "answer": 1,
+   "rationales": [
+    "This reverses the relationship: cooler, solid rock is faster.",
+    "Correct. Seismic waves travel more slowly through hot, partially molten rock than through cooler solid rock, so slow zones mark possible magma.",
+    "Tomography is used to find magma storage, and slow zones point to hot, partly molten rock.",
+    "Tomography images the volcano's interior, not surface ash."
+   ],
+   "takeaway": "Slow seismic-wave zones beneath a volcano point to hot, partially molten rock.",
+   "source": "W6 p59–60"
+  },
+  {
+   "id": "q169",
+   "topic": "w06c",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Why is infrasound well suited to monitoring volcanoes in remote regions?",
+   "options": [
+    "It measures magma temperature directly, without anyone visiting the volcano",
+    "Low-frequency sound from explosions travels far, reaching distant stations",
+    "It samples gas from the air, identifying volcanic emissions from far away",
+    "It needs a dense network on the volcano's flanks, which remote areas have"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Infrasound records sound waves, not temperature.",
+    "Correct. Infrasound is very low-frequency sound from explosions and gas and magma movement. It can be recorded by stations far from the volcano.",
+    "Gas monitoring is a separate method; infrasound records sound.",
+    "Remote volcanoes lack dense networks; that is why infrasound is needed."
+   ],
+   "takeaway": "Infrasound is the method for monitoring distant volcanoes.",
+   "source": "W6 p63–65"
+  },
+  {
+   "id": "q170",
+   "topic": "w06c",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Thermal imaging shows strong hydrothermal activity at a volcano. What can be concluded from this alone?",
+   "options": [
+    "The volcano is extinct, as only leftover heat remains",
+    "Magma is rising quickly, so an eruption must be imminent",
+    "Magma is present at depth, but it is not necessarily moving",
+    "Groundwater has cooled the magma so it can no longer erupt"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Hydrothermal activity shows that magma is present, which an extinct volcano would lack.",
+    "Heat alone does not show movement; other signals such as deformation or seismicity are needed.",
+    "Correct. Hydrothermal activity demonstrates the presence of magma, not necessarily magma movement.",
+    "Hydrothermal activity does not show the magma has been made harmless."
+   ],
+   "takeaway": "Hydrothermal activity shows magma is present, not that it is moving.",
+   "source": "W6 p66"
+  },
+  {
+   "id": "q171",
+   "topic": "w06c",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "GPS stations around a volcano show the ground slowly rising and moving outward over several years. What is the most likely interpretation?",
+   "options": [
+    "Deflation, as magma drains away from the chamber underneath",
+    "Cooling of the summit lava dome, which swells as it hardens",
+    "Tectonic subsidence that is unrelated to the volcano itself",
+    "Inflation, as magma recharges the system beneath the volcano"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Deflation would make the ground sink and move inward.",
+    "Cooling rock contracts; it does not inflate the whole edifice.",
+    "The ground is rising, not subsiding, and the pattern centres on the volcano.",
+    "Correct. Ground rising and spreading outward records inflation, suggesting magma recharge."
+   ],
+   "takeaway": "Volcano inflation measured by GPS or InSAR suggests magma recharge.",
+   "source": "W6 p70–72"
+  },
+  {
+   "id": "q172",
+   "topic": "w06c",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which of these is a deformation-monitoring method?",
+   "options": [
+    "Tiltmeters and GPS measuring changes in the shape of the ground",
+    "Seismometers recording tremor from magma moving at depth",
+    "Thermal imaging to map new hot areas and growing lava domes",
+    "Gas sampling at fumaroles to track changes in volcanic emissions"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Tiltmeters, GPS and surveying measure deformation, the changing shape of the volcano.",
+    "Seismometers monitor ground vibration, not deformation.",
+    "Thermal imaging is heat monitoring.",
+    "Gas sampling is gas monitoring."
+   ],
+   "takeaway": "Deformation monitoring uses tiltmeters, GPS, surveying and InSAR.",
+   "source": "W6 p69–72"
+  },
+  {
+   "id": "q173",
+   "topic": "w06c",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which method uses the erupted material itself to estimate how deep the magma was stored?",
+   "options": [
+    "Seismic tomography, mapping zones of slow waves",
+    "Infrasound, timing sound waves from the explosions",
+    "Petrology, analysing the chemistry of erupted rock",
+    "InSAR, comparing radar passes from before and after"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Tomography images magma using seismic waves, not erupted rock.",
+    "Infrasound records explosions, not storage depth from rock chemistry.",
+    "Correct. Petrology uses geochemical analysis of erupted materials to estimate magma storage depth.",
+    "InSAR maps surface displacement, not rock chemistry."
+   ],
+   "takeaway": "Petrology reads magma storage depth from the chemistry of erupted rock.",
+   "source": "W6 p62"
+  },
+  {
+   "id": "q174",
+   "topic": "w06d",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which statement describes the grand challenge of volcanology given in the notes?",
+   "options": [
+    "To forecast the onset, size, duration and hazard of eruptions",
+    "To predict the exact minute of each eruption years in advance",
+    "To map every past eruption of every volcano since it formed",
+    "To prevent eruptions by draining magma from volcanic chambers"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The grand challenge is improving our ability to forecast the onset, size, duration and hazard of eruptions.",
+    "Forecasting aims at onset, size, duration and hazard, not exact timing years ahead.",
+    "Past records help, but the stated challenge is forecasting future eruptions.",
+    "The goal is forecasting, not preventing eruptions."
+   ],
+   "takeaway": "Volcanology's grand challenge: forecast onset, size, duration and hazard of eruptions.",
+   "source": "W6 p52"
+  },
+  {
+   "id": "q175",
+   "topic": "w06d",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Authorities close a volcano based on deformation and tremor, but a landslide unexpectedly exposes the magma and triggers a sideways blast that kills people outside the main exclusion zone. What lesson does this teach?",
+   "options": [
+    "Closing a volcano to the public never reduces the number of deaths",
+    "Hazard zones must allow for unexpected styles like lateral blasts",
+    "Deformation and tremor are not useful signs that an eruption is coming",
+    "Eruptions always go straight up, so hazard maps never need changing"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Closure reduced exposure; the deaths came from an unexpected eruption style.",
+    "Correct. Monitoring correctly flagged the danger, but the lateral blast was a style the zones did not anticipate. Hazard maps were redrawn afterwards.",
+    "Deformation and tremor were what led authorities to close the volcano.",
+    "The blast went sideways, which is exactly why hazard maps had to change."
+   ],
+   "takeaway": "Hazard zoning must allow for eruption styles that monitoring may not anticipate.",
+   "source": "W6 p75–76"
+  },
+  {
+   "id": "q176",
+   "topic": "w06d",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A very large eruption kills far fewer people than it might have. Which combination of measures from the notes best explains this?",
+   "options": [
+    "Holding all warnings back until the eruption had clearly started",
+    "Stronger roofs built in the towns nearest to the volcano's main vent",
+    "Draining the crater lake in advance so that no lahars could form",
+    "Defined evacuation zones, staged alert levels and daily alerts"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Warnings worked because they came before the major eruption.",
+    "Most of the deaths that did happen were from roof collapse, so roofs were not what saved lives.",
+    "This is not a measure the notes describe.",
+    "Correct. Scientists worked with local authorities to set evacuation zones and alert stages, announced daily, so tens of thousands were evacuated beforehand."
+   ],
+   "takeaway": "Evacuation zones, staged alerts and clear communication save lives.",
+   "source": "W6 p73–74"
+  },
+  {
+   "id": "q177",
+   "topic": "w06d",
+   "week": 6,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "In a four-level volcano alert system running Normal, Caution, Watch, Warning, what does a move from Caution up to Watch signal?",
+   "options": [
+    "Heightened unrest, with a strong potential to erupt",
+    "Minor unrest only, just slightly above the baseline",
+    "A return to baseline activity with no eruption threat",
+    "An eruption that is imminent or already under way"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Watch (Level III) means heightened unrest with a strong potential for eruption.",
+    "That is Level II, Caution, the level being left behind.",
+    "That is Level I, Normal.",
+    "That is Level IV, Warning."
+   ],
+   "takeaway": "Alert levels: Normal → Caution (minor unrest) → Watch (strong potential) → Warning (imminent or ongoing).",
+   "source": "W6 p80"
+  },
+  {
+   "id": "q178",
+   "topic": "w06d",
+   "week": 6,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "On a volcanic hazard zone map, which zone should be evacuated first when the alert level begins to rise?",
+   "options": [
+    "Every zone at once, since the zone boundaries ignore the hazard type",
+    "Any zone downwind, because ash fall is the deadliest volcanic hazard",
+    "The zone nearest the vent, exposed to pyroclastic flows and lava",
+    "The outermost zone, exposed only to rain lahars and light ash fall"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Zones are drawn by hazard type and severity, so evacuation is staged.",
+    "Ash fall is widespread, but pyroclastic flows near the vent are the more deadly threat.",
+    "Correct. The innermost zone faces extreme risk from pyroclastic flows, lava flows and lahars and is evacuated immediately when alert levels rise.",
+    "The outer zone faces the lowest risk and is evacuated last."
+   ],
+   "takeaway": "Hazard zones stage evacuation: the zone nearest the vent goes first.",
+   "source": "W6 p81–82"
+  },
+  {
+   "id": "q179",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Under what condition does a slope fail?",
+   "options": [
+    "When the frictional resistance exceeds the driving force",
+    "When the driving force exceeds the frictional resistance",
+    "When the driving force and the resistance become equal",
+    "When the load on the slope falls below a set threshold"
+   ],
+   "answer": 1,
+   "rationales": [
+    "If resistance exceeds the driving force, the material stays in place.",
+    "Correct. A landslide happens when the driving force (F) is greater than the frictional resistance (f).",
+    "Balanced forces mean the slope is on the edge of failure but not yet moving.",
+    "Reducing load lowers the driving force, which makes failure less likely."
+   ],
+   "takeaway": "Slope failure: F (driving force) > f (frictional resistance).",
+   "source": "W7 p8"
+  },
+  {
+   "id": "q180",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A slope is made steeper while the material on it stays the same. What happens to the forces?",
+   "options": [
+    "Driving force falls and frictional resistance rises, so failure becomes less likely",
+    "Driving force rises, but resistance rises faster, so the slope becomes safer",
+    "Both forces rise by the same amount, so the slope's stability does not change",
+    "Driving force rises and frictional resistance falls, so failure becomes likelier"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This reverses both effects.",
+    "Frictional resistance falls with steepening, because the force normal to the slope falls.",
+    "The two forces move in opposite directions as the slope steepens.",
+    "Correct. As slope angle increases, sin(angle) rises so the force parallel to the slope rises, while cos(angle) falls so the normal force and friction fall."
+   ],
+   "takeaway": "Steeper slope: more driving force, less friction, so more likely to slide.",
+   "source": "W7 p11–14"
+  },
+  {
+   "id": "q181",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Two identical blocks rest on two slopes, one gentle and one steep. Which experiences the larger driving force, and why?",
+   "options": [
+    "Neither, as both blocks have the same load and so the same driving force",
+    "The gentle one, as a longer slope gives gravity more distance to act on",
+    "The steep one, as driving force scales with the sine of the slope angle",
+    "The steep one, as steeper slopes add extra cohesion to the material"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Same load, but the share acting along the slope depends on the angle.",
+    "Slope length does not enter the driving force; the angle does.",
+    "Correct. Driving force = load × sin(slope angle), so the steeper slope gives a larger force parallel to the slope.",
+    "Cohesion is part of resistance, not driving force, and steepness does not add it."
+   ],
+   "takeaway": "Driving force = load × sin(slope angle).",
+   "source": "W7 p11"
+  },
+  {
+   "id": "q182",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A river is eroding the base of a hillside while new houses are being built along its top. Why does this combination raise landslide risk?",
+   "options": [
+    "Both add cohesion, but this is outweighed by the rising river level",
+    "Both remove load, so the friction holding the slope in place drops",
+    "Both lower the slope angle, so material piles up and later collapses",
+    "Both steepen or load the slope, increasing the driving force on it"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Neither adds cohesion; both act on the driving force.",
+    "Building on top adds load rather than removing it.",
+    "Undercutting the base steepens the slope rather than flattening it.",
+    "Correct. Undercutting by streams steepens the slope and removes support, and construction loads the upper slope. Both increase the driving force."
+   ],
+   "takeaway": "Undercutting the base and loading the top both raise the driving force.",
+   "source": "W7 p11, p15–16"
+  },
+  {
+   "id": "q183",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which factor adds to a slope's driving force only some of the time, rather than acting constantly?",
+   "options": [
+    "Earthquake shaking adding a dynamic force",
+    "The load or weight of the slope material",
+    "The cohesion holding the soil grains together",
+    "The slope angle set by the landscape"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. External forces such as earthquake shaking add dynamic forcing to the driving force, but they are not always present.",
+    "Load is a constant base factor in the driving force.",
+    "Cohesion is part of the resisting force, not the driving force.",
+    "Slope angle is a constant base factor in the driving force."
+   ],
+   "takeaway": "Slope angle and load are base driving factors; shaking is an extra, occasional one.",
+   "source": "W7 p12"
+  },
+  {
+   "id": "q184",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is the angle of repose?",
+   "options": [
+    "The angle at which a rotational slide's head tilts back",
+    "The steepest angle at which loose material stays stable",
+    "The slope angle at which friction falls to exactly zero",
+    "The gentlest angle at which a landslide can still begin"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Rotational slides rotate backward, but that is not the angle of repose.",
+    "Correct. The angle of repose is the steepest angle at which any loose material is stable.",
+    "Friction does not vanish at the angle of repose; the slope is just at its stable limit.",
+    "It is a maximum stable angle, not a minimum failure angle."
+   ],
+   "takeaway": "Angle of repose: the steepest stable angle for loose material.",
+   "source": "W7 p10"
+  },
+  {
+   "id": "q185",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "Two piles of dry, loose material are built up until they start to slump. Which pile can hold the steeper angle of repose?",
+   "options": [
+    "Any pile, since the angle depends only on its height",
+    "Any pile, since the angle depends only on gravity",
+    "Large, angular grains that lock into one another",
+    "Small, rounded grains that roll easily past each other"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Height is not one of the controls; grain shape, size and moisture are.",
+    "Gravity is the same for both piles; grain properties make the difference.",
+    "Correct. The angle of repose depends on the angularity and size of the grains (and moisture). Angular grains interlock and can stand steeper.",
+    "Rounded grains roll past each other, so they settle at gentler angles."
+   ],
+   "takeaway": "Angle of repose depends on grain angularity, size and moisture.",
+   "source": "W7 p10"
+  },
+  {
+   "id": "q186",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After a forested hillside is cleared, landslides there become more frequent. What best explains this?",
+   "options": [
+    "The trees were adding load that helped press the slope into place",
+    "Trees soak up all the rain, so without them slopes dry out",
+    "Clearing makes the slope steeper by removing the tree trunks",
+    "The roots that bound the soil had been providing resisting force"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Added load increases the driving force; trees help mainly through their roots.",
+    "A drier slope would not explain more landslides; losing root strength does.",
+    "Removing trees does not change the slope angle.",
+    "Correct. Vegetation roots bind the soil and provide resisting force, so removing them reduces f."
+   ],
+   "takeaway": "Removing vegetation removes the resisting force that roots provide.",
+   "source": "W7 p17"
+  },
+  {
+   "id": "q187",
+   "topic": "w07a",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Which of these is NOT one of the planar internal weaknesses that the notes say slopes can fail along?",
+   "options": [
+    "A uniform mass of homogeneous material",
+    "Contacts between rocks of different strength",
+    "Fractures or old landslide slip surfaces",
+    "Layers within a sedimentary rock"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Homogeneous material has no planar weakness; it tends to fail on a curved surface as a rotational slide.",
+    "Contacts between rocks of different strength are listed weaknesses.",
+    "Fractures, faults and old slip surfaces are listed weaknesses.",
+    "Sedimentary layers are listed as planar weaknesses."
+   ],
+   "takeaway": "Planar weaknesses: bedding, fractures, faults, old slip surfaces, rock contacts. Homogeneous material lacks them.",
+   "source": "W7 p18, p33"
+  },
+  {
+   "id": "q188",
+   "topic": "w07b",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Why does a sandcastle keep its shape best with a little water, rather than when dry or soaked?",
+   "options": [
+    "Dry sand has the most cohesion, and a little water adds load to hold it",
+    "A little water adds cohesion through surface tension between the grains",
+    "Water raises the pore pressure, pushing the grains more tightly together",
+    "Soaked sand has the most friction, so the shape fails only as it dries"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Dry sand has little cohesion; that is why it slumps.",
+    "Correct. Cohesion comes from the surface tension of water between loose grains. A slight amount of water helps, but too little or too much does not.",
+    "Higher pore pressure reduces friction and pushes grains apart.",
+    "Saturated sand loses strength as pore pressure rises."
+   ],
+   "takeaway": "A little water adds cohesion; too much raises pore pressure and weakens the slope.",
+   "source": "W7 p19, p21"
+  },
+  {
+   "id": "q189",
+   "topic": "w07b",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "predict",
+   "stem": "After days of heavy rain, the groundwater level inside a slope rises. Why might the slope now fail?",
+   "options": [
+    "The water dissolves the slope rock, removing material from the base",
+    "Rising pore fluid pressure reduces the friction between the grains",
+    "The water lowers the slope's load, so the driving force disappears",
+    "The rain adds cohesion, which drags the grains downslope together"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The mechanism in the notes is pore pressure reducing friction, not dissolution.",
+    "Correct. Increased pore fluid pressure reduces friction and makes landslides easier.",
+    "Water adds weight, so it does not remove the driving force.",
+    "Cohesion holds grains together; it does not pull them downslope."
+   ],
+   "takeaway": "Higher pore fluid pressure reduces friction and promotes landslides.",
+   "source": "W7 p21"
+  },
+  {
+   "id": "q190",
+   "topic": "w07b",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Which statement about water in a slope is most accurate?",
+   "options": [
+    "Water always stabilises a slope, because it binds the grains together",
+    "Water has no effect on friction, only on the angle of the slope",
+    "A little adds cohesion, but a lot adds load and raises pore pressure",
+    "Water always destabilises a slope, because it only ever adds weight"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Too much water weakens a slope by raising pore pressure.",
+    "Water affects friction through pore pressure and cohesion.",
+    "Correct. Slight moisture adds cohesion, but more water adds weight (load) and raises pore pressure, reducing friction.",
+    "Some water helps, through cohesion."
+   ],
+   "takeaway": "Water cuts both ways: a little adds cohesion, a lot adds load and pore pressure.",
+   "source": "W7 p11, p19–21"
+  },
+  {
+   "id": "q191",
+   "topic": "w07b",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What happens during soil liquefaction?",
+   "options": [
+    "Dry soil becomes so cohesive that it cracks apart into hard blocks",
+    "Heavy rain slowly dissolves the soil grains into a thick, sticky mud",
+    "Heat from below melts the soil until it begins to flow like lava",
+    "Rapid shaking makes wet soil lose stiffness and act like a fluid"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Liquefaction involves loss of strength in wet soil, not dry soil cracking.",
+    "Liquefaction is caused by shaking, not by rain dissolving grains.",
+    "No melting is involved.",
+    "Correct. Liquefaction occurs when rapid ground shaking causes soils to lose stiffness and behave like a viscous fluid."
+   ],
+   "takeaway": "Liquefaction: shaking makes saturated soil lose stiffness and behave like a fluid.",
+   "source": "W7 p22"
+  },
+  {
+   "id": "q192",
+   "topic": "w07b",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "Where are the effects of liquefaction during earthquakes usually most severe?",
+   "options": [
+    "Coasts and river deltas with young, saturated deposits",
+    "Mountain ridges built of old, dry and unbroken bedrock",
+    "Steep slopes of dry rock far away from rivers or coasts",
+    "Desert plains where the soil has dried out completely"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Liquefaction is especially severe in coastal areas and river deltas, where young, saturated deposits are common.",
+    "Old, dry bedrock does not liquefy.",
+    "Dry rock does not liquefy.",
+    "Liquefaction needs saturated soil."
+   ],
+   "takeaway": "Liquefaction hits young, saturated deposits in coasts and deltas hardest.",
+   "source": "W7 p22"
+  },
+  {
+   "id": "q193",
+   "topic": "w07b",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After an earthquake, a large building on pile foundations is left tilted but structurally largely intact. What most likely caused this?",
+   "options": [
+    "Liquefaction took away the soil support around its piles",
+    "Resonance made the building sway until it leaned to one side",
+    "A rockfall struck one side and toppled the building sideways",
+    "Creep pushed the building over during the minutes of shaking"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Structures on pile foundations can lose support from the adjacent soil during liquefaction and come to rest at a tilt.",
+    "Resonance damages the structure itself rather than tilting an intact building.",
+    "Nothing in the scenario points to a rockfall.",
+    "Creep is very slow and happens over years, not during shaking."
+   ],
+   "takeaway": "Liquefaction removes soil support, leaving intact buildings tilted.",
+   "source": "W7 p22"
+  },
+  {
+   "id": "q194",
+   "topic": "w07c",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which matches each type of mass movement to its typical speed?",
+   "options": [
+    "Rockfall: fast; debris flow: very fast; slide: slow; creep: moderate",
+    "Rockfall: very fast; debris flow: fast; slide: moderate; creep: slow",
+    "Rockfall: slow; debris flow: moderate; slide: very fast; creep: fast",
+    "Rockfall: moderate; debris flow: slow; slide: fast; creep: very fast"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Rockfall is the fastest, and creep is the slowest.",
+    "Correct. Rockfall is very fast, debris flows are fast, rotational and translational slides are moderate, and creep is slow.",
+    "Rockfall is very fast and creep is slow.",
+    "This nearly reverses the order."
+   ],
+   "takeaway": "Speed: rockfall > debris flow > slides > creep.",
+   "source": "W7 p30–38"
+  },
+  {
+   "id": "q195",
+   "topic": "w07c",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "Which type of mass movement typically has the longest runout?",
+   "options": [
+    "A rockfall, which moves the fastest of all the types",
+    "Creep, which keeps moving steadily for many years",
+    "A debris flow, which can travel tens of kilometres",
+    "A rotational slide, moving along a curved surface"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Rockfall is very fast but has a short runout.",
+    "Creep moves for years but only short distances.",
+    "Correct. Debris flows have long runouts and can travel tens of kilometres.",
+    "Rotational slides move short distances."
+   ],
+   "takeaway": "Debris flows travel furthest; rockfall is fastest but short.",
+   "source": "W7 p30–34"
+  },
+  {
+   "id": "q196",
+   "topic": "w07c",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which statement correctly distinguishes rotational slides from translational slides?",
+   "options": [
+    "Both move on planar surfaces, but translational ones rotate backward",
+    "Both move on curved surfaces, but rotational slides move much faster",
+    "Rotational slides move on planar surfaces; translational on curved ones",
+    "Rotational slides move on curved surfaces; translational on planar ones"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Rotational slides move on curved surfaces; it is their heads that rotate backward.",
+    "Translational slides move on planar surfaces and tend to be faster.",
+    "The surfaces are swapped.",
+    "Correct. Rotational slides move above a curved slip surface, with the head rotating backward; translational slides move on a planar surface."
+   ],
+   "takeaway": "Rotational = curved slip surface; translational = planar slip surface.",
+   "source": "W7 p33–35"
+  },
+  {
+   "id": "q197",
+   "topic": "w07c",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A hillside is built of rock layers that dip parallel to the slope, with a weak clay-rich layer between them. What type of failure is most likely?",
+   "options": [
+    "Liquefaction, as clay layers turn to fluid easily",
+    "A translational slide along the planar clay layer",
+    "Creep only, as layered rock cannot fail suddenly",
+    "A rotational slide on a deep, curved slip surface"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Liquefaction affects saturated sandy deposits during shaking, not a buried clay plane.",
+    "Correct. Translational slides move on planar slip surfaces such as joints, faults or clay-rich layers.",
+    "Layered rock with a weak plane can fail quickly as a translational slide.",
+    "Rotational slides favour homogeneous material without planar weaknesses."
+   ],
+   "takeaway": "A planar weakness parallel to the slope favours translational sliding.",
+   "source": "W7 p33–35"
+  },
+  {
+   "id": "q198",
+   "topic": "w07c",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "For rotational and translational slides of similar size, which tends to travel faster and further, and why?",
+   "options": [
+    "Neither, as speed depends only on the volume of material, not its path",
+    "Rotational, as its curved surface acts like a ramp that launches the whole mass",
+    "Rotational, as its backward-rotating head pushes the toe far out ahead",
+    "Translational, as it keeps sliding while its planar surface slopes down"
+   ],
+   "answer": 3,
+   "rationales": [
+    "The notes link travel distance to slide type and slip surface, not volume alone.",
+    "Rotational slides move short distances; the curved surface does not launch them.",
+    "The toe of a rotational slide moves up onto the landscape, which limits its travel.",
+    "Correct. Translational slides often move faster and farther, continuing as long as they are on a downward-inclined surface and a driving mass exists."
+   ],
+   "takeaway": "Translational slides tend to go faster and further than rotational ones.",
+   "source": "W7 p33–35"
+  },
+  {
+   "id": "q199",
+   "topic": "w07c",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "diagnose",
+   "stem": "Fences and walls on a hillside slowly tilt and crack over several years, with no sudden event. What is happening?",
+   "options": [
+    "Creep, slowly moving the ground and damaging brittle structures",
+    "Rockfall, dropping debris onto the structures from cliffs above",
+    "A debris flow, burying the structures beneath wet sediment",
+    "Liquefaction, as shaking turns the soil beneath them to fluid"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Creep is slow, with short runout, and damages brittle structures through gradual ground movement.",
+    "Rockfall is sudden and very fast.",
+    "Debris flows are fast and bury what they hit.",
+    "Liquefaction happens during shaking, not gradually over years."
+   ],
+   "takeaway": "Creep: slow ground movement that gradually damages brittle structures.",
+   "source": "W7 p38"
+  },
+  {
+   "id": "q200",
+   "topic": "w07c",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Which factors most control how damaging a debris flow is?",
+   "options": [
+    "The time of day and the season in which the flow happens",
+    "The cohesion of the source slope before it began to fail",
+    "Sediment concentration, debris content, velocity and depth",
+    "Slope angle at the source only, whatever the flow contains"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Timing may affect exposure, but the notes link impact to the flow's properties.",
+    "Cohesion affects whether the slope fails, not how damaging the resulting flow is.",
+    "Correct. The level of debris-flow impact relates to sediment concentration, debris content, velocity and depth.",
+    "Source slope matters for triggering, but impact depends on the flow itself."
+   ],
+   "takeaway": "Debris-flow impact scales with sediment concentration, debris content, velocity and depth.",
+   "source": "W7 p31"
+  },
+  {
+   "id": "q201",
+   "topic": "w07d",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "apply",
+   "stem": "A slope is overloaded at its top. Which engineering measure adds resistance to sliding?",
+   "options": [
+    "Cutting into the slope base to make room",
+    "Clearing vegetation from the whole slope",
+    "Adding load to the lower part of the slope",
+    "Adding more load to the upper part of the slope"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Cutting the base undercuts the slope and makes it less stable.",
+    "Removing roots reduces resisting force.",
+    "Correct. Weighting the bottom adds mass at the lower part of the slope, increasing the resisting force.",
+    "More load at the top increases the driving force."
+   ],
+   "takeaway": "Weight the bottom, not the top, to stabilise a slope.",
+   "source": "W7 p51"
+  },
+  {
+   "id": "q202",
+   "topic": "w07d",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Engineers install drainage pipes inside a slope. Which part of the force balance does this mainly target?",
+   "options": [
+    "It lowers the slope angle, which cuts the driving force directly",
+    "It lowers pore pressure, restoring friction that resists sliding",
+    "It removes the load of the soil by washing the soil away",
+    "It adds cohesion by drying the whole slope out completely"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Drainage does not change the slope's geometry.",
+    "Correct. Draining water lowers pore fluid pressure, which restores friction and resistance.",
+    "Drainage removes water, not the soil itself.",
+    "Completely dry soil loses the cohesion that slight moisture gives."
+   ],
+   "takeaway": "Drainage works by lowering pore pressure and restoring friction.",
+   "source": "W7 p21"
+  },
+  {
+   "id": "q203",
+   "topic": "w07d",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "What is cable mesh draped over a rock cliff mainly designed to reduce?",
+   "options": [
+    "Liquefaction of the soil during earthquakes",
+    "Pore pressure building up inside the slope",
+    "Creep slowly deforming the slope over years",
+    "Rockfall reaching the roads and homes below"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Liquefaction affects saturated soil, not rock faces.",
+    "Pore pressure is managed with drainage, not mesh.",
+    "Mesh holds loose rock at the surface; it does not stop slow creep.",
+    "Correct. Cable mesh is used to reduce rockfall risk."
+   ],
+   "takeaway": "Cable mesh is a rockfall mitigation measure.",
+   "source": "W7 p53"
+  },
+  {
+   "id": "q204",
+   "topic": "w07d",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "Which pairing of landslide monitoring approach with example is correct?",
+   "options": [
+    "In-situ: instruments placed on site; remote: LiDAR and optical imagery",
+    "In-situ: statistical rainfall models; remote: field mapping on foot",
+    "In-situ: LiDAR and optical imagery; remote: instruments placed on site",
+    "In-situ: satellite radar imaging; remote: sensors buried in the slope"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. In situ means on site, so in-situ monitoring uses instruments placed on the slope. LiDAR and optical imagery observe from afar.",
+    "Statistical models are not in-situ instruments, and field mapping is done on site.",
+    "The two are swapped.",
+    "Satellite imaging is remote, and buried sensors are in situ."
+   ],
+   "takeaway": "In situ = on site; remote = imagery such as LiDAR and optical.",
+   "source": "W7 p46, p48"
+  },
+  {
+   "id": "q205",
+   "topic": "w07d",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "A hilly city wants to estimate how many landslides a major rainstorm might trigger across its whole territory. Which approach from the notes fits?",
+   "options": [
+    "A single in-situ sensor placed in the city's steepest slope",
+    "Seismic tomography mapping slow-wave zones beneath the hills",
+    "A statistical index linking rainstorms to landslide numbers",
+    "Infrasound stations listening for slopes as they begin to fail"
+   ],
+   "answer": 2,
+   "rationales": [
+    "One sensor monitors one slope, not landslide numbers across a territory.",
+    "Tomography images magma beneath volcanoes, not landslide potential.",
+    "Correct. A Landslide Potential Index is a statistical model used to estimate the potential number of landslides triggered across a territory during a major rainstorm.",
+    "Infrasound is a volcano-monitoring method in the notes."
+   ],
+   "takeaway": "Statistical indices link rainstorms to expected landslide numbers across a region.",
+   "source": "W7 p42"
+  },
+  {
+   "id": "q206",
+   "topic": "w07d",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "Imagery of a hillside shows many landslide scars of different ages. What does this most suggest about the hillside?",
+   "options": [
+    "It has used up all its loose material and is now likely to be stable",
+    "The scars all came from one event, which has since ended the hazard",
+    "The scars mark slopes protected by mitigation, so the risk is now low",
+    "It has failed repeatedly, so future landslides there are likely"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Repeated failure suggests ongoing instability, not exhaustion.",
+    "Different ages mean different events over time.",
+    "Scars mark past failures, not mitigation.",
+    "Correct. Scars from landslides at different times show repeated failure, which points to continuing hazard."
+   ],
+   "takeaway": "Landslide scars of many ages signal a slope that keeps failing.",
+   "source": "W7 p45"
+  },
+  {
+   "id": "q207",
+   "topic": "w07d",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Monitoring shows a mountainside becoming unstable, and a village below is evacuated. A week later a huge rock-ice avalanche destroys most of the village. What does this show?",
+   "options": [
+    "The loss of property proves the monitoring system had failed entirely",
+    "Monitoring can save lives by prompting evacuation, even when property is lost",
+    "Monitoring can stop an avalanche, provided it detects the instability early",
+    "Evacuation is only worthwhile when the expected avalanche is a small one"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The monitoring did its job: people were moved before the event.",
+    "Correct. Almost all residents had been evacuated after authorities grew concerned about the mountain's stability, so monitoring protected lives even though the village was destroyed.",
+    "Monitoring warns; it cannot stop the slope failing.",
+    "Evacuation matters most when the event is large."
+   ],
+   "takeaway": "Monitoring and evacuation protect lives even when property cannot be saved.",
+   "source": "W7 p60"
+  },
+  {
+   "id": "q208",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 2,
+   "skill": "compare",
+   "stem": "When does a cascade of hazards occur?",
+   "options": [
+    "When one hazardous event triggers or raises the likelihood of another",
+    "When two unrelated hazards happen to strike the same place by chance",
+    "When a single hazard grows steadily larger over a long period of time",
+    "When one hazard affects several different countries at the same time"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. When one hazardous event triggers or increases the likelihood of another, it creates a cascade of hazards.",
+    "A cascade needs a causal link, not coincidence.",
+    "Growth of one hazard is not a cascade of hazards.",
+    "That describes a transboundary hazard, not a cascade."
+   ],
+   "takeaway": "Cascade: one hazard triggers or raises the likelihood of another.",
+   "source": "W7 p65"
+  },
+  {
+   "id": "q209",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "predict",
+   "stem": "A wildfire burns a steep watershed. The following winter brings heavy rain. Which hazard becomes much more likely, and why?",
+   "options": [
+    "Liquefaction, as burned soil becomes saturated and loses all its stiffness",
+    "Debris flows, as burned soil repels water and runoff carries sediment away",
+    "Creep, as the loss of trees lets the slope deform slowly over many years",
+    "Rockfall, as heat from the fire cracks the bedrock into loose falling blocks"
+   ],
+   "answer": 1,
+   "rationales": [
+    "Liquefaction needs earthquake shaking of saturated deposits, not rainfall on burned slopes.",
+    "Correct. Fire can leave a water-repellent soil layer, so rain runs off and picks up loose sediment, feeding debris flows.",
+    "Creep is slow, while the fire-then-rain cascade produces fast flows.",
+    "The notes link fire and rain to debris flows, not rockfall."
+   ],
+   "takeaway": "Fire then heavy rain is a classic cascade into debris flows.",
+   "source": "W7 p66–68"
+  },
+  {
+   "id": "q210",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "After an earthquake, a landslide blocks a river valley. Why is this dangerous for towns far downstream?",
+   "options": [
+    "The dam raises groundwater, causing liquefaction in towns far downstream",
+    "The dam triggers aftershocks as the water piling up presses on the fault",
+    "The dam stops the river, so towns downstream lose their flood risk entirely",
+    "The landslide dam can burst suddenly, sending a flood far down the valley"
+   ],
+   "answer": 3,
+   "rationales": [
+    "This is not the mechanism; the threat is a sudden outburst flood.",
+    "The danger is the dam failing, not triggered aftershocks.",
+    "Blocking the river creates a growing lake behind the dam, adding risk.",
+    "Correct. Landslides can dam rivers. When such a dam bursts, the outburst flood can travel very far downstream."
+   ],
+   "takeaway": "Earthquake → landslide dam → outburst flood is a key cascade.",
+   "source": "W7 p78–80"
+  },
+  {
+   "id": "q211",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A large river flood is followed weeks later by broken submarine cables far offshore. Which cascade links the two?",
+   "options": [
+    "The flood fed a turbidity current that raced down a submarine canyon",
+    "The flood raised sea level, lifting the cables until they snapped",
+    "The flood triggered an earthquake that broke the cables on the seafloor",
+    "The flood warmed the sea, making the cables expand until they broke"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. Turbidity currents are submarine debris flows; a river flood can trigger one that travels far along the seafloor, breaking cables in its path.",
+    "Floods do not lift cables off the seafloor.",
+    "No earthquake is needed to explain this cascade.",
+    "This is not a mechanism in the notes."
+   ],
+   "takeaway": "Turbidity currents (submarine debris flows) can be triggered by floods and break seafloor cables.",
+   "source": "W7 p69–70"
+  },
+  {
+   "id": "q212",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "Why do large earthquakes in steep, mountainous terrain often trigger thousands of landslides?",
+   "options": [
+    "Shaking lowers slope angles, so material piles up and then collapses",
+    "Shaking increases friction, so slopes lock in place and later fail at once",
+    "Shaking adds dynamic force, raising the driving force on unstable slopes",
+    "Shaking removes load from the slopes, so the resisting force drops away"
+   ],
+   "answer": 2,
+   "rationales": [
+    "Shaking does not reduce slope angles in this way.",
+    "Shaking reduces resistance rather than locking slopes.",
+    "Correct. Ground shaking adds dynamic forcing that increases the driving force and can dislodge large masses of unstable rock and soil.",
+    "Shaking does not remove load; it adds dynamic force."
+   ],
+   "takeaway": "Earthquake shaking adds dynamic driving force, triggering widespread landslides.",
+   "source": "W7 p12, p77, p81"
+  },
+  {
+   "id": "q213",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "compare",
+   "stem": "A reservoir is filled behind a new dam in a valley with unstable slopes. Which cascade is the main concern?",
+   "options": [
+    "The dam's weight sets off a volcanic eruption that drains the whole reservoir",
+    "The lake lowers nearby groundwater, drying the slopes until they crumble away",
+    "The reservoir cools the valley, freezing the slopes into solid, stable blocks",
+    "Water soaks the slopes, a slide falls into the lake, a wave overtops the dam"
+   ],
+   "answer": 3,
+   "rationales": [
+    "Dams do not trigger eruptions in the notes.",
+    "Filling a reservoir raises nearby water levels rather than lowering them.",
+    "This is not a mechanism in the notes.",
+    "Correct. Raising a reservoir can increase landslide risk; a landslide into the lake displaces water into a wave that can overtop the dam and destroy towns downstream."
+   ],
+   "takeaway": "Reservoirs can trigger landslides that displace water into destructive waves.",
+   "source": "W7 p83–86"
+  },
+  {
+   "id": "q214",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "diagnose",
+   "stem": "A strike-slip earthquake, a type that rarely makes large tsunamis, is followed by a damaging tsunami in a long, narrow bay. What best explains this?",
+   "options": [
+    "Submarine landslides displaced water, and the narrow bay amplified it",
+    "The earthquake was deep, and deep events produce the largest tsunamis",
+    "Liquefaction on land pushed water out to sea, forming the tsunami wave",
+    "Strike-slip faults always uplift the seafloor, so a tsunami was expected"
+   ],
+   "answer": 0,
+   "rationales": [
+    "Correct. The tsunami came from submarine landslides (plus possible seafloor movement), and the narrow bay amplified the wave.",
+    "Shallow, not deep, events are linked with large tsunamis.",
+    "Liquefaction caused landslides on land, but the tsunami came from underwater slides.",
+    "Strike-slip motion is mainly horizontal and does not usually uplift the seafloor."
+   ],
+   "takeaway": "Submarine landslides can turn a strike-slip earthquake into a tsunami disaster.",
+   "source": "W7 p90"
+  },
+  {
+   "id": "q215",
+   "topic": "w07e",
+   "week": 7,
+   "difficulty": 3,
+   "skill": "apply",
+   "stem": "According to the UNDRR view highlighted in the notes, which change would most directly stop a hurricane from becoming a disaster for a town?",
+   "options": [
+    "Relying on natural processes, since disasters are purely natural events",
+    "Reducing the town's vulnerability and making sure it is protected",
+    "Forecasting the hurricane more precisely, with no other action taken",
+    "Reducing the hurricane's physical strength before it reaches the town"
+   ],
+   "answer": 1,
+   "rationales": [
+    "The point of the UNDRR campaign is that there are no natural disasters, only natural hazards.",
+    "Correct. A natural hazard only becomes a disaster when it impacts a community that is not adequately protected and whose population is vulnerable through poverty, exclusion or social disadvantage.",
+    "Forecasts alone do not reduce vulnerability or protection.",
+    "We cannot weaken a hurricane; the notes focus on protection and vulnerability."
+   ],
+   "takeaway": "There are no natural disasters: hazards become disasters through vulnerability and lack of protection.",
+   "source": "W7 p94"
   }
  ]
 }
