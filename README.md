@@ -3,7 +3,7 @@
 A self-quizzing tool for **ES5001/ES7001 Natural Hazards & Society**, covering the lecture notes for Weeks 1–7, 9–11 and 13.
 It runs on the same app as the [BF3122 Carbon Markets quiz](https://github.com/test2run/bf3122-carbon-markets-quiz-2).
 
-**354 multiple-choice questions** (190 of them hard), at least 20 per lecture, plus a set that links hazards across weeks.
+**352 multiple-choice questions** (189 of them hard), at least 20 per lecture, plus a set that links hazards across weeks.
 There is no Week 8 (recess) or Week 12 lecture in the notes this quiz was built from.
 
 Every question tests concepts, mechanisms and how to apply them: telling apart terms that are easy to confuse,
@@ -38,7 +38,7 @@ Mapped to the learning objectives slide of each lecture:
 | 6 | Lava, ash fall & gases · Pyroclastic flows, surges, lahars & collapse · Monitoring volcanoes · Forecasting & hazard zones | 33 |
 | 7 | Forces on a slope · Water, cohesion & liquefaction · Types of mass movement · Monitoring & mitigation · Cascading hazards | 37 |
 | 9 | Weather vs climate · Rising air & clouds · Atmospheric cells, winds & Coriolis · Monsoons, ITCZ, ENSO & IOD | 34 |
-| 10 | Cyclone names & ingredients · Structure · Hazards & impacts · Warning & mitigation · Thunderstorms, lightning & hail | 37 |
+| 10 | Cyclone names & ingredients · Structure · Hazards & impacts · Warning & mitigation · Thunderstorms, lightning & hail | 35 |
 | 11 | Deltas · Storm surge & compound flooding · Drivers of sea-level change · Subsidence · Responding to sea-level rise | 27 |
 | 13 | Greenhouse effect & feedbacks · Extremes & heatwaves · Sea-level rise · Past climate & projections · Peatlands | 25 |
 | Cross-week | Mechanisms that link hazards across the course (fluid pressure, Coriolis, baselines, vulnerability…) | 16 |
