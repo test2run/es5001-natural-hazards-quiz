@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var STORE = "es5001.quiz.v1";
+  var STORE = "es5001.quiz.v2";
   var LETTERS = ["A", "B", "C", "D"];
   var app = document.getElementById("app");
   var DATA = null;
@@ -140,23 +140,16 @@
         (hardCounts[t.id] || 0) + " hard</span></span></label>";
     }).join("");
 
-    var weeks = [];
-    DATA.topics.forEach(function (t) { if (weeks.indexOf(t.week) < 0) weeks.push(t.week); });
-    var weekBtns = weeks.map(function (w) {
-      return '<button type="button" data-sel="w' + esc(w) + '">' + esc(weekLabel(w)) + "</button>";
-    }).join("");
-
     app.innerHTML =
       resumeHtml +
       '<div class="card">' +
-        "<h2>Choose your topics</h2>" +
-        '<p class="hint">Topics follow the learning objectives of each lecture.</p>' +
+        "<h2>Choose your weeks</h2>" +
+        '<p class="hint">One box per set of lecture notes.</p>' +
         '<div class="grid two" id="topicGrid">' + topicRows + "</div>" +
         '<div class="row" style="margin-top:12px">' +
           '<div class="seg">' +
             '<button type="button" data-sel="all">All</button>' +
             '<button type="button" data-sel="none">None</button>' +
-            weekBtns +
           "</div>" +
         "</div>" +
       "</div>" +
@@ -202,9 +195,7 @@
       b.addEventListener("click", function () {
         var k = b.getAttribute("data-sel");
         DATA.topics.forEach(function (t) {
-          if (k === "all") cfg.topics[t.id] = true;
-          else if (k === "none") cfg.topics[t.id] = false;
-          else cfg.topics[t.id] = ("w" + t.week) === k;
+          cfg.topics[t.id] = k === "all";
         });
         renderStart();
       });

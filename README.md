@@ -18,15 +18,15 @@ gives nothing away. Answer positions A–D are evenly spread.
 
 ## Using it
 
-Pick topics (or a week), choose **Instant** feedback for learning or **Exam** mode to simulate the real
+Tick the weeks you want (one box per set of lecture notes), choose **Instant** feedback for learning or **Exam** mode to simulate the real
 thing, and go. You can navigate backwards. At the end you get a per-topic breakdown and a full review with a
 rationale for *every* option, including why the near-miss distractors are wrong.
 
 Keyboard: <kbd>1</kbd>–<kbd>4</kbd> to answer, <kbd>←</kbd> <kbd>→</kbd> to move.
 
-## Topics
+## Weeks
 
-Mapped to the learning objectives slide of each lecture:
+One selectable topic per set of lecture notes (one PDF each). Week 8 and Week 12 have no notes:
 
 | Week | Topics | Qs |
 |---|---|---|
